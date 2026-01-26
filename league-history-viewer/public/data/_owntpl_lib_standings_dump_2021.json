@@ -1,0 +1,180 @@
+[
+  {
+    "team_key": "406.l.787594.t.4",
+    "name": "MAGAroppolo",
+    "rank": 1,
+    "playoff_seed": "1",
+    "outcome_totals": {
+      "wins": "10",
+      "losses": "5",
+      "ties": 0,
+      "percentage": ".667"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1473.04",
+    "points_against": 1427.4
+  },
+  {
+    "team_key": "406.l.787594.t.8",
+    "name": "The Flea Flickers",
+    "rank": 2,
+    "playoff_seed": "3",
+    "outcome_totals": {
+      "wins": "8",
+      "losses": "7",
+      "ties": 0,
+      "percentage": ".533"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1609.88",
+    "points_against": 1532.6200000000001
+  },
+  {
+    "team_key": "406.l.787594.t.5",
+    "name": "My Ball Zach Ertz",
+    "rank": 3,
+    "playoff_seed": "2",
+    "outcome_totals": {
+      "wins": "9",
+      "losses": "6",
+      "ties": 0,
+      "percentage": ".600"
+    },
+    "streak": {
+      "type": "win",
+      "value": "2"
+    },
+    "points_for": "1715.66",
+    "points_against": 1653.6399999999999
+  },
+  {
+    "team_key": "406.l.787594.t.2",
+    "name": "Beartown Beasts",
+    "rank": 4,
+    "playoff_seed": "4",
+    "outcome_totals": {
+      "wins": "8",
+      "losses": "7",
+      "ties": 0,
+      "percentage": ".533"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "3"
+    },
+    "points_for": "1558.36",
+    "points_against": 1593.7800000000002
+  },
+  {
+    "team_key": "406.l.787594.t.9",
+    "name": "Brees Nutz",
+    "rank": 5,
+    "playoff_seed": "5",
+    "outcome_totals": {
+      "wins": "8",
+      "losses": "7",
+      "ties": 0,
+      "percentage": ".533"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1506.22",
+    "points_against": 1548.04
+  },
+  {
+    "team_key": "406.l.787594.t.1",
+    "name": "Meh",
+    "rank": 6,
+    "playoff_seed": "6",
+    "outcome_totals": {
+      "wins": "7",
+      "losses": "8",
+      "ties": 0,
+      "percentage": ".467"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1533.34",
+    "points_against": 1523.8
+  },
+  {
+    "team_key": "406.l.787594.t.10",
+    "name": "Tuacanplayatthat",
+    "rank": 7,
+    "playoff_seed": "7",
+    "outcome_totals": {
+      "wins": "7",
+      "losses": "8",
+      "ties": 0,
+      "percentage": ".467"
+    },
+    "streak": {
+      "type": "win",
+      "value": "4"
+    },
+    "points_for": "1524.50",
+    "points_against": 1477.0800000000002
+  },
+  {
+    "team_key": "406.l.787594.t.6",
+    "name": "PAT's the way uh-huh I like it",
+    "rank": 8,
+    "playoff_seed": "8",
+    "outcome_totals": {
+      "wins": "7",
+      "losses": "8",
+      "ties": 0,
+      "percentage": ".467"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1493.20",
+    "points_against": 1472.1799999999998
+  },
+  {
+    "team_key": "406.l.787594.t.7",
+    "name": "Shelfadelphia Eagles",
+    "rank": "9",
+    "outcome_totals": {
+      "wins": "6",
+      "losses": "9",
+      "ties": 0,
+      "percentage": ".400"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1406.30",
+    "points_against": 1468.5999999999997
+  },
+  {
+    "team_key": "406.l.787594.t.3",
+    "name": "Last Chance Nu'u",
+    "rank": "10",
+    "outcome_totals": {
+      "wins": "5",
+      "losses": "10",
+      "ties": 0,
+      "percentage": ".333"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "7"
+    },
+    "points_for": "1382.10",
+    "points_against": 1505.4599999999998
+  }
+]

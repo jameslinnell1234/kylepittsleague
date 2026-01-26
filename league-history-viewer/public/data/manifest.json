@@ -1,6 +1,10 @@
 {
   "seasons": [
     {
+      "year": 2025,
+      "draft": "/data/draft_results_2025.csv"
+    },
+    {
       "year": 2024,
       "draft": "/data/draft_results_2024.csv"
     },

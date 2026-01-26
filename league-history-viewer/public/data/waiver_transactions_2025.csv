@@ -1,0 +1,402 @@
+season,date,type,player,position,nfl,from_team,to_team,note
+2025,"Aug 31, 3:10 am",add,Wil Lutz,K,Den,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Aug 31, 3:11 am",add,Cincinnati,DEF,Cin,Waivers,Grease the Breece,Waiver
+2025,"Aug 31, 3:11 am",add,Mike Gesicki,TE,Cin,Waivers,My Ball Zach Ertz,Waiver
+2025,"Aug 31, 3:11 am",add,Tre' Harris,WR,LAC,Waivers,Never Starting Najee,Waiver
+2025,"Aug 31, 3:26 am",add,Arizona,DEF,Ari,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Aug 31, 4:25 am",add,Christian Kirk,WR,Hou,Free Agent,Drake it til you make it,Free Agent
+2025,"Aug 31, 6:14 am",add,New England,DEF,NE,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Dec 1, 4:00 am",drop,Michael Wilson,WR,Ari,Waivers,Drake it til you make it,To Waivers
+2025,"Dec 10, 3:58 am",add,Jayden Higgins,WR,Hou,Waivers,Whole lotta Hurts,Waiver
+2025,"Dec 10, 3:58 am",add,Jaylen Wright,RB,Mia,Waivers,Belichick Daycare Centre,Waiver
+2025,"Dec 10, 3:58 am",add,Sam Darnold,QB,Sea,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Dec 10, 4:36 am",add,Bears,DEF,Chi,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Dec 10, 4:36 am",add,Chicago,DEF,Chi,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Dec 10, 4:37 am",add,Evan McPherson,K,Cin,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Dec 11, 3:37 pm",add,Theo Johnson,TE,NYG,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Dec 12, 3:52 pm",add,Isaiah Likely,TE,Bal,Free Agent,Dak to the Future,Free Agent
+2025,"Dec 13, 5:06 pm",drop,Brandon Aiyuk,WR,SF,Waivers,Whole lotta Hurts,To Waivers
+2025,"Dec 15, 4:23 pm",drop,Jayden Daniels,QB,Was,Waivers,Dak to the Future,To Waivers
+2025,"Dec 16, 4:19 am",drop,Isaiah Likely,TE,Bal,Waivers,Dak to the Future,To Waivers
+2025,"Dec 16, 5:07 pm",drop,Bam Knight,RB,Ari,Waivers,Drake it til you make it,To Waivers
+2025,"Dec 17, 10:27 am",add,Tee Higgins,WR,Cin,Free Agent,Whole lotta Hurts,Free Agent Added ( by Commissioner )
+2025,"Dec 17, 10:41 am",add,Ravens,DEF,Bal,Free Agent,San Franshelfo 49ers,Free Agent
+2025,"Dec 17, 10:43 am",add,Philip Rivers,QB,Ind,Free Agent,San Franshelfo 49ers,Free Agent
+2025,"Dec 17, 3:55 am",add,Bills,DEF,Buf,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Dec 17, 3:55 am",add,Brandon McManus,K,GB,Waivers,Drake it til you make it,Waiver
+2025,"Dec 17, 3:55 am",add,Colby Parkinson,TE,LAR,Waivers,Drake it til you make it,Waiver
+2025,"Dec 17, 3:55 am",add,Jawhar Jordan,RB,Hou,Waivers,Whole lotta Hurts,Waiver
+2025,"Dec 17, 3:55 am",add,Michael Carter,RB,Ari,Waivers,Drake it til you make it,Waiver
+2025,"Dec 17, 3:55 am",add,Myles Price,WR,Min,Waivers,Drake it til you make it,Waiver
+2025,"Dec 17, 3:55 am",add,Tank Bigsby,RB,Phi,Waivers,Whole lotta Hurts,Waiver
+2025,"Dec 19, 4:31 pm",add,Nick Chubb,RB,Hou,Free Agent,Dak to the Future,Free Agent
+2025,"Dec 19, 4:35 pm",add,Vikings,DEF,Min,Free Agent,Dak to the Future,Free Agent
+2025,"Dec 19, 5:09 pm",add,Jalen Coker,WR,Car,Free Agent,Drake it til you make it,Free Agent
+2025,"Dec 2, 11:09 am",drop,Theo Johnson,TE,NYG,Waivers,Whole lotta Hurts,To Waivers
+2025,"Dec 21, 5:41 am",add,Audric Estime,RB,NO,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Dec 24, 3:59 am",add,Brenton Strange,TE,Jax,Waivers,Drake it til you make it,Waiver
+2025,"Dec 24, 3:59 am",add,Dallas Goedert,TE,Phi,Waivers,San Franshelfo 49ers,Waiver
+2025,"Dec 24, 3:59 am",add,Giants,DEF,NYG,Waivers,Drake it til you make it,Waiver
+2025,"Dec 24, 3:59 am",add,Jacory Croskey-Merritt,RB,Was,Waivers,Dak to the Future,Waiver
+2025,"Dec 24, 3:59 am",add,Malik Washington,WR,Mia,Waivers,Dak to the Future,Waiver
+2025,"Dec 24, 3:59 am",add,Ray Davis,RB,Buf,Waivers,Dak to the Future,Waiver
+2025,"Dec 24, 4:01 am",add,AJ Barner,TE,Sea,Free Agent,Dak to the Future,Free Agent
+2025,"Dec 24, 5:54 pm",add,Alec Pierce,WR,Ind,Free Agent,Dak to the Future,Free Agent
+2025,"Dec 24, 5:54 pm",add,Dylan Sampson,RB,Cle,Free Agent,Dak to the Future,Free Agent
+2025,"Dec 25, 12:49 pm",add,Harrison Mevis,K,LAR,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Dec 25, 2:06 pm",add,Dalton Schultz,TE,Hou,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Dec 3, 4:00 pm",drop,Joe Mixon,RB,Hou,Waivers,My Ball Zach Ertz,To Waivers
+2025,"Dec 3, 4:20 am",add,Bam Knight,RB,Ari,Waivers,Drake it til you make it,Waiver
+2025,"Dec 3, 4:20 am",add,Blake Corum,RB,LAR,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Dec 3, 4:20 am",add,Darren Waller,TE,Mia,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Dec 3, 4:20 am",add,Devin Singletary,RB,NYG,Waivers,Drake it til you make it,Waiver
+2025,"Dec 3, 4:20 am",add,Keaton Mitchell,RB,Bal,Waivers,Dak to the Future,Waiver
+2025,"Dec 3, 4:20 am",add,Los Angeles Chargers,DEF,LAC,Waivers,Grease the Breece,Waiver
+2025,"Dec 3, 4:20 am",add,Luther Burden III,WR,Chi,Waivers,Whole lotta Hurts,Waiver
+2025,"Dec 3, 4:20 am",add,Mike Evans,WR,TB,Waivers,My Ball Zach Ertz,Waiver
+2025,"Dec 3, 4:20 am",add,Minnesota,DEF,Min,Waivers,Drake it til you make it,Waiver
+2025,"Dec 3, 4:20 am",add,New Orleans,DEF,NO,Waivers,Never Starting Najee,Waiver
+2025,"Dec 3, 4:20 am",add,Zach Ertz,TE,Was,Waivers,Belichick Daycare Centre,Waiver
+2025,"Dec 3, 4:29 am",add,Adonai Mitchell,WR,NYJ,Free Agent,Belichick Daycare Centre,Free Agent
+2025,"Dec 4, 1:25 pm",add,Dallas,DEF,Dal,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Dec 4, 2:53 am",add,Jayden Daniels,QB,Was,Free Agent,Dak to the Future,Free Agent
+2025,"Dec 4, 2:56 am",add,Nick Chubb,RB,Hou,Free Agent,Drake it til you make it,Free Agent
+2025,"Dec 4, 3:40 am",add,Mason Taylor,TE,NYJ,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Dec 4, 4:55 pm",add,Myles Price,WR,Min,Free Agent,Dak to the Future,Free Agent
+2025,"Dec 6, 3:25 am",add,Michael Wilson,WR,Ari,Free Agent,Drake it til you make it,Free Agent
+2025,"Dec 6, 3:48 am",add,Colston Loveland,TE,Chi,Waivers,Dak to the Future,Waiver
+2025,"Dec 7, 11:08 am",add,Harrison Butker,K,KC,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Dec 7, 12:38 pm",add,Tyjae Spears,RB,Ten,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Dec 7, 3:15 am",add,Troy Franklin,WR,Den,Waivers,The Flea Flickers,Waiver
+2025,"Dec 7, 9:49 am",add,Chiefs,DEF,KC,Free Agent,Drake it til you make it,Free Agent
+2025,"Dec 7, 9:49 am",add,Kansas City,DEF,KC,Free Agent,Drake it til you make it,Free Agent
+2025,"Dec 9, 4:29 am",drop,Daniel Jones,QB,Ind,Waivers,Strength of Schedule 49ers,To Waivers
+2025,"Nov 1, 12:04 pm",add,Emanuel Wilson,RB,GB,Free Agent,Drake it til you make it,Free Agent
+2025,"Nov 1, 3:27 am",add,Indianapolis,DEF,Ind,Waivers,My Ball Zach Ertz,Waiver
+2025,"Nov 1, 3:27 am",add,Zach Ertz,TE,Was,Waivers,Dak to the Future,Waiver
+2025,"Nov 10, 11:34 am",drop,DeMario Douglas,WR,NE,Waivers,Whole lotta Hurts,To Waivers
+2025,"Nov 11, 7:48 am",drop,Cairo Santos,K,Chi,Waivers,Dak to the Future,To Waivers
+2025,"Nov 11, 8:09 am",drop,Isiah Pacheco,RB,KC,Waivers,Drake it til you make it,To Waivers
+2025,"Nov 12, 11:34 am",add,C.J. Stroud,QB,Hou,Free Agent,Never Starting Najee,Free Agent
+2025,"Nov 12, 1:37 am",drop,Greg Dortch,WR,Ari,Waivers,Whole lotta Hurts,To Waivers
+2025,"Nov 12, 3:55 am",add,Atlanta,DEF,Atl,Waivers,Drake it til you make it,Waiver
+2025,"Nov 12, 3:55 am",add,Cam Little,K,Jax,Waivers,Belichick Daycare Centre,Waiver
+2025,"Nov 12, 3:55 am",add,Dalton Schultz,TE,Hou,Waivers,Whole lotta Hurts,Waiver
+2025,"Nov 12, 3:55 am",add,Green Bay,DEF,GB,Waivers,Grease the Breece,Waiver
+2025,"Nov 12, 3:55 am",add,Jacory Croskey-Merritt,RB,Was,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Nov 12, 3:55 am",add,Mack Hollins,WR,NE,Waivers,Unsolicited Nix Pics,Waiver
+2025,"Nov 12, 3:55 am",add,San Francisco,DEF,SF,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Nov 12, 3:55 am",add,Tez Johnson,WR,TB,Waivers,Dak to the Future,Waiver
+2025,"Nov 12, 4:02 am",add,Jayden Reed,WR,GB,Free Agent,Drake it til you make it,Free Agent
+2025,"Nov 12, 8:48 am",add,Theo Johnson,TE,NYG,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Nov 13, 10:29 pm",add,Miami,DEF,Mia,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Nov 13, 1:56 pm",add,Los Angeles Chargers,DEF,LAC,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Nov 13, 3:54 am",transaction,Grease the Breece,,,,,
+2025,"Nov 13, 3:54 am",drop,Harrison Butker,K,KC,Waivers,The Flea Flickers,To Waivers
+2025,"Nov 13, 3:54 am",transaction,Kenneth Walker III,RB,Sea,,,
+2025,"Nov 13, 3:54 am",transaction,Tetairoa McMillan,WR,Car,,,
+2025,"Nov 13, 3:54 am",transaction,Whole lotta Hurts,,,,,
+2025,"Nov 14, 3:43 am",add,Isiah Pacheco,RB,KC,Waivers,San Franshelfo 49ers,Waiver
+2025,"Nov 14, 3:44 am",add,Greg Dortch,WR,Ari,Free Agent,The Flea Flickers,Free Agent
+2025,"Nov 15, 2:21 am",add,Chris Rodriguez Jr.,RB,Was,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 15, 2:21 am",add,Daniel Carlson,K,LV,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 15, 3:12 am",add,Tank Bigsby,RB,Phi,Waivers,Unsolicited Nix Pics,Waiver
+2025,"Nov 15, 4:17 pm",add,Pat Freiermuth,TE,Pit,Free Agent,San Franshelfo 49ers,Free Agent
+2025,"Nov 15, 5:36 am",add,Dallas,DEF,Dal,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 16, 11:46 am",add,Aaron Rodgers,QB,Pit,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Nov 16, 3:27 am",drop,J.K. Dobbins,RB,Den,Waivers,Unsolicited Nix Pics,To Waivers
+2025,"Nov 16, 8:28 am",add,Matt Prater,K,Buf,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Nov 18, 1:42 pm",drop,Aaron Rodgers,QB,Pit,Waivers,Strength of Schedule 49ers,To Waivers
+2025,"Nov 18, 3:27 am",add,Ricky Pearsall,WR,SF,Free Agent,Whole lotta Hurts,Trade
+2025,"Nov 18, 3:27 am",add,Tetairoa McMillan,WR,Car,Free Agent,Unsolicited Nix Pix,Trade
+2025,"Nov 18, 4:21 am",drop,Calvin Ridley,WR,Ten,Waivers,Unsolicited Nix Pics,To Waivers
+2025,"Nov 18, 4:21 am",drop,Marcus Mariota,QB,Was,Waivers,Unsolicited Nix Pics,To Waivers
+2025,"Nov 18, 5:23 pm",drop,Theo Johnson,TE,NYG,Waivers,Whole lotta Hurts,To Waivers
+2025,"Nov 19, 1:08 pm",add,Michael Wilson,WR,Ari,Free Agent,Drake it til you make it,Free Agent
+2025,"Nov 19, 3:57 am",add,Bam Knight,RB,Ari,Waivers,Drake it til you make it,Waiver
+2025,"Nov 19, 3:57 am",add,Chris Godwin Jr.,WR,TB,Waivers,San Franshelfo 49ers,Waiver
+2025,"Nov 19, 3:57 am",add,Christian Watson,WR,GB,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Nov 19, 3:57 am",add,Cleveland,DEF,Cle,Waivers,Whole lotta Hurts,Waiver
+2025,"Nov 19, 3:57 am",add,Emanuel Wilson,RB,GB,Waivers,Unsolicited Nix Pics,Waiver
+2025,"Nov 19, 3:57 am",add,Harold Fannin Jr.,TE,Cle,Waivers,Grease the Breece,Waiver
+2025,"Nov 19, 3:57 am",add,Myles Price,WR,Min,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Nov 19, 3:58 am",add,Buffalo,DEF,Buf,Free Agent,Belichick Daycare Centre,Free Agent
+2025,"Nov 19, 4:46 am",add,Jacoby Brissett,QB,Ari,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 2, 9:04 am",add,Jacoby Brissett,QB,Ari,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Nov 20, 2:04 pm",add,Detroit,DEF,Det,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 20, 2:18 pm",add,Andy Borregales,K,NE,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Nov 20, 2:19 pm",add,Jacksonville,DEF,Jax,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Nov 20, 2:38 pm",add,Las Vegas,DEF,LV,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Nov 20, 2:59 pm",add,Kyle Pitts Sr.,TE,Atl,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Nov 20, 3:00 pm",add,Philadelphia,DEF,Phi,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Nov 20, 3:27 am",add,Ashton Jeanty,RB,LV,Free Agent,Grease the Breece,Trade
+2025,"Nov 20, 3:27 am",add,Justin Herbert,QB,LAC,Free Agent,Unsolicited Nix Pix,Trade
+2025,"Nov 20, 3:27 am",add,Saquon Barkley,RB,Phi,Free Agent,Whole lotta Hurts,Trade
+2025,"Nov 20, 3:27 am",add,Travis Kelce,TE,KC,Free Agent,San Franshelfo 49ers,Trade
+2025,"Nov 20, 3:27 am",add,Tyler Allgeier,RB,Atl,Free Agent,Unsolicited Nix Pix,Trade
+2025,"Nov 20, 5:00 am",add,Keaton Mitchell,RB,Bal,Free Agent,Dak to the Future,Free Agent
+2025,"Nov 21, 3:31 am",transaction,Justin Herbert,QB,LAC,,,
+2025,"Nov 21, 3:31 am",transaction,San Franshelfo 49ers,,,,,
+2025,"Nov 21, 9:06 am",add,Tyjae Spears,RB,Ten,Free Agent,Drake it til you make it,Free Agent
+2025,"Nov 22, 3:35 am",add,Devin Singletary,RB,NYG,Waivers,Dak to the Future,Waiver
+2025,"Nov 22, 3:35 am",transaction,Grease the Breece,,,,,
+2025,"Nov 22, 3:35 am",transaction,Saquon Barkley,RB,Phi,,,
+2025,"Nov 23, 6:07 am",add,Cairo Santos,K,Chi,Free Agent,Never Starting Najee,Free Agent
+2025,"Nov 26, 3:55 am",add,Brenton Strange,TE,Jax,Waivers,Drake it til you make it,Waiver
+2025,"Nov 26, 3:55 am",add,Devin Neal,RB,NO,Waivers,Never Starting Najee,Waiver
+2025,"Nov 26, 3:55 am",add,Dylan Sampson,RB,Cle,Waivers,Dak to the Future,Waiver
+2025,"Nov 26, 3:55 am",add,Jayden Higgins,WR,Hou,Waivers,Whole lotta Hurts,Waiver
+2025,"Nov 26, 3:55 am",add,John Metchie III,WR,NYJ,Waivers,Belichick Daycare Centre,Waiver
+2025,"Nov 26, 3:55 am",add,Ka'imi Fairbairn,K,Hou,Waivers,San Franshelfo 49ers,Waiver
+2025,"Nov 26, 3:55 am",add,Keenan Allen,WR,LAC,Waivers,San Franshelfo 49ers,Waiver
+2025,"Nov 26, 3:55 am",add,Los Angeles Rams,DEF,LAR,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Nov 26, 3:55 am",add,Mike Gesicki,TE,Cin,Waivers,Drake it til you make it,Waiver
+2025,"Nov 26, 3:55 am",add,Ray Davis,RB,Buf,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Nov 26, 3:55 am",add,San Francisco,DEF,SF,Waivers,Grease the Breece,Waiver
+2025,"Nov 26, 4:57 am",add,Indianapolis,DEF,Ind,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 26, 4:57 am",drop,Jayden Daniels,QB,Was,Waivers,Unsolicited Nix Pics,To Waivers
+2025,"Nov 27, 12:49 pm",drop,Mason Taylor,TE,NYJ,Waivers,PAT's the way uh-huh I like it,To Waivers
+2025,"Nov 28, 12:19 pm",add,Cameron Dicker,K,LAC,Free Agent,Never Starting Najee,Free Agent
+2025,"Nov 29, 12:46 pm",add,Theo Johnson,TE,NYG,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Nov 3, 4:41 am",add,Harold Fannin Jr.,TE,Cle,Free Agent,Drake it til you make it,Free Agent
+2025,"Nov 5, 11:07 pm",add,Brian Robinson Jr.,RB,SF,Free Agent,Drake it til you make it,Free Agent
+2025,"Nov 5, 12:51 pm",add,Ray Davis,RB,Buf,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Nov 5, 12:58 pm",add,Rachaad White,RB,TB,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Nov 5, 1:43 pm",add,Carolina,DEF,Car,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Nov 5, 3:03 pm",add,Darius Slayton,WR,NYG,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 5, 3:04 pm",add,Juwan Johnson,TE,NO,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 5, 3:05 pm",add,Tre Tucker,WR,LV,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 5, 3:05 pm",add,Ty Johnson,RB,Buf,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 5, 3:06 pm",add,Buffalo,DEF,Buf,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Nov 5, 3:44 am",add,Alec Pierce,WR,Ind,Waivers,Whole lotta Hurts,Waiver
+2025,"Nov 5, 3:44 am",add,Baltimore,DEF,Bal,Waivers,Never Starting Najee,Waiver
+2025,"Nov 5, 3:44 am",add,Bryce Young,QB,Car,Waivers,My Ball Zach Ertz,Waiver
+2025,"Nov 5, 3:44 am",add,Chase McLaughlin,K,TB,Waivers,The Flea Flickers,Waiver
+2025,"Nov 5, 3:44 am",add,Cleveland,DEF,Cle,Waivers,Drake it til you make it,Waiver
+2025,"Nov 5, 3:44 am",add,Colston Loveland,TE,Chi,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Nov 5, 3:44 am",add,Devin Singletary,RB,NYG,Waivers,Drake it til you make it,Waiver
+2025,"Nov 5, 3:44 am",add,Emari Demercado,RB,Ari,Waivers,My Ball Zach Ertz,Waiver
+2025,"Nov 5, 3:44 am",add,J.J. McCarthy,QB,Min,Waivers,Never Starting Najee,Waiver
+2025,"Nov 5, 3:44 am",add,Luke Musgrave,TE,GB,Waivers,San Franshelfo 49ers,Waiver
+2025,"Nov 5, 3:44 am",add,Tampa Bay,DEF,TB,Waivers,Dak to the Future,Waiver
+2025,"Nov 5, 3:58 pm",add,Trevor Lawrence,QB,Jax,Free Agent,Grease the Breece,Free Agent
+2025,"Nov 5, 3:59 pm",add,Brock Purdy,QB,SF,Free Agent,Grease the Breece,Free Agent
+2025,"Nov 5, 4:06 pm",add,Parker Washington,WR,Jax,Free Agent,Grease the Breece,Free Agent
+2025,"Nov 6, 3:14 am",add,Theo Johnson,TE,NYG,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Nov 7, 3:27 am",add,Omarion Hampton,RB,LAC,Free Agent,Strength of Schedule 49ers,Trade
+2025,"Nov 7, 3:27 am",add,Rashid Shaheed,WR,Sea,Free Agent,Strength of Schedule 49ers,Trade
+2025,"Nov 7, 3:27 am",drop,Tez Johnson,WR,TB,Waivers,Grease the Breece,To Waivers
+2025,"Nov 7, 3:27 am",add,TreVeyon Henderson,RB,NE,Free Agent,Grease the Breece,Trade
+2025,"Nov 7, 3:27 am",add,Zay Flowers,WR,Bal,Free Agent,Grease the Breece,Trade
+2025,"Nov 7, 4:19 pm",add,Cairo Santos,K,Chi,Free Agent,Dak to the Future,Free Agent
+2025,"Nov 7, 4:37 am",add,Jason Myers,K,Sea,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Nov 8, 2:03 am",add,Jacory Croskey-Merritt,RB,Was,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Nov 8, 3:27 am",add,Baker Mayfield,QB,TB,Free Agent,Grease the Breece,Trade
+2025,"Nov 8, 3:27 am",add,Detroit,DEF,Det,Waivers,Grease the Breece,Waiver
+2025,"Nov 8, 3:27 am",add,Kenneth Walker III,RB,Sea,Free Agent,The Flea Flickers,Trade
+2025,"Nov 8, 3:27 am",add,Los Angeles Rams,DEF,LAR,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Nov 8, 3:27 am",add,Trevor Lawrence,QB,Jax,Free Agent,The Flea Flickers,Trade
+2025,"Nov 8, 3:27 am",add,Will Reichard,K,Min,Waivers,San Franshelfo 49ers,Waiver
+2025,"Nov 8, 3:29 am",add,Pittsburgh,DEF,Pit,Free Agent,San Franshelfo 49ers,Free Agent
+2025,"Nov 8, 7:49 pm",add,Cade Otton,TE,TB,Free Agent,Drake it til you make it,Free Agent
+2025,"Nov 9, 1:12 pm",add,Brandon McManus,K,GB,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Nov 9, 5:04 am",add,DeMario Douglas,WR,NE,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Nov 9, 5:05 am",add,Greg Dortch,WR,Ari,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Oct 1, 1:23 pm",add,Emari Demercado,RB,Ari,Free Agent,Never Starting Najee,Free Agent
+2025,"Oct 1, 3:39 am",add,Arizona,DEF,Ari,Waivers,Dak to the Future,Waiver
+2025,"Oct 1, 3:39 am",add,Chase McLaughlin,K,TB,Waivers,San Franshelfo 49ers,Waiver
+2025,"Oct 1, 3:39 am",add,Cleveland,DEF,Cle,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Oct 1, 3:39 am",add,Dalton Schultz,TE,Hou,Waivers,The Flea Flickers,Waiver
+2025,"Oct 1, 3:39 am",add,Darren Waller,TE,Mia,Waivers,Never Starting Najee,Waiver
+2025,"Oct 1, 3:39 am",add,Jaxson Dart,QB,NYG,Waivers,Belichick Daycare Centre,Waiver
+2025,"Oct 1, 3:39 am",add,Justice Hill,RB,Bal,Waivers,Unsolicited Nix Pics,Waiver
+2025,"Oct 1, 3:39 am",add,Luke McCaffrey,WR,Was,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Oct 1, 3:39 am",add,Rachaad White,RB,TB,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Oct 1, 3:39 am",add,Spencer Shrader,K,Ind,Waivers,Whole lotta Hurts,Waiver
+2025,"Oct 1, 3:43 am",add,Mason Taylor,TE,NYJ,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Oct 1, 3:53 am",add,Romeo Doubs,WR,GB,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Oct 1, 4:01 am",add,Jerome Ford,RB,Cle,Free Agent,The Flea Flickers,Free Agent
+2025,"Oct 1, 4:13 am",add,Tyler Bass,K,Buf,Free Agent,Grease the Breece,Free Agent
+2025,"Oct 1, 4:14 am",add,Jake Elliott,K,Phi,Free Agent,Grease the Breece,Free Agent
+2025,"Oct 1, 4:22 am",add,New Orleans,DEF,NO,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 1, 4:23 am",add,Darius Slayton,WR,NYG,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 1, 6:09 am",add,Emanuel Wilson,RB,GB,Free Agent,Never Starting Najee,Free Agent
+2025,"Oct 10, 1:15 pm",add,AJ Barner,TE,Sea,Free Agent,Dak to the Future,Free Agent
+2025,"Oct 10, 2:50 pm",add,Nick Folk,K,NYJ,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Oct 11, 4:42 pm",add,Los Angeles Chargers,DEF,LAC,Free Agent,Grease the Breece,Free Agent
+2025,"Oct 11, 4:53 pm",add,Kimani Vidal,RB,LAC,Free Agent,Belichick Daycare Centre,Free Agent
+2025,"Oct 12, 5:03 am",add,Trevor Lawrence,QB,Jax,Free Agent,Grease the Breece,Free Agent
+2025,"Oct 12, 5:42 am",add,Wil Lutz,K,Den,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 12, 5:44 am",add,Los Angeles Rams,DEF,LAR,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 14, 3:21 am",add,Breece Hall,RB,NYJ,Free Agent,Strength of Schedule 49ers,Trade
+2025,"Oct 14, 3:21 am",add,Quintin Johnston,WR,LAC,Free Agent,Strength of Schedule 49ers,Trade
+2025,"Oct 14, 3:21 am",add,Saquon Barkley,RB,Phi,Free Agent,Grease the Breece,Trade
+2025,"Oct 15, 3:33 am",add,Atlanta,DEF,Atl,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Oct 15, 3:33 am",add,Cade Otton,TE,TB,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Oct 15, 3:33 am",add,Chicago,DEF,Chi,Waivers,San Franshelfo 49ers,Waiver
+2025,"Oct 15, 3:33 am",add,Chris Boswell,K,Pit,Waivers,Drake it til you make it,Waiver
+2025,"Oct 15, 3:33 am",add,Jake Tonges,TE,SF,Waivers,Belichick Daycare Centre,Waiver
+2025,"Oct 15, 3:33 am",add,Jerry Jeudy,WR,Cle,Waivers,Never Starting Najee,Waiver
+2025,"Oct 15, 3:33 am",add,Joe Flacco,QB,Cin,Waivers,Belichick Daycare Centre,Waiver
+2025,"Oct 15, 3:33 am",add,Kansas City,DEF,KC,Waivers,Unsolicited Nix Pics,Waiver
+2025,"Oct 15, 3:33 am",add,Luther Burden III,WR,Chi,Waivers,Whole lotta Hurts,Waiver
+2025,"Oct 15, 3:33 am",add,Miami,DEF,Mia,Waivers,The Flea Flickers,Waiver
+2025,"Oct 15, 3:33 am",add,Sam Darnold,QB,Sea,Waivers,Dak to the Future,Waiver
+2025,"Oct 15, 3:33 am",add,Tez Johnson,WR,TB,Waivers,Grease the Breece,Waiver
+2025,"Oct 15, 4:43 am",add,Jalen Coker,WR,Car,Free Agent,Drake it til you make it,Free Agent
+2025,"Oct 15, 9:19 am",add,Josh Downs,WR,Ind,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 16, 7:04 pm",add,Bam Knight,RB,Ari,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Oct 17, 1:05 pm",add,Dylan Sampson,RB,Cle,Free Agent,Dak to the Future,Free Agent
+2025,"Oct 17, 7:03 am",add,Luke McCaffrey,WR,Was,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Oct 18, 3:29 am",add,Darnell Mooney,WR,Atl,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 18, 3:29 am",add,Elic Ayomanor,WR,Ten,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 18, 4:42 pm",add,Sean Tucker,RB,TB,Free Agent,Dak to the Future,Free Agent
+2025,"Oct 19, 4:55 am",add,Mason Taylor,TE,NYJ,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Oct 19, 5:00 am",add,Carolina,DEF,Car,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Oct 2, 1:19 am",add,Matthew Stafford,QB,LAR,Free Agent,The Flea Flickers,Free Agent
+2025,"Oct 2, 1:25 pm",add,Jake Tonges,TE,SF,Free Agent,Drake it til you make it,Free Agent
+2025,"Oct 2, 1:42 am",add,Michael Carter,RB,Ari,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 2, 1:45 am",add,Kendrick Bourne,WR,SF,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 2, 8:05 am",add,Brashard Smith,RB,KC,Free Agent,Dak to the Future,Free Agent
+2025,"Oct 22, 1:15 pm",add,Aaron Rodgers,QB,Pit,Free Agent,Never Starting Najee,Free Agent
+2025,"Oct 22, 3:32 am",add,Brashard Smith,RB,KC,Waivers,Unsolicited Nix Pics,Waiver
+2025,"Oct 22, 3:32 am",add,C.J. Stroud,QB,Hou,Waivers,Grease the Breece,Waiver
+2025,"Oct 22, 3:32 am",add,Dylan Sampson,RB,Cle,Waivers,Drake it til you make it,Waiver
+2025,"Oct 22, 3:32 am",add,Houston,DEF,Hou,Waivers,The Flea Flickers,Waiver
+2025,"Oct 22, 3:32 am",add,Kayshon Boutte,WR,NE,Waivers,Dak to the Future,Waiver
+2025,"Oct 22, 3:32 am",add,Kyle Monangai,RB,Chi,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Oct 22, 3:32 am",add,Kyle Pitts Sr.,TE,Atl,Waivers,Never Starting Najee,Waiver
+2025,"Oct 22, 3:32 am",add,Michael Penix Jr.,QB,Atl,Waivers,PAT's the way uh-huh I like it,Waiver
+2025,"Oct 22, 3:32 am",add,Oronde Gadsden,TE,LAC,Waivers,My Ball Zach Ertz,Waiver
+2025,"Oct 22, 3:32 am",add,Parker Romo,K,Atl,Waivers,My Ball Zach Ertz,Waiver
+2025,"Oct 22, 3:32 am",add,Philadelphia,DEF,Phi,Waivers,Drake it til you make it,Waiver
+2025,"Oct 22, 3:32 am",add,Romeo Doubs,WR,GB,Waivers,The Flea Flickers,Waiver
+2025,"Oct 22, 3:32 am",add,T.J. Hockenson,TE,Min,Waivers,San Franshelfo 49ers,Waiver
+2025,"Oct 22, 3:32 am",add,Tampa Bay,DEF,TB,Waivers,Whole lotta Hurts,Waiver
+2025,"Oct 22, 3:47 am",add,Michael Badgley,K,Ind,Free Agent,Belichick Daycare Centre,Free Agent
+2025,"Oct 22, 4:30 pm",add,Joey Slye,K,Ten,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Oct 22, 5:12 am",add,Buffalo,DEF,Buf,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Oct 22, 5:37 am",add,Ka'imi Fairbairn,K,Hou,Free Agent,San Franshelfo 49ers,Free Agent
+2025,"Oct 23, 3:34 am",add,Marcus Mariota,QB,Was,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 24, 4:20 am",add,Sean Tucker,RB,TB,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Oct 24, 4:20 am",add,Tyrone Tracy Jr.,RB,NYG,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Oct 25, 3:15 am",add,Bhayshul Tuten,RB,Jax,Free Agent,Drake it til you make it,Free Agent
+2025,"Oct 26, 4:13 am",add,Cam Ward,QB,Ten,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Oct 26, 4:18 pm",add,Alec Pierce,WR,Ind,Free Agent,Dak to the Future,Free Agent
+2025,"Oct 26, 9:39 am",add,Christian Watson,WR,GB,Free Agent,Dak to the Future,Free Agent
+2025,"Oct 27, 5:50 am",add,Los Angeles Rams,DEF,LAR,Free Agent,Drake it til you make it,Free Agent
+2025,"Oct 29, 2:34 pm",add,Tyler Loop,K,Bal,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Oct 29, 3:38 am",add,Brandon Aiyuk,WR,SF,Waivers,Whole lotta Hurts,Waiver
+2025,"Oct 29, 3:38 am",add,Detroit,DEF,Det,Waivers,The Flea Flickers,Waiver
+2025,"Oct 29, 3:38 am",add,Devin Neal,RB,NO,Waivers,Drake it til you make it,Waiver
+2025,"Oct 29, 3:38 am",add,Jacksonville,DEF,Jax,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Oct 29, 3:38 am",add,Josh Downs,WR,Ind,Waivers,Belichick Daycare Centre,Waiver
+2025,"Oct 29, 3:38 am",add,Mark Andrews,TE,Bal,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Oct 29, 3:38 am",add,Tank Bigsby,RB,Phi,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Oct 29, 3:38 am",add,Theo Johnson,TE,NYG,Waivers,Dak to the Future,Waiver
+2025,"Oct 29, 3:38 am",add,Troy Franklin,WR,Den,Waivers,Dak to the Future,Waiver
+2025,"Oct 29, 3:38 am",add,Tyrone Tracy Jr.,RB,NYG,Waivers,My Ball Zach Ertz,Waiver
+2025,"Oct 29, 3:40 am",add,Jake Bates,K,Det,Free Agent,Grease the Breece,Free Agent
+2025,"Oct 29, 4:15 am",add,Isaiah Davis,RB,NYJ,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Oct 29, 5:45 pm",add,Kareem Hunt,RB,KC,Free Agent,Drake it til you make it,Free Agent
+2025,"Oct 29, 7:56 am",add,Joshua Karty,K,LAR,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Oct 3, 1:11 pm",add,Tre Tucker,WR,LV,Free Agent,The Flea Flickers,Free Agent
+2025,"Oct 3, 2:06 pm",add,Rico Dowdle,RB,Car,Free Agent,Drake it til you make it,Free Agent
+2025,"Oct 3, 2:43 pm",add,Kansas City,DEF,KC,Free Agent,Grease the Breece,Free Agent
+2025,"Oct 3, 6:48 am",add,Sean Tucker,RB,TB,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Oct 30, 3:47 pm",add,Bhayshul Tuten,RB,Jax,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Oct 31, 3:58 pm",add,Will Reichard,K,Min,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Oct 31, 4:50 pm",add,J.J. McCarthy,QB,Min,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Oct 31, 9:26 am",add,Jameson Williams,WR,Det,Free Agent,Never Starting Najee,Free Agent
+2025,"Oct 4, 2:19 pm",add,Isaiah Davis,RB,NYJ,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Oct 4, 3:13 am",add,New England,DEF,NE,Waivers,Dak to the Future,Waiver
+2025,"Oct 4, 3:25 am",add,Jalen Tolbert,WR,Dal,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Oct 5, 3:09 pm",add,Jason Myers,K,Sea,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Oct 5, 3:11 am",add,Dallas Goedert,TE,Phi,Waivers,Dak to the Future,Waiver
+2025,"Oct 5, 4:08 pm",add,Hollywood Brown,WR,KC,Free Agent,The Flea Flickers,Free Agent
+2025,"Oct 5, 4:36 am",add,David Njoku,TE,Cle,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Oct 5, 4:38 am",add,New York,DEF,NYG,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Oct 5, 4:39 am",add,Ollie Gordon II,RB,Mia,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Oct 8, 3:30 am",add,Brandon McManus,K,GB,Waivers,Whole lotta Hurts,Waiver
+2025,"Oct 8, 3:30 am",add,Calvin Ridley,WR,Ten,Waivers,Unsolicited Nix Pics,Waiver
+2025,"Oct 8, 3:30 am",add,Green Bay,DEF,GB,Waivers,Never Starting Najee,Waiver
+2025,"Oct 8, 3:30 am",add,Hassan Haskins,RB,LAC,Waivers,My Ball Zach Ertz,Waiver
+2025,"Oct 8, 3:30 am",add,Jerome Ford,RB,Cle,Waivers,Drake it til you make it,Waiver
+2025,"Oct 8, 3:30 am",add,Kenneth Gainwell,RB,Pit,Waivers,Belichick Daycare Centre,Waiver
+2025,"Oct 8, 3:30 am",add,Las Vegas,DEF,LV,Waivers,The Flea Flickers,Waiver
+2025,"Oct 8, 3:30 am",add,Pittsburgh,DEF,Pit,Waivers,Drake it til you make it,Waiver
+2025,"Oct 8, 3:30 am",add,Theo Johnson,TE,NYG,Waivers,My Ball Zach Ertz,Waiver
+2025,"Oct 8, 4:10 am",add,Brock Purdy,QB,SF,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Oct 8, 5:22 am",add,Washington,DEF,Was,Free Agent,My Ball Zach Ertz,Free Agent
+2025,"Oct 8, 5:28 am",add,Eddy Pineiro,K,SF,Free Agent,Never Starting Najee,Free Agent
+2025,"Oct 8, 7:58 am",add,Joey Slye,K,Ten,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Oct 9, 1:40 am",add,Matt Gay,K,Was,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Oct 9, 5:08 pm",add,Dallas,DEF,Dal,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Sep 10, 3:42 am",add,DJ Giddens,RB,Ind,Waivers,Never Starting Najee,Waiver
+2025,"Sep 10, 3:42 am",add,Hollywood Brown,WR,KC,Waivers,Never Starting Najee,Waiver
+2025,"Sep 10, 3:42 am",add,Juwan Johnson,TE,NO,Waivers,Belichick Daycare Centre,Waiver
+2025,"Sep 10, 3:42 am",add,Kayshon Boutte,WR,NE,Waivers,Whole lotta Hurts,Waiver
+2025,"Sep 10, 3:42 am",add,Keenan Allen,WR,LAC,Waivers,Drake it til you make it,Waiver
+2025,"Sep 10, 3:42 am",add,Kendre Miller,RB,NO,Waivers,Drake it til you make it,Waiver
+2025,"Sep 10, 3:42 am",add,Michael Penix Jr.,QB,Atl,Waivers,Dak to the Future,Waiver
+2025,"Sep 10, 3:42 am",add,Quentin Johnston,WR,LAC,Waivers,Grease the Breece,Waiver
+2025,"Sep 10, 3:42 am",add,Seattle,DEF,Sea,Waivers,Whole lotta Hurts,Waiver
+2025,"Sep 10, 3:42 am",add,Zach Ertz,TE,Was,Waivers,My Ball Zach Ertz,Waiver
+2025,"Sep 10, 5:11 pm",add,Harold Fannin Jr.,TE,Cle,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Sep 10, 5:58 am",add,Pat Freiermuth,TE,Pit,Free Agent,The Flea Flickers,Free Agent
+2025,"Sep 11, 5:00 pm",add,Darnell Mooney,WR,Atl,Free Agent,Never Starting Najee,Free Agent
+2025,"Sep 12, 3:40 am",add,Daniel Jones,QB,Ind,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Sep 13, 3:12 am",add,Austin Ekeler,RB,Was,Free Agent,Never Starting Najee,Trade
+2025,"Sep 13, 3:12 am",add,Hollywood Brown,WR,KC,Free Agent,Strength of Schedule 49ers,Trade
+2025,"Sep 13, 3:40 am",add,Jake Ferguson,TE,Dal,Free Agent,The Flea Flickers,Free Agent
+2025,"Sep 17, 3:32 am",add,Buffalo,DEF,Buf,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Sep 17, 3:32 am",add,Cam Skattebo,RB,NYG,Waivers,Whole lotta Hurts,Waiver
+2025,"Sep 17, 3:32 am",add,Cooper Kupp,WR,Sea,Waivers,San Franshelfo 49ers,Waiver
+2025,"Sep 17, 3:32 am",add,Rachaad White,RB,TB,Waivers,Drake it til you make it,Waiver
+2025,"Sep 17, 3:32 am",add,Rhamondre Stevenson,RB,NE,Waivers,Never Starting Najee,Waiver
+2025,"Sep 17, 3:32 am",add,Troy Franklin,WR,Den,Waivers,My Ball Zach Ertz,Waiver
+2025,"Sep 17, 3:32 am",add,Wan'Dale Robinson,WR,NYG,Waivers,Never Starting Najee,Waiver
+2025,"Sep 17, 5:26 am",add,Atlanta,DEF,Atl,Free Agent,Never Starting Najee,Free Agent
+2025,"Sep 17, 9:28 am",add,Matt Prater,K,Buf,Free Agent,San Franshelfo 49ers,Free Agent
+2025,"Sep 18, 12:15 pm",add,Indianapolis,DEF,Ind,Free Agent,Belichick Daycare Centre,Free Agent
+2025,"Sep 18, 4:39 pm",add,Geno Smith,QB,LV,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Sep 18, 7:57 am",add,Kareem Hunt,RB,KC,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Sep 19, 1:11 pm",add,Jake Browning,QB,Cin,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Sep 19, 1:50 pm",add,Tampa Bay,DEF,TB,Free Agent,Dak to the Future,Free Agent
+2025,"Sep 2, 3:44 pm",add,Quinshon Judkins,RB,Cle,Free Agent,Dak to the Future,Free Agent
+2025,"Sep 20, 4:53 pm",add,Kyle Monangai,RB,Chi,Free Agent,Dak to the Future,Free Agent
+2025,"Sep 21, 9:57 am",add,New York,DEF,NYG,Free Agent,Grease the Breece,Free Agent
+2025,"Sep 24, 12:24 pm",add,Chimere Dike,WR,Ten,Free Agent,Dak to the Future,Free Agent
+2025,"Sep 24, 3:30 am",add,Blake Corum,RB,LAR,Waivers,Never Starting Najee,Waiver
+2025,"Sep 24, 3:30 am",add,Chase McLaughlin,K,TB,Waivers,Whole lotta Hurts,Waiver
+2025,"Sep 24, 3:30 am",add,Detroit,DEF,Det,Waivers,Never Starting Najee,Waiver
+2025,"Sep 24, 3:30 am",add,Joey Slye,K,Ten,Waivers,San Franshelfo 49ers,Waiver
+2025,"Sep 24, 3:30 am",add,KaVontae Turpin,WR,Dal,Waivers,Whole lotta Hurts,Waiver
+2025,"Sep 24, 3:30 am",add,Luther Burden III,WR,Chi,Waivers,Dak to the Future,Waiver
+2025,"Sep 24, 3:30 am",add,Miles Sanders,RB,Dal,Waivers,Drake it til you make it,Waiver
+2025,"Sep 24, 3:30 am",add,Tory Horton,WR,Sea,Waivers,Strength of Schedule 49ers,Waiver
+2025,"Sep 24, 3:30 am",add,Tre Tucker,WR,LV,Waivers,Belichick Daycare Centre,Waiver
+2025,"Sep 24, 3:30 am",add,Woody Marks,RB,Hou,Waivers,Whole lotta Hurts,Waiver
+2025,"Sep 24, 3:39 am",add,Los Angeles Chargers,DEF,LAC,Free Agent,Dak to the Future,Free Agent
+2025,"Sep 24, 3:47 am",add,Kenneth Gainwell,RB,Pit,Free Agent,Drake it til you make it,Free Agent
+2025,"Sep 25, 1:56 pm",add,Washington,DEF,Was,Free Agent,Grease the Breece,Free Agent
+2025,"Sep 25, 2:33 am",add,Ollie Gordon II,RB,Mia,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Sep 25, 4:38 am",add,Tyquan Thornton,WR,KC,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Sep 26, 1:15 pm",add,Malik Washington,WR,Mia,Free Agent,Drake it til you make it,Free Agent
+2025,"Sep 26, 1:54 pm",add,Marcus Mariota,QB,Was,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Sep 26, 2:39 am",add,Tua Tagovailoa,QB,Mia,Free Agent,The Flea Flickers,Free Agent
+2025,"Sep 26, 4:32 am",add,Dallas Goedert,TE,Phi,Free Agent,Drake it til you make it,Free Agent
+2025,"Sep 27, 3:12 am",add,Keon Coleman,WR,Buf,Waivers,Belichick Daycare Centre,Waiver
+2025,"Sep 27, 3:18 am",add,Matt Prater,K,Buf,Free Agent,Whole lotta Hurts,Free Agent
+2025,"Sep 28, 12:02 pm",add,Oronde Gadsden,TE,LAC,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Sep 28, 12:03 pm",add,Las Vegas,DEF,LV,Free Agent,The Flea Flickers,Free Agent
+2025,"Sep 28, 12:04 pm",add,Los Angeles Rams,DEF,LAR,Free Agent,The Flea Flickers,Free Agent
+2025,"Sep 28, 9:48 am",add,Chris Rodriguez Jr.,RB,Was,Free Agent,PAT's the way uh-huh I like it,Free Agent
+2025,"Sep 4, 1:25 am",add,Cedric Tillman,WR,Cle,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Sep 4, 4:08 am",add,DeMario Douglas,WR,NE,Free Agent,Drake it til you make it,Free Agent
+2025,"Sep 4, 4:55 am",add,Cam Little,K,Jax,Free Agent,Never Starting Najee,Free Agent
+2025,"Sep 4, 5:11 pm",add,Brenton Strange,TE,Jax,Free Agent,Unsolicited Nix Pics,Free Agent
+2025,"Sep 5, 12:40 pm",add,Chicago,DEF,Chi,Free Agent,Dak to the Future,Free Agent
+2025,"Sep 7, 10:42 am",add,Los Angeles Rams,DEF,LAR,Free Agent,Dak to the Future,Free Agent
+2025,"Sep 7, 3:08 pm",add,Tyler Loop,K,Bal,Free Agent,Strength of Schedule 49ers,Free Agent
+2025,"Sep 7, 4:12 pm",add,Green Bay,DEF,GB,Free Agent,The Flea Flickers,Free Agent

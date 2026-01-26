@@ -1,0 +1,524 @@
+{
+  "seasons": [
+    {
+      "league": {
+        "season": 2025,
+        "standings": [
+          {
+            "rank": 1,
+            "team": "PAT's the way uh-huh I like it",
+            "record": "9-6-0",
+            "points_for": 1652.66,
+            "points_against": 1608.20,
+            "streak": "L-1",
+            "waiver": 6,
+            "moves": 15,
+            "achievement": "🏆"
+          },
+          {
+            "rank": 2,
+            "team": "Dak to the Future",
+            "record": "10-5-0",
+            "points_for": 1610.66,
+            "points_against": 1474.18,
+            "streak": "L-1",
+            "waiver": 12,
+            "moves": 42,
+            "achievement": "🥈"
+          },
+          {
+            "rank": 3,
+            "team": "Never Starting Najee",
+            "record": "10-5-0",
+            "points_for": 1976.90,
+            "points_against": 1612.86,
+            "streak": "W-1",
+            "waiver": 7,
+            "moves": 26,
+            "achievement": "🥉"
+          },
+          {
+            "rank": 4,
+            "team": "Drake it til you make it",
+            "record": "9-6-0",
+            "points_for": 1721.80,
+            "points_against": 1638.72,
+            "streak": "L-2",
+            "waiver": 11,
+            "moves": 47
+          },
+          {
+            "rank": 5,
+            "team": "San Franshelfo 49ers",
+            "record": "8-7-0",
+            "points_for": 1732.64,
+            "points_against": 1746.32,
+            "streak": "W-2",
+            "waiver": 10,
+            "moves": 18
+          },
+          {
+            "rank": 6,
+            "team": "Whole lotta Hurts",
+            "record": "9-6-0",
+            "points_for": 1571.70,
+            "points_against": 1499.62,
+            "streak": "W-3",
+            "waiver": 9,
+            "moves": 40
+          },
+          {
+            "rank": 7,
+            "team": "Belichick Daycare Centre",
+            "record": "7-8-0",
+            "points_for": 1505.78,
+            "points_against": 1503.62,
+            "streak": "L-1",
+            "waiver": 5,
+            "moves": 17
+          },
+          {
+            "rank": 8,
+            "team": "Strength of Schedule 49ers",
+            "record": "9-6-0",
+            "points_for": 1562.88,
+            "points_against": 1570.94,
+            "streak": "W-1",
+            "waiver": 8,
+            "moves": 40
+          },
+          {
+            "rank": 9,
+            "team": "Grease the Breece",
+            "record": "6-9-0",
+            "points_for": 1551.78,
+            "points_against": 1606.44,
+            "streak": "W-1",
+            "waiver": 4,
+            "moves": 20
+          },
+          {
+            "rank": 10,
+            "team": "The Flea Flickers",
+            "record": "5-10-0",
+            "points_for": 1610.72,
+            "points_against": 1729.84,
+            "streak": "W-1",
+            "waiver": 3,
+            "moves": 19
+          },
+          {
+            "rank": 11,
+            "team": "Unsolicited Nix Pics",
+            "record": "5-10-0",
+            "points_for": 1354.72,
+            "points_against": 1656.94,
+            "streak": "L-1",
+            "waiver": 2,
+            "moves": 39
+          },
+          {
+            "rank": 12,
+            "team": "My Ball Zach Ertz",
+            "record": "3-12-0",
+            "points_for": 1415.54,
+            "points_against": 1620.10,
+            "streak": "L-7",
+            "waiver": 1,
+            "moves": 27
+          }
+        ]
+      }
+    },
+    {
+      "league": {
+        "season": 2024,
+        "standings": [
+          {
+            "rank": 1,
+            "team": "Napoleon Kyrenite",
+            "record": "9-6-0",
+            "points_for": 1835.78,
+            "points_against": 1672.02,
+            "streak": "W-1",
+            "waiver": 10,
+            "moves": 57,
+            "achievement": "🏆"
+          },
+          {
+            "rank": 2,
+            "team": "For the Love of the game",
+            "record": "10-5-0",
+            "points_for": 1649.46,
+            "points_against": 1505.24,
+            "streak": "W-2",
+            "waiver": 11,
+            "moves": 46,
+            "achievement": "🥈"
+          },
+          {
+            "rank": 3,
+            "team": "The Flea Flickers",
+            "record": "10-5-0",
+            "points_for": 1727.84,
+            "points_against": 1651.92,
+            "streak": "L-1",
+            "waiver": 12,
+            "moves": 23,
+            "achievement": "🥉"
+          },
+          {
+            "rank": 4,
+            "team": "Play off push",
+            "record": "10-5-0",
+            "points_for": 1674.2,
+            "points_against": 1583.76,
+            "streak": "W-3",
+            "waiver": 9,
+            "moves": 39
+          },
+          {
+            "rank": 5,
+            "team": "Kissing Cousins",
+            "record": "8-7-0",
+            "points_for": 1582.66,
+            "points_against": 1620.24,
+            "streak": "W-4",
+            "waiver": 7,
+            "moves": 31
+          },
+          {
+            "rank": 6,
+            "team": "My Ball Zach Ertz",
+            "record": "7-8-0",
+            "points_for": 1533.98,
+            "points_against": 1677.16,
+            "streak": "W-2",
+            "waiver": 5,
+            "moves": 18
+          },
+          {
+            "rank": 7,
+            "team": "Please Bijan Robinson",
+            "record": "7-8-0",
+            "points_for": 1576.62,
+            "points_against": 1599.74,
+            "streak": "L-1",
+            "waiver": 6,
+            "moves": 20
+          },
+          {
+            "rank": 8,
+            "team": "San Franshelfo 49ers",
+            "record": "8-7-0",
+            "points_for": 1767.8,
+            "points_against": 1575.06,
+            "streak": "L-2",
+            "waiver": 8,
+            "moves": 22
+          },
+          {
+            "rank": 9,
+            "team": "Jahmyr I Go Again",
+            "record": "6-9-0",
+            "points_for": 1585.2,
+            "points_against": 1720.92,
+            "streak": "L-4",
+            "waiver": 4,
+            "moves": 36
+          },
+          {
+            "rank": 10,
+            "team": "Brees Nutz",
+            "record": "6-9-0",
+            "points_for": 1515.84,
+            "points_against": 1539.6,
+            "streak": "L-2",
+            "waiver": 3,
+            "moves": 26
+          },
+          {
+            "rank": 11,
+            "team": "PAT's the way uh-huh I like it",
+            "record": "6-9-0",
+            "points_for": 1469.46,
+            "points_against": 1616.04,
+            "streak": "L-1",
+            "waiver": 2,
+            "moves": 4
+          },
+          {
+            "rank": 12,
+            "team": "Red Zone 2.0",
+            "record": "3-12-0",
+            "points_for": 1470.62,
+            "points_against": 1627.76,
+            "streak": "L-4",
+            "waiver": 1,
+            "moves": 25
+          }
+        ]
+      }
+    },
+    {
+      "league": {
+        "season": 2023,
+        "standings": [
+          {
+            "rank": 1,
+            "team": "Geno-less midnight runners",
+            "record": "10-5-0",
+            "points_for": 1594.14,
+            "points_against": 1445.58,
+            "streak": "L-1",
+            "waiver": 10,
+            "moves": 32,
+            "achievement": "🏆"
+          },
+          {
+            "rank": 2,
+            "team": "Lights Camera Jackson",
+            "record": "10-5-0",
+            "points_for": 1768.6,
+            "points_against": 1550.08,
+            "streak": "W-5",
+            "waiver": 11,
+            "moves": 34,
+            "achievement": "🥈"
+          },
+          {
+            "rank": 3,
+            "team": "Floor Is Olave",
+            "record": "9-6-0",
+            "points_for": 1713.88,
+            "points_against": 1549.46,
+            "streak": "L-3",
+            "waiver": 7,
+            "moves": 31,
+            "achievement": "🥉"
+          },
+          {
+            "rank": 4,
+            "team": "San Franshelfo 49ers",
+            "record": "9-6-0",
+            "points_for": 1605.04,
+            "points_against": 1629.2,
+            "streak": "W-2",
+            "waiver": 8,
+            "moves": 30
+          },
+          {
+            "rank": 5,
+            "team": "Fields of Flowers",
+            "record": "8-7-0",
+            "points_for": 1620.52,
+            "points_against": 1602.06,
+            "streak": "L-2",
+            "waiver": 12,
+            "moves": 18
+          },
+          {
+            "rank": 6,
+            "team": "Red Zone 2.0",
+            "record": "7-8-0",
+            "points_for": 1503.54,
+            "points_against": 1580.88,
+            "streak": "L-1",
+            "waiver": 5,
+            "moves": 19
+          },
+          {
+            "rank": 7,
+            "team": "Catalina Wine Mixon",
+            "record": "7-8-0",
+            "points_for": 1602.6,
+            "points_against": 1566.4,
+            "streak": "W-1",
+            "waiver": 6,
+            "moves": 33
+          },
+          {
+            "rank": 8,
+            "team": "Brees Nutz",
+            "record": "9-6-0",
+            "points_for": 1585.04,
+            "points_against": 1470.86,
+            "streak": "W-3",
+            "waiver": 9,
+            "moves": 16
+          },
+          {
+            "rank": 9,
+            "team": "Play off push",
+            "record": "6-9-0",
+            "points_for": 1384.14,
+            "points_against": 1631.98,
+            "streak": "W-2",
+            "waiver": 4,
+            "moves": 13
+          },
+          {
+            "rank": 10,
+            "team": "The Flea Flickers",
+            "record": "5-10-0",
+            "points_for": 1498,
+            "points_against": 1617.92,
+            "streak": "L-8",
+            "waiver": 3,
+            "moves": 14
+          },
+          {
+            "rank": 11,
+            "team": "PAT's the way uh-huh I like it",
+            "record": "5-10-0",
+            "points_for": 1469.7,
+            "points_against": 1552.28,
+            "streak": "L-3",
+            "waiver": 2,
+            "moves": 9
+          },
+          {
+            "rank": 12,
+            "team": "My Ball Zach Ertz",
+            "record": "5-10-0",
+            "points_for": 1452.76,
+            "points_against": 1601.26,
+            "streak": "L-4",
+            "waiver": 1,
+            "moves": 17
+          }
+        ]
+      }
+    },
+    {
+      "league": {
+        "season": 2022,
+        "standings": [
+          {
+            "rank": 1,
+            "team": "Tuacanplayatthat",
+            "record": "9-6-0",
+            "points_for": 1644.56,
+            "points_against": 1458.18,
+            "streak": "W-1",
+            "waiver": 12,
+            "moves": 43,
+            "achievement": "🏆"
+          },
+          {
+            "rank": 2,
+            "team": "School Of Brock",
+            "record": "8-6-1",
+            "points_for": 1723.56,
+            "points_against": 1760.78,
+            "streak": "W-1",
+            "waiver": 11,
+            "moves": 42,
+            "achievement": "🥈"
+          },
+          {
+            "rank": 3,
+            "team": "San Franshelfo 49ers",
+            "record": "12-3-0",
+            "points_for": 1830.54,
+            "points_against": 1466.66,
+            "streak": "W-7",
+            "waiver": 10,
+            "moves": 15,
+            "achievement": "🥉"
+          },
+          {
+            "rank": 4,
+            "team": "My Ball Zach Ertz",
+            "record": "10-5-0",
+            "points_for": 1670.02,
+            "points_against": 1533.58,
+            "streak": "L-1",
+            "waiver": 8,
+            "moves": 15
+          },
+          {
+            "rank": 5,
+            "team": "PAT's the way uh-huh I like it",
+            "record": "7-8-0",
+            "points_for": 1571.12,
+            "points_against": 1556.2,
+            "streak": "W-2",
+            "waiver": 5,
+            "moves": 4
+          },
+          {
+            "rank": 6,
+            "team": "MAGAroppolo",
+            "record": "7-8-0",
+            "points_for": 1562.4,
+            "points_against": 1715.06,
+            "streak": "L-2",
+            "waiver": 9,
+            "moves": 31
+          },
+          {
+            "rank": 7,
+            "team": "Last Chance Nu'u",
+            "record": "8-7-0",
+            "points_for": 1606.6,
+            "points_against": 1538.88,
+            "streak": "L-1",
+            "waiver": 7,
+            "moves": 19
+          },
+          {
+            "rank": 8,
+            "team": "Red Zone 1.0",
+            "record": "7-7-1",
+            "points_for": 1505.86,
+            "points_against": 1562.06,
+            "streak": "W-1",
+            "waiver": 6,
+            "moves": 28
+          },
+          {
+            "rank": 9,
+            "team": "Beartown Beasts",
+            "record": "7-8-0",
+            "points_for": 1498.06,
+            "points_against": 1463.8,
+            "streak": "L-1",
+            "waiver": 4,
+            "moves": 4
+          },
+          {
+            "rank": 10,
+            "team": "Hot Chubb Time Machine",
+            "record": "6-9-0",
+            "points_for": 1511.22,
+            "points_against": 1624.3,
+            "streak": "W-3",
+            "waiver": 3,
+            "moves": 21
+          },
+          {
+            "rank": 11,
+            "team": "The Flea Flickers",
+            "record": "5-10-0",
+            "points_for": 1512.74,
+            "points_against": 1564.48,
+            "streak": "L-3",
+            "waiver": 2,
+            "moves": 27
+          },
+          {
+            "rank": 12,
+            "team": "Brees Nutz",
+            "record": "3-12-0",
+            "points_for": 1285,
+            "points_against": 1677.7,
+            "streak": "L-4",
+            "waiver": 1,
+            "moves": 30
+          }
+        ]
+      }
+    }
+  ]
+}

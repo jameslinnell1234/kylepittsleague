@@ -1,0 +1,713 @@
+{
+  "managers": [
+    "Andrew",
+    "Ben",
+    "Brendan",
+    "Chris",
+    "Colin",
+    "Conor",
+    "Graham",
+    "Jack C",
+    "Jack E",
+    "Jake",
+    "Jamie",
+    "Kevin",
+    "Si"
+  ],
+  "pairs": [
+    {
+      "a": "Andrew",
+      "b": "Ben",
+      "a_wins": 4,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 688.3599999999999,
+      "b_points_for": 664.66
+    },
+    {
+      "a": "Andrew",
+      "b": "Brendan",
+      "a_wins": 1,
+      "b_wins": 0,
+      "ties": 0,
+      "a_points_for": 106.76,
+      "b_points_for": 95.08
+    },
+    {
+      "a": "Andrew",
+      "b": "Chris",
+      "a_wins": 2,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 606.5799999999999,
+      "b_points_for": 729.04
+    },
+    {
+      "a": "Andrew",
+      "b": "Colin",
+      "a_wins": 0,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 400.4,
+      "b_points_for": 553.4200000000001
+    },
+    {
+      "a": "Andrew",
+      "b": "Conor",
+      "a_wins": 1,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 343.08000000000004,
+      "b_points_for": 331.82
+    },
+    {
+      "a": "Andrew",
+      "b": "Graham",
+      "a_wins": 1,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 411.42,
+      "b_points_for": 455.44000000000005
+    },
+    {
+      "a": "Andrew",
+      "b": "Jack C",
+      "a_wins": 0,
+      "b_wins": 5,
+      "ties": 0,
+      "a_points_for": 487.38000000000005,
+      "b_points_for": 592.38
+    },
+    {
+      "a": "Andrew",
+      "b": "Jack E",
+      "a_wins": 1,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 420.5199999999999,
+      "b_points_for": 571.8
+    },
+    {
+      "a": "Andrew",
+      "b": "Jake",
+      "a_wins": 4,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 653.28,
+      "b_points_for": 574.62
+    },
+    {
+      "a": "Andrew",
+      "b": "Jamie",
+      "a_wins": 4,
+      "b_wins": 2,
+      "ties": 1,
+      "a_points_for": 811.42,
+      "b_points_for": 723.42
+    },
+    {
+      "a": "Andrew",
+      "b": "Kevin",
+      "a_wins": 3,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 705.6800000000001,
+      "b_points_for": 684.66
+    },
+    {
+      "a": "Andrew",
+      "b": "Si",
+      "a_wins": 2,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 396.92,
+      "b_points_for": 400.79999999999995
+    },
+    {
+      "a": "Ben",
+      "b": "Brendan",
+      "a_wins": 1,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 385.24,
+      "b_points_for": 406.31999999999994
+    },
+    {
+      "a": "Ben",
+      "b": "Chris",
+      "a_wins": 3,
+      "b_wins": 6,
+      "ties": 0,
+      "a_points_for": 915.7800000000001,
+      "b_points_for": 999.8399999999999
+    },
+    {
+      "a": "Ben",
+      "b": "Colin",
+      "a_wins": 3,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 643.82,
+      "b_points_for": 672.46
+    },
+    {
+      "a": "Ben",
+      "b": "Conor",
+      "a_wins": 6,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 1015.9999999999999,
+      "b_points_for": 884.58
+    },
+    {
+      "a": "Ben",
+      "b": "Graham",
+      "a_wins": 4,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 808.1400000000001,
+      "b_points_for": 908.3999999999999
+    },
+    {
+      "a": "Ben",
+      "b": "Jack C",
+      "a_wins": 7,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 1370.72,
+      "b_points_for": 1294.62
+    },
+    {
+      "a": "Ben",
+      "b": "Jack E",
+      "a_wins": 3,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 785.88,
+      "b_points_for": 874.64
+    },
+    {
+      "a": "Ben",
+      "b": "Jake",
+      "a_wins": 2,
+      "b_wins": 7,
+      "ties": 0,
+      "a_points_for": 848.12,
+      "b_points_for": 943.7799999999999
+    },
+    {
+      "a": "Ben",
+      "b": "Jamie",
+      "a_wins": 3,
+      "b_wins": 5,
+      "ties": 0,
+      "a_points_for": 854.64,
+      "b_points_for": 882.78
+    },
+    {
+      "a": "Ben",
+      "b": "Kevin",
+      "a_wins": 4,
+      "b_wins": 5,
+      "ties": 0,
+      "a_points_for": 919.3199999999999,
+      "b_points_for": 924.28
+    },
+    {
+      "a": "Ben",
+      "b": "Si",
+      "a_wins": 3,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 644.3,
+      "b_points_for": 642.12
+    },
+    {
+      "a": "Brendan",
+      "b": "Chris",
+      "a_wins": 4,
+      "b_wins": 1,
+      "ties": 0,
+      "a_points_for": 698.36,
+      "b_points_for": 486.93999999999994
+    },
+    {
+      "a": "Brendan",
+      "b": "Colin",
+      "a_wins": 2,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 398.32,
+      "b_points_for": 388.41999999999996
+    },
+    {
+      "a": "Brendan",
+      "b": "Conor",
+      "a_wins": 0,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 163.76,
+      "b_points_for": 198.64
+    },
+    {
+      "a": "Brendan",
+      "b": "Graham",
+      "a_wins": 4,
+      "b_wins": 1,
+      "ties": 0,
+      "a_points_for": 563.0200000000001,
+      "b_points_for": 437.28000000000003
+    },
+    {
+      "a": "Brendan",
+      "b": "Jack C",
+      "a_wins": 2,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 626.6399999999999,
+      "b_points_for": 664.84
+    },
+    {
+      "a": "Brendan",
+      "b": "Jack E",
+      "a_wins": 2,
+      "b_wins": 0,
+      "ties": 0,
+      "a_points_for": 225.9,
+      "b_points_for": 168.72
+    },
+    {
+      "a": "Brendan",
+      "b": "Jake",
+      "a_wins": 3,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 718.46,
+      "b_points_for": 815.4200000000001
+    },
+    {
+      "a": "Brendan",
+      "b": "Jamie",
+      "a_wins": 5,
+      "b_wins": 1,
+      "ties": 0,
+      "a_points_for": 717.9999999999999,
+      "b_points_for": 589.1
+    },
+    {
+      "a": "Brendan",
+      "b": "Kevin",
+      "a_wins": 2,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 605.6,
+      "b_points_for": 680.1200000000001
+    },
+    {
+      "a": "Chris",
+      "b": "Colin",
+      "a_wins": 1,
+      "b_wins": 7,
+      "ties": 0,
+      "a_points_for": 723.8199999999999,
+      "b_points_for": 946.04
+    },
+    {
+      "a": "Chris",
+      "b": "Conor",
+      "a_wins": 5,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 808.9999999999999,
+      "b_points_for": 711.6999999999999
+    },
+    {
+      "a": "Chris",
+      "b": "Graham",
+      "a_wins": 3,
+      "b_wins": 5,
+      "ties": 0,
+      "a_points_for": 837.42,
+      "b_points_for": 911.8
+    },
+    {
+      "a": "Chris",
+      "b": "Jack C",
+      "a_wins": 9,
+      "b_wins": 1,
+      "ties": 0,
+      "a_points_for": 1161.96,
+      "b_points_for": 952.2800000000002
+    },
+    {
+      "a": "Chris",
+      "b": "Jack E",
+      "a_wins": 3,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 764.3,
+      "b_points_for": 816.42
+    },
+    {
+      "a": "Chris",
+      "b": "Jake",
+      "a_wins": 9,
+      "b_wins": 1,
+      "ties": 0,
+      "a_points_for": 1133.2,
+      "b_points_for": 990.3199999999999
+    },
+    {
+      "a": "Chris",
+      "b": "Jamie",
+      "a_wins": 7,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 1294.6000000000001,
+      "b_points_for": 1066.9799999999998
+    },
+    {
+      "a": "Chris",
+      "b": "Kevin",
+      "a_wins": 5,
+      "b_wins": 5,
+      "ties": 0,
+      "a_points_for": 1079.44,
+      "b_points_for": 1072.6200000000001
+    },
+    {
+      "a": "Chris",
+      "b": "Si",
+      "a_wins": 1,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 464.22,
+      "b_points_for": 481.19999999999993
+    },
+    {
+      "a": "Colin",
+      "b": "Conor",
+      "a_wins": 3,
+      "b_wins": 5,
+      "ties": 0,
+      "a_points_for": 783.0799999999999,
+      "b_points_for": 824.4200000000001
+    },
+    {
+      "a": "Colin",
+      "b": "Graham",
+      "a_wins": 4,
+      "b_wins": 6,
+      "ties": 0,
+      "a_points_for": 1106.34,
+      "b_points_for": 1189.0
+    },
+    {
+      "a": "Colin",
+      "b": "Jack C",
+      "a_wins": 5,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 910.2,
+      "b_points_for": 815.32
+    },
+    {
+      "a": "Colin",
+      "b": "Jack E",
+      "a_wins": 5,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 821.8599999999999,
+      "b_points_for": 780.7
+    },
+    {
+      "a": "Colin",
+      "b": "Jake",
+      "a_wins": 5,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 780.52,
+      "b_points_for": 645.52
+    },
+    {
+      "a": "Colin",
+      "b": "Jamie",
+      "a_wins": 5,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 849.76,
+      "b_points_for": 799.6800000000001
+    },
+    {
+      "a": "Colin",
+      "b": "Kevin",
+      "a_wins": 5,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 835.4200000000001,
+      "b_points_for": 796.9599999999999
+    },
+    {
+      "a": "Colin",
+      "b": "Si",
+      "a_wins": 2,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 390.94000000000005,
+      "b_points_for": 363.24
+    },
+    {
+      "a": "Conor",
+      "b": "Graham",
+      "a_wins": 4,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 667.54,
+      "b_points_for": 644.12
+    },
+    {
+      "a": "Conor",
+      "b": "Jack C",
+      "a_wins": 3,
+      "b_wins": 5,
+      "ties": 0,
+      "a_points_for": 806.96,
+      "b_points_for": 867.26
+    },
+    {
+      "a": "Conor",
+      "b": "Jack E",
+      "a_wins": 0,
+      "b_wins": 6,
+      "ties": 0,
+      "a_points_for": 588.52,
+      "b_points_for": 701.28
+    },
+    {
+      "a": "Conor",
+      "b": "Jake",
+      "a_wins": 4,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 726.1800000000001,
+      "b_points_for": 689.1999999999999
+    },
+    {
+      "a": "Conor",
+      "b": "Jamie",
+      "a_wins": 1,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 497.7,
+      "b_points_for": 520.42
+    },
+    {
+      "a": "Conor",
+      "b": "Kevin",
+      "a_wins": 4,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 616.48,
+      "b_points_for": 641.6999999999999
+    },
+    {
+      "a": "Conor",
+      "b": "Si",
+      "a_wins": 2,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 543.34,
+      "b_points_for": 560.92
+    },
+    {
+      "a": "Graham",
+      "b": "Jack C",
+      "a_wins": 5,
+      "b_wins": 4,
+      "ties": 0,
+      "a_points_for": 959.7799999999999,
+      "b_points_for": 890.6999999999999
+    },
+    {
+      "a": "Graham",
+      "b": "Jack E",
+      "a_wins": 3,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 667.06,
+      "b_points_for": 638.36
+    },
+    {
+      "a": "Graham",
+      "b": "Jake",
+      "a_wins": 3,
+      "b_wins": 6,
+      "ties": 0,
+      "a_points_for": 906.28,
+      "b_points_for": 996.0
+    },
+    {
+      "a": "Graham",
+      "b": "Jamie",
+      "a_wins": 6,
+      "b_wins": 5,
+      "ties": 0,
+      "a_points_for": 1233.3000000000002,
+      "b_points_for": 1257.04
+    },
+    {
+      "a": "Graham",
+      "b": "Kevin",
+      "a_wins": 4,
+      "b_wins": 6,
+      "ties": 0,
+      "a_points_for": 1129.28,
+      "b_points_for": 1146.96
+    },
+    {
+      "a": "Graham",
+      "b": "Si",
+      "a_wins": 2,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 432.67999999999995,
+      "b_points_for": 353.94
+    },
+    {
+      "a": "Jack C",
+      "b": "Jack E",
+      "a_wins": 2,
+      "b_wins": 5,
+      "ties": 0,
+      "a_points_for": 749.2800000000001,
+      "b_points_for": 800.38
+    },
+    {
+      "a": "Jack C",
+      "b": "Jake",
+      "a_wins": 5,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 935.5400000000001,
+      "b_points_for": 872.3600000000001
+    },
+    {
+      "a": "Jack C",
+      "b": "Jamie",
+      "a_wins": 3,
+      "b_wins": 6,
+      "ties": 0,
+      "a_points_for": 900.24,
+      "b_points_for": 1006.5200000000001
+    },
+    {
+      "a": "Jack C",
+      "b": "Kevin",
+      "a_wins": 5,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 750.04,
+      "b_points_for": 724.8800000000001
+    },
+    {
+      "a": "Jack C",
+      "b": "Si",
+      "a_wins": 2,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 468.14,
+      "b_points_for": 499.48
+    },
+    {
+      "a": "Jack E",
+      "b": "Jake",
+      "a_wins": 4,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 744.26,
+      "b_points_for": 628.2199999999999
+    },
+    {
+      "a": "Jack E",
+      "b": "Jamie",
+      "a_wins": 2,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 456.76,
+      "b_points_for": 377.08000000000004
+    },
+    {
+      "a": "Jack E",
+      "b": "Kevin",
+      "a_wins": 3,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 549.04,
+      "b_points_for": 500.98
+    },
+    {
+      "a": "Jack E",
+      "b": "Si",
+      "a_wins": 2,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 417.76,
+      "b_points_for": 426.24
+    },
+    {
+      "a": "Jake",
+      "b": "Jamie",
+      "a_wins": 6,
+      "b_wins": 5,
+      "ties": 0,
+      "a_points_for": 1075.04,
+      "b_points_for": 1096.8600000000001
+    },
+    {
+      "a": "Jake",
+      "b": "Kevin",
+      "a_wins": 7,
+      "b_wins": 2,
+      "ties": 0,
+      "a_points_for": 1024.6599999999999,
+      "b_points_for": 920.98
+    },
+    {
+      "a": "Jake",
+      "b": "Si",
+      "a_wins": 3,
+      "b_wins": 1,
+      "ties": 0,
+      "a_points_for": 382.17999999999995,
+      "b_points_for": 373.42
+    },
+    {
+      "a": "Jamie",
+      "b": "Kevin",
+      "a_wins": 8,
+      "b_wins": 1,
+      "ties": 0,
+      "a_points_for": 1085.0600000000002,
+      "b_points_for": 949.9200000000001
+    },
+    {
+      "a": "Jamie",
+      "b": "Si",
+      "a_wins": 1,
+      "b_wins": 3,
+      "ties": 0,
+      "a_points_for": 478.38,
+      "b_points_for": 397.02
+    },
+    {
+      "a": "Kevin",
+      "b": "Si",
+      "a_wins": 2,
+      "b_wins": 1,
+      "ties": 0,
+      "a_points_for": 331.3,
+      "b_points_for": 314.48
+    }
+  ],
+  "updated_at": "2026-01-05T15:19:08+00:00"
+}

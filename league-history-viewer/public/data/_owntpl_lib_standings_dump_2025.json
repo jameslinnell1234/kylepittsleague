@@ -1,0 +1,214 @@
+[
+  {
+    "team_key": "461.l.54130.t.7",
+    "name": "PAT's the way uh-huh I like it",
+    "rank": 1,
+    "playoff_seed": "4",
+    "outcome_totals": {
+      "wins": "9",
+      "losses": "6",
+      "ties": 0,
+      "percentage": ".600"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1652.66",
+    "points_against": 1608.2000000000003
+  },
+  {
+    "team_key": "461.l.54130.t.6",
+    "name": "Dak to the Future",
+    "rank": 2,
+    "playoff_seed": "2",
+    "outcome_totals": {
+      "wins": "10",
+      "losses": "5",
+      "ties": 0,
+      "percentage": ".667"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1610.66",
+    "points_against": 1474.18
+  },
+  {
+    "team_key": "461.l.54130.t.9",
+    "name": "Never Starting Najee",
+    "rank": 3,
+    "playoff_seed": "1",
+    "outcome_totals": {
+      "wins": "10",
+      "losses": "5",
+      "ties": 0,
+      "percentage": ".667"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1976.90",
+    "points_against": 1612.8600000000001
+  },
+  {
+    "team_key": "461.l.54130.t.3",
+    "name": "Drake it til you make it",
+    "rank": 4,
+    "playoff_seed": "3",
+    "outcome_totals": {
+      "wins": "9",
+      "losses": "6",
+      "ties": 0,
+      "percentage": ".600"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "2"
+    },
+    "points_for": "1721.80",
+    "points_against": 1638.7199999999996
+  },
+  {
+    "team_key": "461.l.54130.t.11",
+    "name": "San Franshelfo 49ers",
+    "rank": 5,
+    "playoff_seed": "7",
+    "outcome_totals": {
+      "wins": "8",
+      "losses": "7",
+      "ties": 0,
+      "percentage": ".533"
+    },
+    "streak": {
+      "type": "win",
+      "value": "2"
+    },
+    "points_for": "1732.64",
+    "points_against": 1746.32
+  },
+  {
+    "team_key": "461.l.54130.t.8",
+    "name": "Whole lotta Hurts",
+    "rank": 6,
+    "playoff_seed": "5",
+    "outcome_totals": {
+      "wins": "9",
+      "losses": "6",
+      "ties": 0,
+      "percentage": ".600"
+    },
+    "streak": {
+      "type": "win",
+      "value": "3"
+    },
+    "points_for": "1571.70",
+    "points_against": 1499.62
+  },
+  {
+    "team_key": "461.l.54130.t.2",
+    "name": "Belichick Daycare Centre",
+    "rank": 7,
+    "playoff_seed": "8",
+    "outcome_totals": {
+      "wins": "7",
+      "losses": "8",
+      "ties": 0,
+      "percentage": ".467"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1505.78",
+    "points_against": 1503.62
+  },
+  {
+    "team_key": "461.l.54130.t.1",
+    "name": "Strength of Schedule 49ers",
+    "rank": 8,
+    "playoff_seed": "6",
+    "outcome_totals": {
+      "wins": "9",
+      "losses": "6",
+      "ties": 0,
+      "percentage": ".600"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1562.88",
+    "points_against": 1570.9400000000003
+  },
+  {
+    "team_key": "461.l.54130.t.10",
+    "name": "Grease the Breece",
+    "rank": "9",
+    "outcome_totals": {
+      "wins": "6",
+      "losses": "9",
+      "ties": 0,
+      "percentage": ".400"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1551.78",
+    "points_against": 1606.44
+  },
+  {
+    "team_key": "461.l.54130.t.12",
+    "name": "The Flea Flickers",
+    "rank": "10",
+    "outcome_totals": {
+      "wins": "5",
+      "losses": "10",
+      "ties": 0,
+      "percentage": ".333"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1610.72",
+    "points_against": 1729.84
+  },
+  {
+    "team_key": "461.l.54130.t.4",
+    "name": "Unsolicited Nix Pics",
+    "rank": "11",
+    "outcome_totals": {
+      "wins": "5",
+      "losses": "10",
+      "ties": 0,
+      "percentage": ".333"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1354.72",
+    "points_against": 1656.9400000000003
+  },
+  {
+    "team_key": "461.l.54130.t.5",
+    "name": "My Ball Zach Ertz",
+    "rank": "12",
+    "outcome_totals": {
+      "wins": "3",
+      "losses": "12",
+      "ties": 0,
+      "percentage": ".200"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "7"
+    },
+    "points_for": "1415.54",
+    "points_against": 1620.0999999999997
+  }
+]

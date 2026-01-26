@@ -1,0 +1,214 @@
+[
+  {
+    "team_key": "414.l.336160.t.10",
+    "name": "Tuacanplayatthat",
+    "rank": 1,
+    "playoff_seed": "3",
+    "outcome_totals": {
+      "wins": "9",
+      "losses": "6",
+      "ties": 0,
+      "percentage": ".600"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1644.56",
+    "points_against": 1458.1799999999998
+  },
+  {
+    "team_key": "414.l.336160.t.1",
+    "name": "School Of Brock",
+    "rank": 2,
+    "playoff_seed": "4",
+    "outcome_totals": {
+      "wins": "8",
+      "losses": "6",
+      "ties": "1",
+      "percentage": ".567"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1723.56",
+    "points_against": 1760.7800000000002
+  },
+  {
+    "team_key": "414.l.336160.t.7",
+    "name": "San Franshelfo 49ers",
+    "rank": 3,
+    "playoff_seed": "1",
+    "outcome_totals": {
+      "wins": "12",
+      "losses": "3",
+      "ties": 0,
+      "percentage": ".800"
+    },
+    "streak": {
+      "type": "win",
+      "value": "7"
+    },
+    "points_for": "1830.54",
+    "points_against": 1466.6599999999999
+  },
+  {
+    "team_key": "414.l.336160.t.5",
+    "name": "My Ball Zach Ertz",
+    "rank": 4,
+    "playoff_seed": "2",
+    "outcome_totals": {
+      "wins": "10",
+      "losses": "5",
+      "ties": 0,
+      "percentage": ".667"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1670.02",
+    "points_against": 1533.58
+  },
+  {
+    "team_key": "414.l.336160.t.6",
+    "name": "PAT's the way uh-huh I like it",
+    "rank": 5,
+    "playoff_seed": "7",
+    "outcome_totals": {
+      "wins": "7",
+      "losses": "8",
+      "ties": 0,
+      "percentage": ".467"
+    },
+    "streak": {
+      "type": "win",
+      "value": "2"
+    },
+    "points_for": "1571.12",
+    "points_against": 1556.1999999999998
+  },
+  {
+    "team_key": "414.l.336160.t.4",
+    "name": "MAGAroppolo",
+    "rank": 6,
+    "playoff_seed": "8",
+    "outcome_totals": {
+      "wins": "7",
+      "losses": "8",
+      "ties": 0,
+      "percentage": ".467"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "2"
+    },
+    "points_for": "1562.40",
+    "points_against": 1715.0600000000002
+  },
+  {
+    "team_key": "414.l.336160.t.3",
+    "name": "Last Chance Nu'u",
+    "rank": 7,
+    "playoff_seed": "5",
+    "outcome_totals": {
+      "wins": "8",
+      "losses": "7",
+      "ties": 0,
+      "percentage": ".533"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1606.60",
+    "points_against": 1538.88
+  },
+  {
+    "team_key": "414.l.336160.t.12",
+    "name": "Red Zone 1.0",
+    "rank": 8,
+    "playoff_seed": "6",
+    "outcome_totals": {
+      "wins": "7",
+      "losses": "7",
+      "ties": "1",
+      "percentage": ".500"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1505.86",
+    "points_against": 1562.06
+  },
+  {
+    "team_key": "414.l.336160.t.2",
+    "name": "Beartown Beasts",
+    "rank": "9",
+    "outcome_totals": {
+      "wins": "7",
+      "losses": "8",
+      "ties": 0,
+      "percentage": ".467"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1498.06",
+    "points_against": 1463.8
+  },
+  {
+    "team_key": "414.l.336160.t.11",
+    "name": "Hot Chubb Time Machine",
+    "rank": "10",
+    "outcome_totals": {
+      "wins": "6",
+      "losses": "9",
+      "ties": 0,
+      "percentage": ".400"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1511.22",
+    "points_against": 1624.3000000000002
+  },
+  {
+    "team_key": "414.l.336160.t.8",
+    "name": "The Flea Flickers",
+    "rank": "11",
+    "outcome_totals": {
+      "wins": "5",
+      "losses": "10",
+      "ties": 0,
+      "percentage": ".333"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "3"
+    },
+    "points_for": "1512.74",
+    "points_against": 1564.4800000000002
+  },
+  {
+    "team_key": "414.l.336160.t.9",
+    "name": "Brees Nutz",
+    "rank": "12",
+    "outcome_totals": {
+      "wins": "3",
+      "losses": "12",
+      "ties": 0,
+      "percentage": ".200"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1285.00",
+    "points_against": 1677.7
+  }
+]

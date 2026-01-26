@@ -1,193 +1,181 @@
-round,pick,team,manager,player,position,editorial_team_abbr,cost
-1,1,Ace's Swell Team,,Justin Jefferson,WR,Min,
-1,2,Bengal Royals,,Christian McCaffrey,RB,SF,
-1,3,ThunderGun Express,,Ja'Marr Chase,WR,Cin,
-1,4,Fuck This Season 🐒💩,,Tyreek Hill,WR,Mia,
-1,5,Vancity Vikings,,Austin Ekeler,RB,Was,
-1,6,Only Here b/c it's Tradition,,Cooper Kupp,WR,Sea,
-1,7,Messy Discharge,,Bijan Robinson,RB,Atl,
-1,8,Pew pew express,,Travis Kelce,TE,KC,
-1,9,Over the Hill,,Nick Chubb,RB,Hou,
-1,10,Mack Truck,,Saquon Barkley,RB,Phi,
-1,11,Jacobs' Crackers,,Josh Jacobs,RB,GB,
-1,12,Gettin Diggy With It,,Tony Pollard,RB,Ten,
-2,13,Gettin Diggy With It,,Stefon Diggs,WR,NE,
-2,14,Jacobs' Crackers,,Davante Adams,WR,LAR,
-2,15,Mack Truck,,A.J. Brown,WR,Phi,
-2,16,Over the Hill,,Derrick Henry,RB,Bal,
-2,17,Pew pew express,,Amon-Ra St. Brown,WR,Det,
-2,18,Messy Discharge,,CeeDee Lamb,WR,Dal,
-2,19,Only Here b/c it's Tradition,,Garrett Wilson,WR,NYJ,
-2,20,Vancity Vikings,,Joe Mixon,RB,Hou,
-2,21,Fuck This Season 🐒💩,,Chris Olave,WR,NO,
-2,22,ThunderGun Express,,Patrick Mahomes,QB,KC,
-2,23,Bengal Royals,,Jaylen Waddle,WR,Mia,
-2,24,Ace's Swell Team,,DeVonta Smith,WR,Phi,
-3,25,Ace's Swell Team,,Travis Etienne Jr.,RB,Jax,
-3,26,Bengal Royals,,Jalen Hurts,QB,Phi,
-3,27,ThunderGun Express,,Aaron Jones Sr.,RB,Min,
-3,28,Fuck This Season 🐒💩,,Jahmyr Gibbs,RB,Det,
-3,29,Vancity Vikings,,Josh Allen,QB,Buf,
-3,30,Only Here b/c it's Tradition,,Najee Harris,RB,LAC,
-3,31,Messy Discharge,,Dameon Pierce,RB,Hou,
-3,32,Pew pew express,,J.K. Dobbins,RB,Den,
-3,33,Over the Hill,,Tee Higgins,WR,Cin,
-3,34,Mack Truck,,Rhamondre Stevenson,RB,NE,
-3,35,Jacobs' Crackers,,DK Metcalf,WR,Pit,
-3,36,Gettin Diggy With It,,Mark Andrews,TE,Bal,
-4,37,Gettin Diggy With It,,Calvin Ridley,WR,Ten,
-4,38,Jacobs' Crackers,,Deebo Samuel,WR,Was,
-4,39,Mack Truck,,Keenan Allen,WR,LAC,
-4,40,Over the Hill,,Amari Cooper,WR,Buf,
-4,41,Pew pew express,,Lamar Jackson,QB,Bal,
-4,42,Messy Discharge,,Alexander Mattison,RB,Mia,
-4,43,Only Here b/c it's Tradition,,Breece Hall,RB,NYJ,
-4,44,Vancity Vikings,,Tyler Lockett,WR,Ten,
-4,45,Fuck This Season 🐒💩,,Brandon Aiyuk,WR,SF,
-4,46,ThunderGun Express,,Miles Sanders,RB,Dal,
-4,47,Bengal Royals,,George Kittle,TE,SF,
-4,48,Ace's Swell Team,,Kenneth Walker III,RB,Sea,
-5,49,Ace's Swell Team,,Drake London,WR,Atl,
-5,50,Bengal Royals,,DJ Moore,WR,Chi,
-5,51,ThunderGun Express,,Jonathan Taylor,RB,Ind,
-5,52,Fuck This Season 🐒💩,,Justin Fields,QB,NYJ,
-5,53,Vancity Vikings,,Michael Pittman Jr.,WR,Ind,
-5,54,Only Here b/c it's Tradition,,Diontae Johnson,WR,Cle,
-5,55,Messy Discharge,,Joe Burrow,QB,Cin,
-5,56,Pew pew express,,Jahan Dotson,WR,Phi,
-5,57,Over the Hill,,T.J. Hockenson,TE,Min,
-5,58,Mack Truck,,Christian Watson,WR,GB,
-5,59,Jacobs' Crackers,,Justin Herbert,QB,LAC,
-5,60,Gettin Diggy With It,,James Conner,RB,Ari,
-6,61,Gettin Diggy With It,,James Cook,RB,Buf,
-6,62,Jacobs' Crackers,,Isiah Pacheco,RB,KC,
-6,63,Mack Truck,,Darren Waller,TE,Mia,
-6,64,Over the Hill,,Trevor Lawrence,QB,Jax,
-6,65,Pew pew express,,Javonte Williams,RB,Dal,
-6,66,Messy Discharge,,Rachaad White,RB,TB,
-6,67,Only Here b/c it's Tradition,,Terry McLaurin,WR,Was,
-6,68,Vancity Vikings,,DeAndre Hopkins,WR,Bal,
-6,69,Fuck This Season 🐒💩,,Cam Akers,RB,NO,
-6,70,ThunderGun Express,,Chris Godwin,WR,TB,
-6,71,Bengal Royals,,Dalvin Cook,RB,Dal,
-6,72,Ace's Swell Team,,Kyle Pitts Sr.,TE,Atl,
-7,73,Ace's Swell Team,,Mike Evans,WR,TB,
-7,74,Bengal Royals,,Mike Williams,WR,Pit,
-7,75,ThunderGun Express,,Christian Kirk,WR,Hou,
-7,76,Fuck This Season 🐒💩,,George Pickens,WR,Dal,
-7,77,Vancity Vikings,,D'Andre Swift,RB,Chi,
-7,78,Only Here b/c it's Tradition,,Dallas Goedert,TE,Phi,
-7,79,Messy Discharge,,Jordan Addison,WR,Min,
-7,80,Pew pew express,,Alvin Kamara,RB,NO,
-7,81,Over the Hill,,Jerry Jeudy,WR,Cle,
-7,82,Mack Truck,,Khalil Herbert,RB,Ind,
-7,83,Jacobs' Crackers,,Gabe Davis,WR,Jax,
-7,84,Gettin Diggy With It,,Daniel Jones,QB,Ind,
-8,85,Gettin Diggy With It,,Jaxon Smith-Njigba,WR,Sea,
-8,86,Jacobs' Crackers,,Zay Flowers,WR,Bal,
-8,87,Mack Truck,,Deshaun Watson,QB,Cle,
-8,88,Over the Hill,,Dak Prescott,QB,Dal,
-8,89,Pew pew express,,Elijah Moore,WR,Buf,
-8,90,Messy Discharge,,Pat Freiermuth,TE,Pit,
-8,91,Only Here b/c it's Tradition,,Tua Tagovailoa,QB,Mia,
-8,92,Vancity Vikings,,David Njoku,TE,Cle,
-8,93,Fuck This Season 🐒💩,,David Montgomery,RB,Det,
-8,94,ThunderGun Express,,Evan Engram,TE,Den,
-8,95,Bengal Royals,,Tyler Boyd,WR,Ten,
-8,96,Ace's Swell Team,,Geno Smith,QB,LV,
-9,97,Ace's Swell Team,,San Francisco,DEF,SF,
-9,98,Bengal Royals,,A.J. Dillon,RB,Phi,
-9,99,ThunderGun Express,,Rashod Bateman,WR,Bal,
-9,100,Fuck This Season 🐒💩,,Antonio Gibson,RB,NE,
-9,101,Vancity Vikings,,Brian Robinson Jr.,RB,Was,
-9,102,Only Here b/c it's Tradition,,Dallas,DEF,Dal,
-9,103,Messy Discharge,,Nico Collins,WR,Hou,
-9,104,Pew pew express,,Hollywood Brown,WR,KC,
-9,105,Over the Hill,,Brandin Cooks,WR,NO,
-9,106,Mack Truck,,Courtland Sutton,WR,Den,
-9,107,Jacobs' Crackers,,Zach Charbonnet,RB,Sea,
-9,108,Gettin Diggy With It,,Aaron Rodgers,QB,Pit,
-10,109,Gettin Diggy With It,,Quentin Johnston,WR,LAC,
-10,110,Jacobs' Crackers,,Jaylen Warren,RB,Pit,
-10,111,Mack Truck,,Samaje Perine,RB,Cin,
-10,112,Over the Hill,,De'Von Achane,RB,Mia,
-10,113,Pew pew express,,Tyjae Spears,RB,Ten,
-10,114,Messy Discharge,,Michael Thomas,WR,NO,
-10,115,Only Here b/c it's Tradition,,Justin Tucker,K,Bal,
-10,116,Vancity Vikings,,Odell Beckham Jr.,WR,Mia,
-10,117,Fuck This Season 🐒💩,,Skyy Moore,WR,KC,
-10,118,ThunderGun Express,,Philadelphia,DEF,Phi,
-10,119,Bengal Royals,,Evan McPherson,K,Cin,
-10,120,Ace's Swell Team,,Daniel Carlson,K,LV,
-11,121,Ace's Swell Team,,Jake Gervase,LB,LAR,
-11,122,Bengal Royals,,Buffalo,DEF,Buf,
-11,123,ThunderGun Express,,Tyler Bass,K,Buf,
-11,124,Fuck This Season 🐒💩,,Treylon Burks,WR,Ten,
-11,125,Vancity Vikings,,New York,DEF,NYJ,
-11,126,Only Here b/c it's Tradition,,Kamu Grugier-Hill,LB,Min,
-11,127,Messy Discharge,,Sam LaPorta,TE,Det,
-11,128,Pew pew express,,Harrison Butker,K,KC,
-11,129,Over the Hill,,Riley Patterson,K,NYJ,
-11,130,Mack Truck,,JuJu Smith-Schuster,WR,KC,
-11,131,Jacobs' Crackers,,Tyler Conklin,TE,LAC,
-11,132,Gettin Diggy With It,,Kadarius Toney,WR,Cle,
-12,133,Gettin Diggy With It,,Darnell Mooney,WR,Atl,
-12,134,Jacobs' Crackers,,Tank Bigsby,RB,Jax,
-12,135,Mack Truck,,Younghoe Koo,K,Atl,
-12,136,Over the Hill,,Rashee Rice,WR,KC,
-12,137,Pew pew express,,Rashaad Penny,RB,Phi,
-12,138,Messy Discharge,,Kirk Cousins,QB,Atl,
-12,139,Only Here b/c it's Tradition,,Jamaal Williams,RB,NO,
-12,140,Vancity Vikings,,Jason Sanders,K,Mia,
-12,141,Fuck This Season 🐒💩,,Raheem Mostert,RB,LV,
-12,142,ThunderGun Express,,Jerick McKinnon,RB,KC,
-12,143,Bengal Royals,,Micah Parsons,LB,Dal,
-12,144,Ace's Swell Team,,Kenneth Gainwell,RB,Pit,
-13,145,Ace's Swell Team,,Anthony Richardson Sr.,QB,Ind,
-13,146,Bengal Royals,,Adam Thielen,WR,Car,
-13,147,ThunderGun Express,,Dalton Kincaid,TE,Buf,
-13,148,Fuck This Season 🐒💩,,Marvin Mims Jr.,WR,Den,
-13,149,Vancity Vikings,,Ezekiel Elliott,RB,Dal,
-13,150,Only Here b/c it's Tradition,,Chig Okonkwo,TE,Ten,
-13,151,Messy Discharge,,T.J. Watt,LB,Pit,
-13,152,Pew pew express,,Allen Lazard,WR,NYJ,
-13,153,Over the Hill,,Miami,DEF,Mia,
-13,154,Mack Truck,,New England,DEF,NE,
-13,155,Jacobs' Crackers,,New Orleans,DEF,NO,
-13,156,Gettin Diggy With It,,Denver,DEF,Den,
-14,157,Gettin Diggy With It,,Zay Jones,WR,Ari,
-14,158,Jacobs' Crackers,,Matthew Stafford,QB,LAR,
-14,159,Mack Truck,,Jakobi Meyers,WR,LV,
-14,160,Over the Hill,,Haason Reddick,LB,TB,
-14,161,Pew pew express,,Elijah Mitchell,RB,KC,
-14,162,Messy Discharge,,Cincinnati,DEF,Cin,
-14,163,Only Here b/c it's Tradition,,Tyler Allgeier,RB,Atl,
-14,164,Vancity Vikings,,Russell Wilson,QB,NYG,
-14,165,Fuck This Season 🐒💩,,Cole Kmet,TE,Chi,
-14,166,ThunderGun Express,,Nick Bellore,LB,Was,
-14,167,Bengal Royals,,Michael Gallup,WR,Was,
-14,168,Ace's Swell Team,,Tyler Higbee,TE,LAR,
-15,169,Ace's Swell Team,,Damien Harris,RB,Buf,
-15,170,Bengal Royals,,Jared Goff,QB,Det,
-15,171,ThunderGun Express,,Brock Purdy,QB,SF,
-15,172,Fuck This Season 🐒💩,,Baltimore,DEF,Bal,
-15,173,Vancity Vikings,,D'Onta Foreman,RB,Cle,
-15,174,Only Here b/c it's Tradition,,Romeo Doubs,WR,GB,
-15,175,Messy Discharge,,Jalin Hyatt,WR,NYG,
-15,176,Pew pew express,,Green Bay,DEF,GB,
-15,177,Over the Hill,,Devin Singletary,RB,NYG,
-15,178,Mack Truck,,Roschon Johnson,RB,Chi,
-15,179,Jacobs' Crackers,,Greg Dulcich,TE,NYG,
-15,180,Gettin Diggy With It,,Van Jefferson,WR,Ten,
-16,181,Gettin Diggy With It,,Kendre Miller,RB,NO,
-16,182,Jacobs' Crackers,,Isaiah Hodgins,WR,SF,
-16,183,Mack Truck,,Joey Bosa,LB,Buf,
-16,184,Over the Hill,,DJ Chark,WR,Atl,
-16,185,Pew pew express,,Matt Judon,LB,Mia,
-16,186,Messy Discharge,,Jake Elliott,K,Phi,
-16,187,Only Here b/c it's Tradition,,Kenny Pickett,QB,Cle,
-16,188,Vancity Vikings,,Bobby Wagner,LB,Was,
-16,189,Fuck This Season 🐒💩,,Deon Jackson,RB,Det,
-16,190,ThunderGun Express,,Jonathan Mingo,WR,Dal,
-16,191,Bengal Royals,,Chuba Hubbard,RB,Car,
-16,192,Ace's Swell Team,,Rashid Shaheed,WR,NO,
+round,pick,manager,player,position,editorial_team_abbr,adp,adp_diff
+1,1,Conor,Ja'Marr Chase,WR,Cin,3.1,-2.1
+1,2,Ben,Justin Jefferson,WR,Min,1.5,0.5
+1,3,Jack E,Christian McCaffrey,RB,SF,2.5,0.5
+1,4,Si,Austin Ekeler,RB,Was,5.3,-1.3
+1,5,Andrew,Derrick Henry,RB,Bal,15.6,-10.6
+1,6,Graham,Tyreek Hill,WR,Mia,6.3,-0.3
+1,7,Jake,Travis Kelce,TE,KC,7.7,-0.7
+1,8,Kevin,Bijan Robinson,RB,Atl,9.6,-1.6
+1,9,Jack C,Nick Chubb,RB,Hou,8.7,0.3
+1,10,Chris,Stefon Diggs,WR,NE,9.6,0.4
+1,11,Jamie,Saquon Barkley,RB,Phi,12.0,-1.0
+1,12,Colin,A.J. Brown,WR,Phi,14.4,-2.4
+2,13,Colin,CeeDee Lamb,WR,Dal,14.7,-1.7
+2,14,Jamie,Josh Jacobs,RB,GB,18.9,-4.9
+2,15,Chris,Tony Pollard,RB,Ten,14.2,0.8
+2,16,Jack C,Amon-Ra St. Brown,WR,Det,19.0,-3.0
+2,17,Kevin,Garrett Wilson,WR,NYJ,20.7,-3.7
+2,18,Jake,Jalen Hurts,QB,Phi,21.3,-3.3
+2,19,Graham,Najee Harris,RB,LAC,30.4,-11.4
+2,20,Andrew,Davante Adams,WR,LAR,17.1,2.9
+2,21,Si,Travis Etienne Jr.,RB,Jax,25.7,-4.7
+2,22,Jack E,Joe Mixon,RB,Hou,30.2,-8.2
+2,23,Ben,Patrick Mahomes,QB,KC,15.6,7.4
+2,24,Conor,DeVonta Smith,WR,Phi,26.5,-2.5
+3,25,Conor,Josh Allen,QB,Buf,24.3,0.7
+3,26,Ben,Aaron Jones Sr.,RB,Min,33.0,-7.0
+3,27,Jack E,Lamar Jackson,QB,Bal,36.3,-9.3
+3,28,Si,Jahmyr Gibbs,RB,Det,35.5,-7.5
+3,29,Andrew,Rhamondre Stevenson,RB,NE,32.9,-3.9
+3,30,Graham,Calvin Ridley,WR,Ten,35.4,-5.4
+3,31,Jake,Jaylen Waddle,WR,Mia,24.1,6.9
+3,32,Kevin,Tee Higgins,WR,Cin,31.7,0.3
+3,33,Jack C,Dameon Pierce,RB,Hou,45.5,-12.5
+3,34,Chris,Deebo Samuel,WR,Was,40.2,-6.2
+3,35,Jamie,Chris Olave,WR,NO,27.6,7.4
+3,36,Colin,Kenneth Walker III,RB,Sea,44.9,-8.9
+4,37,Colin,Breece Hall,RB,NYJ,38.3,-1.3
+4,38,Jamie,DK Metcalf,WR,Pit,35.6,2.4
+4,39,Chris,T.J. Hockenson,TE,Min,44.8,-5.8
+4,40,Jack C,Cooper Kupp,WR,Sea,16.6,23.4
+4,41,Kevin,J.K. Dobbins,RB,Den,45.1,-4.1
+4,42,Jake,Mark Andrews,TE,Bal,34.0,8.0
+4,43,Graham,Justin Fields,QB,NYJ,48.8,-5.8
+4,44,Andrew,Amari Cooper,WR,LV,41.1,2.9
+4,45,Si,Tyler Lockett,WR,Ten,54.7,-9.7
+4,46,Jack E,Keenan Allen,WR,LAC,46.5,-0.5
+4,47,Ben,Drake London,WR,Atl,63.3,-16.3
+4,48,Conor,James Conner,RB,Ari,58.3,-10.3
+5,49,Conor,James Cook,RB,Buf,69.9,-20.9
+5,50,Ben,Alexander Mattison,RB,Mia,58.6,-8.6
+5,51,Jack E,Brandon Aiyuk,WR,SF,62.4,-11.4
+5,52,Si,Diontae Johnson,WR,Cle,76.7,-24.7
+5,53,Andrew,Dalton Kincaid,TE,Buf,121.0,-68.0
+5,54,Graham,Isiah Pacheco,RB,KC,76.7,-22.7
+5,55,Jake,Cam Akers,RB,NO,59.9,-4.9
+5,56,Kevin,Darren Waller,TE,Mia,57.1,-1.1
+5,57,Jack C,Miles Sanders,RB,Dal,52.6,4.4
+5,58,Chris,Dalvin Cook,RB,Dal,75.3,-17.3
+5,59,Jamie,Trevor Lawrence,QB,Jax,58.7,0.3
+5,60,Colin,DJ Moore,WR,Chi,55.9,4.1
+6,61,Colin,Javonte Williams,RB,Dal,75.4,-14.4
+6,62,Jamie,Christian Watson,WR,GB,76.7,-14.7
+6,63,Chris,Joe Burrow,QB,Cin,44.6,18.4
+6,64,Jack C,Justin Herbert,QB,LAC,54.1,9.9
+6,65,Kevin,Jahan Dotson,WR,Phi,95.2,-30.2
+6,66,Jake,Rachaad White,RB,TB,85.2,-19.2
+6,67,Graham,Kyle Pitts Sr.,TE,Atl,60.4,6.6
+6,68,Andrew,David Montgomery,RB,Det,77.4,-9.4
+6,69,Si,George Kittle,TE,SF,47.3,21.7
+6,70,Jack E,Dallas Goedert,TE,Phi,58.7,11.3
+6,71,Ben,David Njoku,TE,Cle,94.3,-23.3
+6,72,Conor,Terry McLaurin,WR,Was,65.3,6.7
+7,73,Conor,Khalil Herbert,RB,Ind,95.3,-22.3
+7,74,Ben,D'Andre Swift,RB,Chi,86.4,-12.4
+7,75,Jack E,Chris Godwin Jr.,WR,TB,75.5,-0.5
+7,76,Si,Dak Prescott,QB,Dal,78.4,-2.4
+7,77,Andrew,Tua Tagovailoa,QB,Mia,95.6,-18.6
+7,78,Graham,Antonio Gibson,RB,NE,110.0,-32.0
+7,79,Jake,George Pickens,WR,Dal,91.5,-12.5
+7,80,Kevin,A.J. Dillon,RB,Phi,102.2,-22.2
+7,81,Jack C,Jonathan Taylor,RB,Ind,41.8,39.2
+7,82,Chris,Michael Pittman Jr.,WR,Ind,82.9,-0.9
+7,83,Jamie,Mike Evans,WR,TB,84.9,-1.9
+7,84,Colin,Jamaal Williams,RB,NO,106.9,-22.9
+8,85,Colin,Geno Smith,QB,LV,115.3,-30.3
+8,86,Jamie,Zach Charbonnet,RB,Sea,117.2,-31.2
+8,87,Chris,Alvin Kamara,RB,NO,81.2,5.8
+8,88,Jack C,Jaxon Smith-Njigba,WR,Sea,111.4,-23.4
+8,89,Kevin,Jordan Addison,WR,Min,105.5,-16.5
+8,90,Jake,Mike Williams,WR,Pit,80.1,9.9
+8,91,Graham,Zay Flowers,WR,Bal,115.5,-24.5
+8,92,Andrew,DeAndre Hopkins,WR,Bal,62.3,29.7
+8,93,Si,San Francisco,DEF,SF,68.5,24.5
+8,94,Jack E,Raheem Mostert,RB,LV,115.2,-21.2
+8,95,Ben,Christian Kirk,WR,Hou,89.4,5.6
+8,96,Conor,Evan Engram,TE,Den,77.4,18.6
+9,97,Conor,Brian Robinson Jr.,RB,SF,103.1,-6.1
+9,98,Ben,Pat Freiermuth,TE,Pit,77.8,20.2
+9,99,Jack E,Jerry Jeudy,WR,Cle,86.7,12.3
+9,100,Si,Justin Tucker,K,Bal,76.8,23.2
+9,101,Andrew,Rashaad Penny,RB,Phi,112.7,-11.7
+9,102,Graham,Jaylen Warren,RB,Pit,125.8,-23.8
+9,103,Jake,Courtland Sutton,WR,Den,120.4,-17.4
+9,104,Kevin,Aaron Rodgers,QB,Pit,101.4,2.6
+9,105,Jack C,Rashod Bateman,WR,Bal,123.7,-18.7
+9,106,Chris,Jerick McKinnon,RB,KC,123.9,-17.9
+9,107,Jamie,Gabe Davis,WR,Jax,100.4,6.6
+9,108,Colin,Elijah Moore,WR,Buf,119.8,-11.8
+10,109,Colin,Brandin Cooks,WR,NO,113.6,-4.6
+10,110,Jamie,Tyler Conklin,TE,LAC,123.8,-13.8
+10,111,Chris,Adam Thielen,WR,Min,127.0,-16.0
+10,112,Jack C,De'Von Achane,RB,Mia,125.7,-13.7
+10,113,Kevin,Ezekiel Elliott,RB,Dal,122.0,-9.0
+10,114,Jake,JuJu Smith-Schuster,WR,KC,125.6,-11.6
+10,115,Graham,Sam LaPorta,TE,Det,128.6,-13.6
+10,116,Andrew,Kirk Cousins,QB,Atl,116.2,-0.2
+10,117,Si,Hollywood Brown,WR,KC,100.2,16.8
+10,118,Jack E,Samaje Perine,RB,Cin,119.2,-1.2
+10,119,Ben,Deshaun Watson,QB,Cle,95.0,24.0
+10,120,Conor,Jakobi Meyers,WR,LV,129.0,-9.0
+11,121,Conor,Rashid Shaheed,WR,NO,,
+11,122,Ben,Nico Collins,WR,Hou,125.0,-3.0
+11,123,Jack E,Jalin Hyatt,WR,NYG,126.3,-3.3
+11,124,Si,Daniel Jones,QB,Ind,94.4,29.6
+11,125,Andrew,Damien Harris,RB,Buf,118.7,6.3
+11,126,Graham,Quentin Johnston,WR,LAC,128.4,-2.4
+11,127,Jake,Anthony Richardson Sr.,QB,Ind,116.8,10.2
+11,128,Kevin,Treylon Burks,WR,Ten,123.1,4.9
+11,129,Jack C,Cole Kmet,TE,Chi,126.2,2.8
+11,130,Chris,Greg Dulcich,TE,Mia,122.9,7.1
+11,131,Jamie,Deon Jackson,RB,Det,130.5,0.5
+11,132,Colin,Dalton Schultz,TE,Hou,128.1,3.9
+12,133,Colin,Juwan Johnson,TE,NO,133.6,-0.6
+12,134,Jamie,Tank Bigsby,RB,Jax,128.0,6.0
+12,135,Chris,Philadelphia,DEF,Phi,79.2,55.8
+12,136,Jack C,Buffalo,DEF,Buf,86.8,49.2
+12,137,Kevin,Dallas,DEF,Dal,76.5,60.5
+12,138,Jake,Tyler Allgeier,RB,Atl,125.1,12.9
+12,139,Graham,Washington,DEF,Was,141.7,-2.7
+12,140,Andrew,Baltimore,DEF,Bal,119.8,20.2
+12,141,Si,Skyy Moore,WR,SF,123.4,17.6
+12,142,Jack E,Seattle,DEF,Sea,132.0,10.0
+12,143,Ben,Pittsburgh,DEF,Pit,128.7,14.3
+12,144,Conor,Tyler Bass,K,Buf,97.7,46.3
+13,145,Conor,Michael Gallup,WR,Was,123.8,21.2
+13,146,Ben,Harrison Butker,K,KC,97.3,48.7
+13,147,Jack E,Daniel Carlson,K,LV,92.9,54.1
+13,148,Si,Tyler Higbee,TE,LAR,122.7,25.3
+13,149,Andrew,Gerald Everett,TE,Chi,133.2,15.8
+13,150,Graham,Younghoe Koo,K,Atl,111.8,38.2
+13,151,Jake,Jonathan Mingo,WR,Dal,,
+13,152,Kevin,Evan McPherson,K,Cin,97.7,54.3
+13,153,Jack C,Luke Musgrave,TE,GB,129.5,23.5
+13,154,Chris,Matt Gay,K,Was,132.2,21.8
+13,155,Jamie,Matthew Stafford,QB,LAR,128.3,26.7
+13,156,Colin,New York,DEF,NYJ,91.8,64.2
+14,157,Colin,Michael Thomas,WR,NO,115.0,42.0
+14,158,Jamie,New Orleans,DEF,NO,130.2,27.8
+14,159,Chris,Jimmy Garoppolo,QB,LAR,118.8,40.2
+14,160,Jack C,Jared Goff,QB,Det,126.1,33.9
+14,161,Kevin,Kenny Pickett,QB,LV,124.5,36.5
+14,162,Jake,New England,DEF,NE,114.7,47.3
+14,163,Graham,Elijah Mitchell,RB,KC,125.7,37.3
+14,164,Andrew,Jason Sanders,K,Mia,129.1,34.9
+14,165,Si,Kenneth Gainwell,RB,Pit,122.4,42.6
+14,166,Jack E,Jake Ferguson,TE,Dal,134.5,31.5
+14,167,Ben,Devin Singletary,RB,NYG,124.6,42.4
+14,168,Conor,Chig Okonkwo,TE,Ten,125.7,42.3
+15,169,Conor,Miami,DEF,Mia,122.7,46.3
+15,170,Ben,Jerome Ford,RB,Cle,85.5,84.5
+15,171,Jack E,Russell Wilson,QB,NYG,131.1,39.9
+15,172,Si,Denver,DEF,Den,117.1,54.9
+15,173,Andrew,DJ Chark,WR,Atl,,
+15,174,Graham,Odell Beckham Jr.,WR,Mia,117.4,56.6
+15,175,Jake,Greg Joseph,K,NYG,135.4,39.6
+15,176,Kevin,Irv Smith Jr.,TE,Hou,126.8,49.2
+15,177,Jack C,Jake Elliott,K,Phi,129.3,47.7
+15,178,Chris,Jeff Wilson,RB,Mia,130.3,47.7
+15,179,Jamie,Isaiah Likely,TE,Bal,,
+15,180,Colin,Brandon McManus,K,GB,136.0,44.0

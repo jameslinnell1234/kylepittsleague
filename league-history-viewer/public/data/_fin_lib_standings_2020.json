@@ -1,0 +1,146 @@
+[
+  {
+    "team_key": "399.l.857293.t.7",
+    "name": "Beartown Beasts",
+    "rank": 1,
+    "playoff_seed": "1",
+    "outcome_totals": {
+      "wins": "10",
+      "losses": "4",
+      "ties": 0,
+      "percentage": ".714"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1679.22",
+    "points_against": 1400.78
+  },
+  {
+    "team_key": "399.l.857293.t.2",
+    "name": "Shelfadelphia Eagles",
+    "rank": 2,
+    "playoff_seed": "2",
+    "outcome_totals": {
+      "wins": "9",
+      "losses": "5",
+      "ties": 0,
+      "percentage": ".643"
+    },
+    "streak": {
+      "type": "win",
+      "value": "3"
+    },
+    "points_for": "1561.76",
+    "points_against": 1553.24
+  },
+  {
+    "team_key": "399.l.857293.t.3",
+    "name": "My Ball Zach Ertz",
+    "rank": 3,
+    "playoff_seed": "3",
+    "outcome_totals": {
+      "wins": "8",
+      "losses": "6",
+      "ties": 0,
+      "percentage": ".571"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1513.72",
+    "points_against": 1439.9199999999998
+  },
+  {
+    "team_key": "399.l.857293.t.4",
+    "name": "MAGAroppolo",
+    "rank": 4,
+    "playoff_seed": "4",
+    "outcome_totals": {
+      "wins": "7",
+      "losses": "7",
+      "ties": 0,
+      "percentage": ".500"
+    },
+    "streak": {
+      "type": "win",
+      "value": "1"
+    },
+    "points_for": "1552.04",
+    "points_against": 1433.2599999999998
+  },
+  {
+    "team_key": "399.l.857293.t.8",
+    "name": "The Flea Flickers",
+    "rank": 5,
+    "playoff_seed": "5",
+    "outcome_totals": {
+      "wins": "7",
+      "losses": "7",
+      "ties": 0,
+      "percentage": ".500"
+    },
+    "streak": {
+      "type": "win",
+      "value": "2"
+    },
+    "points_for": "1458.18",
+    "points_against": 1521.6599999999996
+  },
+  {
+    "team_key": "399.l.857293.t.5",
+    "name": "Last Chance Nu'u",
+    "rank": 6,
+    "playoff_seed": "6",
+    "outcome_totals": {
+      "wins": "6",
+      "losses": "8",
+      "ties": 0,
+      "percentage": ".429"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "1"
+    },
+    "points_for": "1454.74",
+    "points_against": 1504.6799999999998
+  },
+  {
+    "team_key": "399.l.857293.t.6",
+    "name": "Not So Brady Bunch",
+    "rank": 7,
+    "playoff_seed": "8",
+    "outcome_totals": {
+      "wins": "4",
+      "losses": "10",
+      "ties": 0,
+      "percentage": ".286"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "4"
+    },
+    "points_for": "1397.36",
+    "points_against": 1575.3399999999997
+  },
+  {
+    "team_key": "399.l.857293.t.1",
+    "name": "Meh",
+    "rank": 8,
+    "playoff_seed": "7",
+    "outcome_totals": {
+      "wins": "5",
+      "losses": "9",
+      "ties": 0,
+      "percentage": ".357"
+    },
+    "streak": {
+      "type": "loss",
+      "value": "2"
+    },
+    "points_for": "1331.72",
+    "points_against": 1519.8600000000001
+  }
+]

@@ -1,0 +1,4872 @@
+{
+  "years": {
+    "2020": {
+      "head_to_head": [
+        {
+          "section": "Wins",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Wins"
+          ],
+          "rows": [
+            {
+              "Record": "Most Wins",
+              "Record Holder": "Beartown Beasts",
+              "Wins": "12"
+            },
+            {
+              "Record": "Most Wins in a Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Wins": "12"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "Beartown Beasts My Ball Zach Ertz The Flea Flickers",
+              "Wins": "5"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "The Flea Flickers , Season 2020",
+              "Wins": "5"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "The Flea Flickers",
+              "Wins": "4"
+            }
+          ]
+        },
+        {
+          "section": "Losses",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Losses"
+          ],
+          "rows": [
+            {
+              "Record": "Most Losses",
+              "Record Holder": "Meh Not So Brady Bunch",
+              "Losses": "11"
+            },
+            {
+              "Record": "Most Losses, All Time",
+              "Record Holder": "Not So Brady Bunch , Season 2020",
+              "Losses": "11"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "The Flea Flickers",
+              "Losses": "7"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "The Flea Flickers , Season 2020",
+              "Losses": "7"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "Meh",
+              "Losses": "4"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16",
+              "Margin": "103.18"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Margin": "103.18"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Not So Brady Bunch",
+              "Margin": "42.25"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Beartown Beasts vs. Meh - Week 6",
+              "Margin": "1.26"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Meh - Week 6, Season 2020",
+              "Margin": "1.26"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Meh",
+              "Margin": "18.50"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Shelfadelphia Eagles vs. Beartown Beasts - Week 16",
+              "Margin": "103.18"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Shelfadelphia Eagles vs. Beartown Beasts - Week 16, Season 2020",
+              "Margin": "103.18"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Shelfadelphia Eagles",
+              "Margin": "53.16"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Meh vs. Beartown Beasts - Week 6",
+              "Margin": "1.26"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Meh vs. Beartown Beasts - Week 6, Season 2020",
+              "Margin": "1.26"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "MAGAroppolo",
+              "Margin": "17.50"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Hardest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "Shelfadelphia Eagles",
+              "Average": "114.61"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Easiest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "Beartown Beasts",
+              "Average": "101.19"
+            }
+          ]
+        }
+      ],
+      "team_stats": [
+        {
+          "section": "Touchdowns - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16",
+              "Touchdowns": "16"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Touchdowns": "16"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Beartown Beasts",
+              "Touchdowns": "129 (8.06)"
+            }
+          ]
+        },
+        {
+          "section": "Touchdowns - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Last Chance Nu'u vs. Beartown Beasts - Week 10 MAGAroppolo vs. The Flea Flickers - Week 13 My Ball Zach Ertz vs. Last Chance Nu'u - Week 13",
+              "Touchdowns": "1"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Last Chance Nu'u vs. Beartown Beasts - Week 10, Season 2020",
+              "Touchdowns": "1"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Meh",
+              "Touchdowns": "71 (4.43)"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "MAGAroppolo vs. Shelfadelphia Eagles - Week 4",
+              "Yards": "502"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "MAGAroppolo vs. Shelfadelphia Eagles - Week 4, Season 2020",
+              "Yards": "502"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "MAGAroppolo",
+              "Yards": "4958 (309.87)"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Meh vs. Not So Brady Bunch - Week 12",
+              "Yards": "78"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Meh vs. Not So Brady Bunch - Week 12, Season 2020",
+              "Yards": "78"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Shelfadelphia Eagles",
+              "Yards": "3175 (198.43)"
+            }
+          ]
+        },
+        {
+          "section": "Rushing - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Last Chance Nu'u vs. Not So Brady Bunch - Week 2",
+              "Yards": "372"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Last Chance Nu'u vs. Not So Brady Bunch - Week 2, Season 2020",
+              "Yards": "372"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Yards": "4276 (267.25)"
+            }
+          ]
+        },
+        {
+          "section": "Rushing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Not So Brady Bunch vs. Beartown Beasts - Week 11",
+              "Yards": "44"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Not So Brady Bunch vs. Beartown Beasts - Week 11, Season 2020",
+              "Yards": "44"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Last Chance Nu'u",
+              "Yards": "2244 (140.25)"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Beartown Beasts vs. Meh - Week 13",
+              "Yards": "534"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Meh - Week 13, Season 2020",
+              "Yards": "534"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "MAGAroppolo",
+              "Yards": "5581 (348.81)"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers vs. Last Chance Nu'u - Week 8",
+              "Yards": "88"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "The Flea Flickers vs. Last Chance Nu'u - Week 8, Season 2020",
+              "Yards": "88"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "The Flea Flickers",
+              "Yards": "3711 (231.93)"
+            }
+          ]
+        }
+      ],
+      "team_points": [
+        {
+          "section": "Team Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16",
+              "Points": "191.40"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "191.40"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Beartown Beasts",
+              "Points": "2014.58 (125.91)"
+            }
+          ]
+        },
+        {
+          "section": "Team Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. Last Chance Nu'u - Week 13",
+              "Points": "64.04"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "My Ball Zach Ertz vs. Last Chance Nu'u - Week 13, Season 2020",
+              "Points": "64.04"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Meh",
+              "Points": "1517.16 (94.82)"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Beartown Beasts",
+              "Points": "1926.58 (120.41)"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. Last Chance Nu'u - Week 13",
+              "Points": "56.04"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "My Ball Zach Ertz vs. Last Chance Nu'u - Week 13, Season 2020",
+              "Points": "56.04"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Meh",
+              "Points": "1393.16 (87.07)"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers vs. Beartown Beasts - Week 5",
+              "Points": "26"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "The Flea Flickers vs. Beartown Beasts - Week 5, Season 2020",
+              "Points": "26"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Not So Brady Bunch",
+              "Points": "149 (9.31)"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "MAGAroppolo vs. My Ball Zach Ertz - Week 5",
+              "Points": "-4"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "MAGAroppolo vs. My Ball Zach Ertz - Week 5, Season 2020",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Beartown Beasts",
+              "Points": "88 (5.5)"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Beartown Beasts",
+              "Points": "1860.2 (116.26)"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Meh vs. Last Chance Nu'u - Week 15",
+              "Points": "11.6"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Meh vs. Last Chance Nu'u - Week 15, Season 2020",
+              "Points": "11.6"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Meh",
+              "Points": "696.4 (43.52)"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Shelfadelphia Eagles vs. Not So Brady Bunch - Week 13",
+              "Points": "114.6"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Shelfadelphia Eagles vs. Not So Brady Bunch - Week 13, Season 2020",
+              "Points": "114.6"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Meh",
+              "Points": "820.76 (51.29)"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. MAGAroppolo - Week 5 Not So Brady Bunch vs. Meh - Week 5",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "My Ball Zach Ertz vs. MAGAroppolo - Week 5, Season 2020 Not So Brady Bunch vs. Meh - Week 5, Season 2020",
+              "Points": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Beartown Beasts",
+              "Points": "154.38 (11.87)"
+            }
+          ]
+        }
+      ]
+    },
+    "2021": {
+      "team_stats": [
+        {
+          "section": "Touchdowns - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. The Flea Flickers - Week 2",
+              "Touchdowns": "13"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Touchdowns": "16"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Touchdowns": "107 (6.29)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Touchdowns": "129"
+            }
+          ]
+        },
+        {
+          "section": "Touchdowns - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Tuacanplayatthat vs. PAT's the way uh-huh I like it - Week 10 Last Chance Nu'u vs. Shelfadelphia Eagles - Week 8 Shelfadelphia Eagles vs. MAGAroppolo - Week 9",
+              "Touchdowns": "1"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Last Chance Nu'u vs. Beartown Beasts - Week 10, Season 2020 MAGAroppolo vs. The Flea Flickers - Week 13, Season 2020 My Ball Zach Ertz vs. Last Chance Nu'u - Week 13, Season 2020",
+              "Touchdowns": "1"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Last Chance Nu'u",
+              "Touchdowns": "70 (4.11)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Brees Nutz , Season 2021",
+              "Touchdowns": "3"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16",
+              "Yards": "525"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16, Season 2021",
+              "Yards": "525"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Yards": "5291 (311.23)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2021",
+              "Yards": "5291"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Brees Nutz vs. MAGAroppolo - Week 11 Last Chance Nu'u vs. Meh - Week 11 Beartown Beasts vs. Shelfadelphia Eagles - Week 7",
+              "Yards": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 7, Season 2021",
+              "Yards": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "MAGAroppolo",
+              "Yards": "3768 (221.64)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "The Flea Flickers , Season 2021",
+              "Yards": "133"
+            }
+          ]
+        },
+        {
+          "section": "Rushing - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Shelfadelphia Eagles vs. MAGAroppolo - Week 9",
+              "Yards": "347"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Last Chance Nu'u vs. Not So Brady Bunch - Week 2, Season 2020",
+              "Yards": "372"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Yards": "3874 (227.88)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2020",
+              "Yards": "4276"
+            }
+          ]
+        },
+        {
+          "section": "Rushing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16",
+              "Yards": "39"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16, Season 2021",
+              "Yards": "39"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Tuacanplayatthat",
+              "Yards": "2332 (137.17)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Last Chance Nu'u , Season 2021",
+              "Yards": "108"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Meh vs. PAT's the way uh-huh I like it - Week 5",
+              "Yards": "548"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Meh vs. PAT's the way uh-huh I like it - Week 5, Season 2021",
+              "Yards": "548"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "MAGAroppolo",
+              "Yards": "5310 (312.35)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "MAGAroppolo , Season 2020",
+              "Yards": "5581"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Beartown Beasts vs. Last Chance Nu'u - Week 12",
+              "Yards": "96"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "The Flea Flickers vs. Last Chance Nu'u - Week 8, Season 2020",
+              "Yards": "88"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Shelfadelphia Eagles",
+              "Yards": "3783 (222.52)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Brees Nutz , Season 2021",
+              "Yards": "195"
+            }
+          ]
+        }
+      ],
+      "head_to_head": [
+        {
+          "section": "Wins",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Wins"
+          ],
+          "rows": [
+            {
+              "Record": "Most Wins",
+              "Record Holder": "MAGAroppolo",
+              "Wins": "12"
+            },
+            {
+              "Record": "Most Wins in a Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Wins": "12"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "Brees Nutz MAGAroppolo",
+              "Wins": "5"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020 My Ball Zach Ertz , Season 2020 The Flea Flickers , Season 2020",
+              "Wins": "5"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "Brees Nutz MAGAroppolo",
+              "Wins": "2"
+            }
+          ]
+        },
+        {
+          "section": "Losses",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Losses"
+          ],
+          "rows": [
+            {
+              "Record": "Most Losses",
+              "Record Holder": "PAT's the way uh-huh I like it Last Chance Nu'u",
+              "Losses": "10"
+            },
+            {
+              "Record": "Most Losses, All Time",
+              "Record Holder": "Meh , Season 2020 Not So Brady Bunch , Season 2020",
+              "Losses": "11"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "Last Chance Nu'u",
+              "Losses": "7"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "The Flea Flickers , Season 2020",
+              "Losses": "7"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "Last Chance Nu'u",
+              "Losses": "7"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "MAGAroppolo vs. Beartown Beasts - Week 16",
+              "Margin": "72.68"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Margin": "103.18"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "The Flea Flickers",
+              "Margin": "31.92"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Not So Brady Bunch , Season 2020",
+              "Margin": "42.25"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Shelfadelphia Eagles vs. My Ball Zach Ertz - Week 1",
+              "Margin": "0.12"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Shelfadelphia Eagles vs. My Ball Zach Ertz - Week 1, Season 2021",
+              "Margin": "0.12"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Beartown Beasts",
+              "Margin": "19.14"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Meh , Season 2020",
+              "Margin": "18.50"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Beartown Beasts vs. MAGAroppolo - Week 16",
+              "Margin": "72.68"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Shelfadelphia Eagles vs. Beartown Beasts - Week 16, Season 2020",
+              "Margin": "103.18"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Beartown Beasts",
+              "Margin": "31.65"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Shelfadelphia Eagles , Season 2020",
+              "Margin": "53.16"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. Shelfadelphia Eagles - Week 1",
+              "Margin": "0.12"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "My Ball Zach Ertz vs. Shelfadelphia Eagles - Week 1, Season 2021",
+              "Margin": "0.12"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "My Ball Zach Ertz",
+              "Margin": "19.93"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "MAGAroppolo , Season 2020",
+              "Margin": "17.50"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Hardest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "My Ball Zach Ertz",
+              "Average": "109.69"
+            },
+            {
+              "Record": "Weekly Average, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2021",
+              "Average": "114.61"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Easiest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "MAGAroppolo",
+              "Average": "92.38"
+            },
+            {
+              "Record": "Weekly Average, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Average": "101.19"
+            }
+          ]
+        }
+      ],
+      "team_points": [
+        {
+          "section": "Team Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers vs. My Ball Zach Ertz - Week 11",
+              "Points": "168.90"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "191.40"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Points": "1932.54 (113.67)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Points": "2014"
+            }
+          ]
+        },
+        {
+          "section": "Team Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "MAGAroppolo vs. Shelfadelphia Eagles - Week 9",
+              "Points": "55.60"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "MAGAroppolo vs. Shelfadelphia Eagles - Week 9, Season 2021",
+              "Points": "55.60"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Last Chance Nu'u",
+              "Points": "1382.1 (92.14)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "The Flea Flickers , Season 2021",
+              "Points": "80"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. The Flea Flickers - Week 2",
+              "Points": "161.44"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Points": "1810.54 (106.50)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Points": "1926"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "MAGAroppolo vs. Shelfadelphia Eagles - Week 9",
+              "Points": "47.6"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "MAGAroppolo vs. Shelfadelphia Eagles - Week 9, Season 2021",
+              "Points": "47.6"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Shelfadelphia Eagles",
+              "Points": "1266.3 (84.42)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Brees Nutz , Season 2021",
+              "Points": "73"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Meh vs. Last Chance Nu'u - Week 11",
+              "Points": "28"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Meh vs. Last Chance Nu'u - Week 11, Season 2021",
+              "Points": "28"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Meh",
+              "Points": "192 (11.29)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Meh , Season 2021",
+              "Points": "192"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Tuacanplayatthat vs. PAT's the way uh-huh I like it - Week 1 MAGAroppolo vs. Brees Nutz - Week 11 Brees Nutz vs. Meh - Week 17",
+              "Points": "-4"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "MAGAroppolo vs. My Ball Zach Ertz - Week 5, Season 2020",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Last Chance Nu'u",
+              "Points": "96 (5.88)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Tuacanplayatthat , Season 2021",
+              "Points": "-4"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. The Flea Flickers - Week 2",
+              "Points": "164.44"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Points": "1628.8 (95.81)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Points": "1860"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Shelfadelphia Eagles - Week 16 Last Chance Nu'u - Week 16",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Shelfadelphia Eagles vs. - Week 16, Season 2021 Last Chance Nu'u vs. - Week 16, Season 2021",
+              "Points": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Last Chance Nu'u",
+              "Points": "953.92 (56.11)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "The Flea Flickers , Season 2021",
+              "Points": "80"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Tuacanplayatthat vs. The Flea Flickers - Week 14",
+              "Points": "73.7"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Shelfadelphia Eagles vs. Not So Brady Bunch - Week 13, Season 2020",
+              "Points": "114.6"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Meh",
+              "Points": "526.88 (32.93)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Meh , Season 2020",
+              "Points": "820"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Tuacanplayatthat vs. PAT's the way uh-huh I like it - Week 1",
+              "Points": "-4"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Tuacanplayatthat vs. PAT's the way uh-huh I like it - Week 1, Season 2021",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Points": "118.78 (10.2)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Tuacanplayatthat , Season 2021",
+              "Points": "-4"
+            }
+          ]
+        }
+      ]
+    },
+    "2022": {
+      "head_to_head": [
+        {
+          "section": "Wins",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Wins"
+          ],
+          "rows": [
+            {
+              "Record": "Most Wins",
+              "Record Holder": "San Franshelfo 49ers",
+              "Wins": "13"
+            },
+            {
+              "Record": "Most Wins in a Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2022",
+              "Wins": "13"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "San Franshelfo 49ers My Ball Zach Ertz",
+              "Wins": "7"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2022",
+              "Wins": "7"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Wins": "4"
+            }
+          ]
+        },
+        {
+          "section": "Losses",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Losses"
+          ],
+          "rows": [
+            {
+              "Record": "Most Losses",
+              "Record Holder": "Brees Nutz",
+              "Losses": "12"
+            },
+            {
+              "Record": "Most Losses, All Time",
+              "Record Holder": "Brees Nutz , Season 2022",
+              "Losses": "12"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "Beartown Beasts Brees Nutz",
+              "Losses": "6"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "Last Chance Nu'u , Season 2021",
+              "Losses": "7"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "The Flea Flickers My Ball Zach Ertz",
+              "Losses": "3"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. The Flea Flickers - Week 13",
+              "Margin": "82.58"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Margin": "103.18"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "San Franshelfo 49ers",
+              "Margin": "41.54"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Not So Brady Bunch , Season 2020",
+              "Margin": "42.25"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "School Of Brock vs. Tuacanplayatthat - Week 6",
+              "Margin": "0.16"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Shelfadelphia Eagles vs. My Ball Zach Ertz - Week 1, Season 2021",
+              "Margin": "0.12"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Brees Nutz",
+              "Margin": "11.65"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Meh , Season 2020",
+              "Margin": "18.50"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers vs. San Franshelfo 49ers - Week 13",
+              "Margin": "82.58"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Shelfadelphia Eagles vs. Beartown Beasts - Week 16, Season 2020",
+              "Margin": "103.18"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "San Franshelfo 49ers",
+              "Margin": "38.60"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Shelfadelphia Eagles , Season 2020",
+              "Margin": "53.16"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Tuacanplayatthat vs. School Of Brock - Week 6",
+              "Margin": "0.16"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "My Ball Zach Ertz vs. Shelfadelphia Eagles - Week 1, Season 2021",
+              "Margin": "0.12"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Beartown Beasts",
+              "Margin": "15.13"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "MAGAroppolo , Season 2020",
+              "Margin": "17.50"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Hardest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "School Of Brock",
+              "Average": "115.28"
+            },
+            {
+              "Record": "Weekly Average, All Time",
+              "Record Holder": "School Of Brock , Season 2022",
+              "Average": "114.61"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Easiest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "Tuacanplayatthat",
+              "Average": "95.24"
+            },
+            {
+              "Record": "Weekly Average, All Time",
+              "Record Holder": "MAGAroppolo , Season 2021",
+              "Average": "92.38"
+            }
+          ]
+        }
+      ],
+      "team_points": [
+        {
+          "section": "Team Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "School Of Brock vs. Last Chance Nu'u - Week 15",
+              "Points": "165.80"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "191.40"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "San Franshelfo 49ers",
+              "Points": "2042.32 (120.13)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2022",
+              "Points": "2042"
+            }
+          ]
+        },
+        {
+          "section": "Team Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers vs. San Franshelfo 49ers - Week 13",
+              "Points": "50.34"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "The Flea Flickers vs. San Franshelfo 49ers - Week 13, Season 2022",
+              "Points": "50.34"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Brees Nutz",
+              "Points": "1285 (85.66)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Tuacanplayatthat , Season 2022",
+              "Points": "81"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "School Of Brock vs. Last Chance Nu'u - Week 15",
+              "Points": "164.8"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "San Franshelfo 49ers",
+              "Points": "1902.32 (111.90)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Points": "1926"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers vs. San Franshelfo 49ers - Week 13",
+              "Points": "46.34"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "The Flea Flickers vs. San Franshelfo 49ers - Week 13, Season 2022",
+              "Points": "46.34"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Brees Nutz",
+              "Points": "1217 (81.13)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Brees Nutz , Season 2022",
+              "Points": "79"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Red Zone 1.0 vs. PAT's the way uh-huh I like it - Week 13",
+              "Points": "30"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Red Zone 1.0 vs. PAT's the way uh-huh I like it - Week 13, Season 2022",
+              "Points": "30"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "MAGAroppolo My Ball Zach Ertz",
+              "Points": "164 (9.64)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Meh , Season 2021",
+              "Points": "192"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Brees Nutz vs. The Flea Flickers - Week 3",
+              "Points": "-4"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Tuacanplayatthat vs. PAT's the way uh-huh I like it - Week 1, Season 2021 MAGAroppolo vs. Brees Nutz - Week 11, Season 2021 Brees Nutz vs. Meh - Week 17, Season 2021",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Brees Nutz",
+              "Points": "68 (4.53)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Tuacanplayatthat , Season 2022",
+              "Points": "1"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers vs. San Franshelfo 49ers - Week 2",
+              "Points": "143.42"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Points": "1757.74 (103.39)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Points": "1860"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers - Week 16 Beartown Beasts - Week 16 Brees Nutz - Week 16 Hot Chubb Time Machine - Week 16",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Shelfadelphia Eagles vs. - Week 16, Season 2021 Last Chance Nu'u vs. - Week 16, Season 2021",
+              "Points": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "MAGAroppolo",
+              "Points": "976.86 (57.46)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Tuacanplayatthat , Season 2022",
+              "Points": "81"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "MAGAroppolo vs. School Of Brock - Week 13",
+              "Points": "100.18"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Shelfadelphia Eagles vs. Not So Brady Bunch - Week 13, Season 2020",
+              "Points": "114.6"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "MAGAroppolo",
+              "Points": "772.16 (48.26)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Meh , Season 2020",
+              "Points": "820"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Red Zone 1.0 vs. The Flea Flickers - Week 4",
+              "Points": "-2.6"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Tuacanplayatthat vs. PAT's the way uh-huh I like it - Week 1, Season 2021",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Beartown Beasts",
+              "Points": "27.98 (2.54)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Red Zone 1.0 , Season 2022",
+              "Points": "-2"
+            }
+          ]
+        }
+      ],
+      "team_stats": [
+        {
+          "section": "Touchdowns - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Tuacanplayatthat vs. San Franshelfo 49ers - Week 8",
+              "Touchdowns": "12"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Touchdowns": "16"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "San Franshelfo 49ers",
+              "Touchdowns": "107 (6.29)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Touchdowns": "129"
+            }
+          ]
+        },
+        {
+          "section": "Touchdowns - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Last Chance Nu'u vs. San Franshelfo 49ers - Week 6",
+              "Touchdowns": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Last Chance Nu'u vs. San Franshelfo 49ers - Week 6, Season 2022",
+              "Touchdowns": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Red Zone 1.0",
+              "Touchdowns": "65 (3.82)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "MAGAroppolo , Season 2022 Brees Nutz , Season 2022",
+              "Touchdowns": "2"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Hot Chubb Time Machine vs. School Of Brock - Week 7",
+              "Yards": "481"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16, Season 2021",
+              "Yards": "525"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "San Franshelfo 49ers",
+              "Yards": "5258 (309.29)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2021",
+              "Yards": "5291"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers - Week 17 Beartown Beasts - Week 17 Hot Chubb Time Machine - Week 17",
+              "Yards": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. MAGAroppolo - Week 11, Season 2021 Last Chance Nu'u vs. Meh - Week 11, Season 2021 Beartown Beasts vs. Shelfadelphia Eagles - Week 7, Season 2021",
+              "Yards": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "The Flea Flickers",
+              "Yards": "3261 (191.82)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "MAGAroppolo , Season 2022",
+              "Yards": "164"
+            }
+          ]
+        },
+        {
+          "section": "Rushing - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "School Of Brock vs. Brees Nutz - Week 8",
+              "Yards": "503"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "School Of Brock vs. Brees Nutz - Week 8, Season 2022",
+              "Yards": "503"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "School Of Brock",
+              "Yards": "5247 (308.64)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "School Of Brock , Season 2022",
+              "Yards": "5247"
+            }
+          ]
+        },
+        {
+          "section": "Rushing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Brees Nutz vs. My Ball Zach Ertz - Week 13",
+              "Yards": "45"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16, Season 2021",
+              "Yards": "39"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Brees Nutz",
+              "Yards": "1648 (96.94)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Brees Nutz , Season 2022",
+              "Yards": "79"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. Red Zone 1.0 - Week 14",
+              "Yards": "492"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Meh vs. PAT's the way uh-huh I like it - Week 5, Season 2021",
+              "Yards": "548"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "San Franshelfo 49ers",
+              "Yards": "5566 (327.41)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "MAGAroppolo , Season 2020",
+              "Yards": "5581"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. San Franshelfo 49ers - Week 17",
+              "Yards": "101"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "The Flea Flickers vs. Last Chance Nu'u - Week 8, Season 2020",
+              "Yards": "88"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "The Flea Flickers",
+              "Yards": "4229 (248.76)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Tuacanplayatthat , Season 2022",
+              "Yards": "197"
+            }
+          ]
+        }
+      ]
+    },
+    "2023": {
+      "head_to_head": [
+        {
+          "section": "Wins",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Wins"
+          ],
+          "rows": [
+            {
+              "Record": "Most Wins",
+              "Record Holder": "Geno-less midnight runners",
+              "Wins": "12"
+            },
+            {
+              "Record": "Most Wins in a Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2022",
+              "Wins": "13"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "Lights Camera Jackson",
+              "Wins": "6"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2022 My Ball Zach Ertz , Season 2022",
+              "Wins": "7"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "Geno-less midnight runners Play off push Fields of Flowers",
+              "Wins": "2"
+            }
+          ]
+        },
+        {
+          "section": "Losses",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Losses"
+          ],
+          "rows": [
+            {
+              "Record": "Most Losses",
+              "Record Holder": "The Flea Flickers My Ball Zach Ertz PAT's the way uh-huh I like it",
+              "Losses": "10"
+            },
+            {
+              "Record": "Most Losses, All Time",
+              "Record Holder": "Brees Nutz , Season 2022",
+              "Losses": "12"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "The Flea Flickers",
+              "Losses": "8"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "The Flea Flickers , Season 2023",
+              "Losses": "8"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "The Flea Flickers",
+              "Losses": "8"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Floor Is Olave vs. Play off push - Week 9",
+              "Margin": "106.66"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Floor Is Olave vs. Play off push - Week 9, Season 2023",
+              "Margin": "106.66"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Lights Camera Jackson",
+              "Margin": "32.23"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Not So Brady Bunch , Season 2020",
+              "Margin": "42.25"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Red Zone 2.0 vs. Play off push - Week 5",
+              "Margin": "0.04"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Red Zone 2.0 vs. Play off push - Week 5, Season 2023",
+              "Margin": "0.04"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "San Franshelfo 49ers",
+              "Margin": "6.26"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Brees Nutz , Season 2022",
+              "Margin": "11.65"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9",
+              "Margin": "106.66"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Margin": "106.66"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Play off push",
+              "Margin": "39.58"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Shelfadelphia Eagles , Season 2020",
+              "Margin": "53.16"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Play off push vs. Red Zone 2.0 - Week 5",
+              "Margin": "0.04"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Red Zone 2.0 - Week 5, Season 2023",
+              "Margin": "0.04"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Catalina Wine Mixon",
+              "Margin": "13.76"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Beartown Beasts , Season 2022",
+              "Margin": "15.13"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Hardest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "San Franshelfo 49ers",
+              "Average": "111.15"
+            },
+            {
+              "Record": "Weekly Average, All Time",
+              "Record Holder": "School Of Brock , Season 2022",
+              "Average": "115.28"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Easiest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "Geno-less midnight runners",
+              "Average": "98.46"
+            },
+            {
+              "Record": "Weekly Average, All Time",
+              "Record Holder": "MAGAroppolo , Season 2021",
+              "Average": "92.38"
+            }
+          ]
+        }
+      ],
+      "team_stats": [
+        {
+          "section": "Touchdowns - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Floor Is Olave vs. The Flea Flickers - Week 12 Catalina Wine Mixon vs. PAT's the way uh-huh I like it - Week 13",
+              "Touchdowns": "11"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Touchdowns": "16"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Lights Camera Jackson",
+              "Touchdowns": "101 (5.94)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Touchdowns": "129"
+            }
+          ]
+        },
+        {
+          "section": "Touchdowns - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. Catalina Wine Mixon - Week 3 PAT's the way uh-huh I like it - Week 16 Geno-less midnight runners vs. Catalina Wine Mixon - Week 1 Catalina Wine Mixon vs. Fields of Flowers - Week 10 Play off push vs. The Flea Flickers - Week 3 The Flea Flickers vs. Red Zone 2.0 - Week 8",
+              "Touchdowns": "1"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Last Chance Nu'u vs. San Franshelfo 49ers - Week 6, Season 2022",
+              "Touchdowns": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Play off push",
+              "Touchdowns": "61 (3.58)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Geno-less midnight runners , Season 2023",
+              "Touchdowns": "1"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Fields of Flowers vs. Red Zone 2.0 - Week 9",
+              "Yards": "470"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16, Season 2021",
+              "Yards": "525"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Red Zone 2.0",
+              "Yards": "4646 (273.29)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2021",
+              "Yards": "5291"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Red Zone 2.0 - Week 1 Play off push vs. Floor Is Olave - Week 9",
+              "Yards": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "The Flea Flickers vs. - Week 17, Season 2022 Beartown Beasts vs. - Week 17, Season 2022 Hot Chubb Time Machine vs. - Week 17, Season 2022",
+              "Yards": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Play off push",
+              "Yards": "3826 (225.05)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it , Season 2023",
+              "Yards": "0"
+            }
+          ]
+        },
+        {
+          "section": "Rushing - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Lights Camera Jackson vs. Fields of Flowers - Week 14",
+              "Yards": "345"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "School Of Brock vs. Brees Nutz - Week 8, Season 2022",
+              "Yards": "503"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Lights Camera Jackson",
+              "Yards": "3956 (232.70)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "School Of Brock , Season 2022",
+              "Yards": "5247"
+            }
+          ]
+        },
+        {
+          "section": "Rushing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. San Franshelfo 49ers - Week 15 Geno-less midnight runners vs. Brees Nutz - Week 15",
+              "Yards": "43"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16, Season 2021",
+              "Yards": "39"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Yards": "2024 (119.05)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it , Season 2023",
+              "Yards": "78"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Geno-less midnight runners vs. San Franshelfo 49ers - Week 5",
+              "Yards": "491"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Meh vs. PAT's the way uh-huh I like it - Week 5, Season 2021",
+              "Yards": "548"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Geno-less midnight runners",
+              "Yards": "5633 (331.35)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Geno-less midnight runners , Season 2023",
+              "Yards": "5633"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9",
+              "Yards": "79"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Yards": "79"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Play off push",
+              "Yards": "3620 (212.94)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it , Season 2023",
+              "Yards": "152"
+            }
+          ]
+        },
+        {
+          "section": "Field Goals - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Field Goals"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers - Week 17 Play off push vs. Catalina Wine Mixon - Week 6",
+              "Field Goals": "6"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Catalina Wine Mixon - Week 6, Season 2023",
+              "Field Goals": "6"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Play off push",
+              "Field Goals": "35 (2.05)"
+            }
+          ]
+        },
+        {
+          "section": "Field Goals - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Field Goals"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Fields of Flowers vs. Play off push - Week 4 San Franshelfo 49ers vs. Fields of Flowers - Week 1 Lights Camera Jackson vs. The Flea Flickers - Week 13 Geno-less midnight runners vs. PAT's the way uh-huh I like it - Week 14 Red Zone 2.0 vs. Floor Is Olave - Week 3 Brees Nutz vs. The Flea Flickers - Week 5 Catalina Wine Mixon vs. Lights Camera Jackson - Week 5 Floor Is Olave vs. The Flea Flickers - Week 12 Play off push vs. Fields of Flowers - Week 4 My Ball Zach Ertz vs. Red Zone 2.0 - Week 6 The Flea Flickers vs. Catalina Wine Mixon - Week 9",
+              "Field Goals": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "San Franshelfo 49ers vs. Fields of Flowers - Week 1, Season 2023",
+              "Field Goals": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "San Franshelfo 49ers",
+              "Field Goals": "21 (1.23)"
+            }
+          ]
+        }
+      ],
+      "team_points": [
+        {
+          "section": "Team Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Lights Camera Jackson vs. Fields of Flowers - Week 3",
+              "Points": "168.54"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "191.40"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Lights Camera Jackson",
+              "Points": "2033.4 (119.61)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2022",
+              "Points": "2042"
+            }
+          ]
+        },
+        {
+          "section": "Team Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9",
+              "Points": "45.70"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Points": "45.70"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Play off push",
+              "Points": "1384.14 (92.27)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Catalina Wine Mixon , Season 2023",
+              "Points": "67"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Lights Camera Jackson vs. Fields of Flowers - Week 3",
+              "Points": "156.54"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Lights Camera Jackson",
+              "Points": "1808.4 (106.37)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Points": "1926"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9",
+              "Points": "31.7"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Points": "31.7"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Play off push",
+              "Points": "1151.14 (76.74)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it , Season 2023",
+              "Points": "51"
+            }
+          ]
+        },
+        {
+          "section": "Kicking Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Floor Is Olave vs. Geno-less midnight runners - Week 7 Fields of Flowers vs. Lights Camera Jackson - Week 14",
+              "Points": "22"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Floor Is Olave vs. Geno-less midnight runners - Week 7, Season 2023",
+              "Points": "22"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Fields of Flowers",
+              "Points": "153 (9.06)"
+            }
+          ]
+        },
+        {
+          "section": "Kicking Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. The Flea Flickers - Week 11 Brees Nutz vs. Catalina Wine Mixon - Week 17 Catalina Wine Mixon vs. My Ball Zach Ertz - Week 7 Floor Is Olave vs. The Flea Flickers - Week 12 My Ball Zach Ertz vs. Play off push - Week 12",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Catalina Wine Mixon vs. My Ball Zach Ertz - Week 7, Season 2023",
+              "Points": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "San Franshelfo 49ers",
+              "Points": "106 (6.23)"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Red Zone 2.0 - Week 1",
+              "Points": "37"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Red Zone 2.0 - Week 1, Season 2023",
+              "Points": "37"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Fields of Flowers",
+              "Points": "184 (10.93)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Meh , Season 2021",
+              "Points": "192"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. Brees Nutz - Week 10 Geno-less midnight runners vs. Brees Nutz - Week 15",
+              "Points": "-2"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. The Flea Flickers - Week 3, Season 2022",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "The Flea Flickers",
+              "Points": "106 (6.35)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Lights Camera Jackson , Season 2023",
+              "Points": "1"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Lights Camera Jackson vs. Fields of Flowers - Week 3",
+              "Points": "149.84"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Brees Nutz",
+              "Points": "1601.5 (94.20)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Points": "1860"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it - Week 16 Play off push - Week 16 My Ball Zach Ertz - Week 16 The Flea Flickers - Week 16",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "The Flea Flickers vs. - Week 16, Season 2022 Beartown Beasts vs. - Week 16, Season 2022 Brees Nutz vs. - Week 16, Season 2022 Hot Chubb Time Machine vs. - Week 16, Season 2022",
+              "Points": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Catalina Wine Mixon",
+              "Points": "883.72 (51.98)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Catalina Wine Mixon , Season 2023",
+              "Points": "53"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Catalina Wine Mixon vs. PAT's the way uh-huh I like it - Week 13",
+              "Points": "129.8"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Catalina Wine Mixon vs. PAT's the way uh-huh I like it - Week 13, Season 2023",
+              "Points": "129.8"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Floor Is Olave",
+              "Points": "993.48 (58.44)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Floor Is Olave , Season 2023",
+              "Points": "993"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it - Week 16 Play off push - Week 16 My Ball Zach Ertz vs. Fields of Flowers - Week 5 The Flea Flickers vs. San Franshelfo 49ers - Week 11",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Tuacanplayatthat vs. PAT's the way uh-huh I like it - Week 1, Season 2021",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "The Flea Flickers",
+              "Points": "98.22 (7.55)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Brees Nutz , Season 2023",
+              "Points": "1"
+            }
+          ]
+        }
+      ]
+    },
+    "2024": {
+      "team_points": [
+        {
+          "section": "Team Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. My Ball Zach Ertz - Week 11",
+              "Points": "169.40"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "191.40"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Napoleon Kyrenite",
+              "Points": "2143.9 (126.11)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Napoleon Kyrenite , Season 2024",
+              "Points": "2143"
+            }
+          ]
+        },
+        {
+          "section": "Team Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. PAT's the way uh-huh I like it - Week 7",
+              "Points": "58.34"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Points": "45.70"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Points": "1469.46 (97.96)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2024",
+              "Points": "60"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. Napoleon Kyrenite - Week 14",
+              "Points": "143.02"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Napoleon Kyrenite",
+              "Points": "1790.9 (105.34)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Points": "1926"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. For the Love of the game - Week 1",
+              "Points": "47.46"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Points": "31.7"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Brees Nutz",
+              "Points": "1259.84 (83.98)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2024",
+              "Points": "47"
+            }
+          ]
+        },
+        {
+          "section": "Kicking Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Brees Nutz vs. Please Bijan Robinson - Week 1",
+              "Points": "25"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. Please Bijan Robinson - Week 1, Season 2024",
+              "Points": "25"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Points": "182 (10.70)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2024",
+              "Points": "182"
+            }
+          ]
+        },
+        {
+          "section": "Kicking Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Kissing Cousins vs. My Ball Zach Ertz - Week 17",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Kissing Cousins vs. My Ball Zach Ertz - Week 17, Season 2024",
+              "Points": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Jahmyr I Go Again",
+              "Points": "109 (6.70)"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Napoleon Kyrenite vs. The Flea Flickers - Week 16",
+              "Points": "25"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Red Zone 2.0 - Week 1, Season 2023",
+              "Points": "37"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Napoleon Kyrenite",
+              "Points": "195 (11.47)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Napoleon Kyrenite , Season 2024",
+              "Points": "195"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "For the Love of the game vs. Jahmyr I Go Again - Week 14",
+              "Points": "-4"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. The Flea Flickers - Week 3, Season 2022",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Points": "81 (5.11)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Red Zone 2.0 , Season 2024 Kissing Cousins , Season 2024 My Ball Zach Ertz , Season 2024",
+              "Points": "2"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Jahmyr I Go Again - Week 9",
+              "Points": "138.84"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "The Flea Flickers",
+              "Points": "1659.12 (97.59)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Points": "1860"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Red Zone 2.0 - Week 16 Jahmyr I Go Again - Week 16 PAT's the way uh-huh I like it - Week 16 Brees Nutz - Week 16",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it vs. - Week 16, Season 2023 Play off push vs. - Week 16, Season 2023 My Ball Zach Ertz vs. - Week 16, Season 2023 The Flea Flickers vs. - Week 16, Season 2023",
+              "Points": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Brees Nutz",
+              "Points": "838.48 (49.32)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2024",
+              "Points": "59"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Napoleon Kyrenite vs. San Franshelfo 49ers - Week 15",
+              "Points": "94.24"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Catalina Wine Mixon vs. PAT's the way uh-huh I like it - Week 13, Season 2023",
+              "Points": "129.8"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Napoleon Kyrenite",
+              "Points": "833.48 (49.02)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Floor Is Olave , Season 2023",
+              "Points": "993"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Red Zone 2.0 - Week 16 Jahmyr I Go Again - Week 16 PAT's the way uh-huh I like it vs. San Franshelfo 49ers - Week 8 Brees Nutz - Week 16 Play off push vs. My Ball Zach Ertz - Week 2",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Tuacanplayatthat vs. PAT's the way uh-huh I like it - Week 1, Season 2021",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Points": "63.98 (5.81)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Play off push , Season 2024",
+              "Points": "0"
+            }
+          ]
+        }
+      ],
+      "head_to_head": [
+        {
+          "section": "Wins",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Wins"
+          ],
+          "rows": [
+            {
+              "Record": "Most Wins",
+              "Record Holder": "Napoleon Kyrenite The Flea Flickers For the Love of the game",
+              "Wins": "11"
+            },
+            {
+              "Record": "Most Wins in a Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2022",
+              "Wins": "13"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "San Franshelfo 49ers Kissing Cousins",
+              "Wins": "6"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2022 My Ball Zach Ertz , Season 2022",
+              "Wins": "7"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "Kissing Cousins",
+              "Wins": "6"
+            }
+          ]
+        },
+        {
+          "section": "Losses",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Losses"
+          ],
+          "rows": [
+            {
+              "Record": "Most Losses",
+              "Record Holder": "Red Zone 2.0",
+              "Losses": "12"
+            },
+            {
+              "Record": "Most Losses, All Time",
+              "Record Holder": "Brees Nutz , Season 2022",
+              "Losses": "12"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "Brees Nutz Red Zone 2.0",
+              "Losses": "5"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "The Flea Flickers , Season 2023",
+              "Losses": "8"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "San Franshelfo 49ers Jahmyr I Go Again Red Zone 2.0",
+              "Losses": "4"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. My Ball Zach Ertz - Week 11",
+              "Margin": "81.06"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Floor Is Olave vs. Play off push - Week 9, Season 2023",
+              "Margin": "106.66"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "San Franshelfo 49ers",
+              "Margin": "37.99"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Not So Brady Bunch , Season 2020",
+              "Margin": "42.25"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers vs. Napoleon Kyrenite - Week 1",
+              "Margin": "0.34"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Red Zone 2.0 vs. Play off push - Week 5, Season 2023",
+              "Margin": "0.04"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Margin": "13.67"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2023",
+              "Margin": "6.26"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. San Franshelfo 49ers - Week 11",
+              "Margin": "81.06"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Margin": "106.66"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "My Ball Zach Ertz",
+              "Margin": "31.08"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Shelfadelphia Eagles , Season 2020",
+              "Margin": "53.16"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Napoleon Kyrenite vs. The Flea Flickers - Week 1",
+              "Margin": "0.34"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Red Zone 2.0 - Week 5, Season 2023",
+              "Margin": "0.04"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Napoleon Kyrenite",
+              "Margin": "15.11"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Catalina Wine Mixon , Season 2023",
+              "Margin": "13.76"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Hardest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "My Ball Zach Ertz",
+              "Average": "114.72"
+            },
+            {
+              "Record": "Weekly Average, All Time",
+              "Record Holder": "School Of Brock , Season 2022",
+              "Average": "115.28"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Easiest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "For the Love of the game",
+              "Average": "101.68"
+            },
+            {
+              "Record": "Weekly Average, All Time",
+              "Record Holder": "MAGAroppolo , Season 2021",
+              "Average": "92.38"
+            }
+          ]
+        }
+      ],
+      "team_stats": [
+        {
+          "section": "Touchdowns - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. My Ball Zach Ertz - Week 11",
+              "Touchdowns": "11"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Touchdowns": "16"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Jahmyr I Go Again",
+              "Touchdowns": "98 (5.76)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Touchdowns": "129"
+            }
+          ]
+        },
+        {
+          "section": "Touchdowns - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 13",
+              "Touchdowns": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Last Chance Nu'u vs. San Franshelfo 49ers - Week 6, Season 2022",
+              "Touchdowns": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Brees Nutz",
+              "Touchdowns": "67 (3.94)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it , Season 2024",
+              "Touchdowns": "1"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Play off push - Week 10",
+              "Yards": "428"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16, Season 2021",
+              "Yards": "525"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Yards": "4603 (270.76)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2021",
+              "Yards": "5291"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. PAT's the way uh-huh I like it - Week 7",
+              "Yards": "6"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Red Zone 2.0 - Week 1, Season 2023 Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Yards": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "The Flea Flickers",
+              "Yards": "3390 (199.41)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Napoleon Kyrenite , Season 2024",
+              "Yards": "162"
+            }
+          ]
+        },
+        {
+          "section": "Rushing - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. Brees Nutz - Week 5",
+              "Yards": "370"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "School Of Brock vs. Brees Nutz - Week 8, Season 2022",
+              "Yards": "503"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Napoleon Kyrenite",
+              "Yards": "3978 (234)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "School Of Brock , Season 2022",
+              "Yards": "5247"
+            }
+          ]
+        },
+        {
+          "section": "Rushing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Kissing Cousins vs. My Ball Zach Ertz - Week 9",
+              "Yards": "40"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16, Season 2021",
+              "Yards": "39"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Yards": "1569 (92.29)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2024",
+              "Yards": "70"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. Napoleon Kyrenite - Week 14",
+              "Yards": "509"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Meh vs. PAT's the way uh-huh I like it - Week 5, Season 2021",
+              "Yards": "548"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "San Franshelfo 49ers",
+              "Yards": "5096 (299.76)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Geno-less midnight runners , Season 2023",
+              "Yards": "5633"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Please Bijan Robinson vs. My Ball Zach Ertz - Week 6",
+              "Yards": "48"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Please Bijan Robinson vs. My Ball Zach Ertz - Week 6, Season 2024",
+              "Yards": "48"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Yards": "3651 (214.76)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2024",
+              "Yards": "111"
+            }
+          ]
+        },
+        {
+          "section": "Field Goals - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Field Goals"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. My Ball Zach Ertz - Week 11 Brees Nutz vs. Please Bijan Robinson - Week 1",
+              "Field Goals": "6"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "The Flea Flickers vs. - Week 17, Season 2023 Play off push vs. Catalina Wine Mixon - Week 6, Season 2023",
+              "Field Goals": "6"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Field Goals": "38 (2.23)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2024",
+              "Field Goals": "38"
+            }
+          ]
+        },
+        {
+          "section": "Field Goals - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Field Goals"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "For the Love of the game vs. The Flea Flickers - Week 6 Red Zone 2.0 vs. Kissing Cousins - Week 3 Please Bijan Robinson vs. San Franshelfo 49ers - Week 7 PAT's the way uh-huh I like it vs. Please Bijan Robinson - Week 3 The Flea Flickers vs. PAT's the way uh-huh I like it - Week 5 Play off push vs. Napoleon Kyrenite - Week 6 Kissing Cousins vs. Red Zone 2.0 - Week 3 Napoleon Kyrenite vs. San Franshelfo 49ers - Week 4 Jahmyr I Go Again vs. Play off push - Week 4 Brees Nutz vs. Play off push - Week 8 My Ball Zach Ertz vs. Kissing Cousins - Week 17 San Franshelfo 49ers vs. For the Love of the game - Week 1",
+              "Field Goals": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "San Franshelfo 49ers vs. For the Love of the game - Week 1, Season 2024",
+              "Field Goals": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Jahmyr I Go Again",
+              "Field Goals": "22 (1.29)"
+            }
+          ]
+        }
+      ]
+    },
+    "2025": {
+      "team_stats": [
+        {
+          "section": "Touchdowns - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Never Starting Najee - Week 16",
+              "Touchdowns": "12"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Touchdowns": "16"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "The Flea Flickers",
+              "Touchdowns": "103 (6.05)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Touchdowns": "129"
+            }
+          ]
+        },
+        {
+          "section": "Touchdowns - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Touchdowns"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. Strength of Schedule 49ers - Week 10",
+              "Touchdowns": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 13, Season 2024",
+              "Touchdowns": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Unsolicited Nix Pics",
+              "Touchdowns": "55 (3.23)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Grease the Breece , Season 2025 Never Starting Najee , Season 2025",
+              "Touchdowns": "2"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "The Flea Flickers - Week 16",
+              "Yards": "457"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. PAT's the way uh-huh I like it - Week 16, Season 2021",
+              "Yards": "525"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Drake it til you make it",
+              "Yards": "4571 (268.88)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2021",
+              "Yards": "5291"
+            }
+          ]
+        },
+        {
+          "section": "Passing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz - Week 16",
+              "Yards": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Red Zone 2.0 - Week 1, Season 2023 Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Yards": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Belichick Daycare Centre",
+              "Yards": "3382 (198.94)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it , Season 2025",
+              "Yards": "113"
+            }
+          ]
+        },
+        {
+          "section": "Rushing - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "San Franshelfo 49ers vs. Whole lotta Hurts - Week 17",
+              "Yards": "392"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "School Of Brock vs. Brees Nutz - Week 8, Season 2022",
+              "Yards": "503"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Grease the Breece",
+              "Yards": "3565 (209.70)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "School Of Brock , Season 2022",
+              "Yards": "5247"
+            }
+          ]
+        },
+        {
+          "section": "Rushing Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Unsolicited Nix Pics - Week 5",
+              "Yards": "3"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Unsolicited Nix Pics - Week 5, Season 2025",
+              "Yards": "3"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Yards": "2204 (129.64)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it , Season 2025",
+              "Yards": "88"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Never Starting Najee - Week 16",
+              "Yards": "578"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Never Starting Najee - Week 16, Season 2025",
+              "Yards": "578"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Never Starting Najee",
+              "Yards": "6157 (362.17)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Never Starting Najee , Season 2025",
+              "Yards": "6157"
+            }
+          ]
+        },
+        {
+          "section": "Receiving Yards - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Yards"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Dak to the Future vs. The Flea Flickers - Week 11",
+              "Yards": "89"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Please Bijan Robinson vs. My Ball Zach Ertz - Week 6, Season 2024",
+              "Yards": "48"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Dak to the Future",
+              "Yards": "3155 (185.58)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2025",
+              "Yards": "110"
+            }
+          ]
+        },
+        {
+          "section": "Field Goals - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Field Goals"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Strength of Schedule 49ers vs. PAT's the way uh-huh I like it - Week 15",
+              "Field Goals": "6"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "San Franshelfo 49ers vs. My Ball Zach Ertz - Week 11, Season 2024 Brees Nutz vs. Please Bijan Robinson - Week 1, Season 2024",
+              "Field Goals": "6"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Strength of Schedule 49ers",
+              "Field Goals": "43 (2.52)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Strength of Schedule 49ers , Season 2025",
+              "Field Goals": "43"
+            }
+          ]
+        },
+        {
+          "section": "Field Goals - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Field Goals"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. Whole lotta Hurts - Week 5 Grease the Breece vs. Whole lotta Hurts - Week 3 Unsolicited Nix Pics vs. Never Starting Najee - Week 13 Whole lotta Hurts vs. The Flea Flickers - Week 2 The Flea Flickers vs. San Franshelfo 49ers - Week 5 Never Starting Najee vs. Belichick Daycare Centre - Week 8 Drake it til you make it vs. Belichick Daycare Centre - Week 1 Strength of Schedule 49ers vs. San Franshelfo 49ers - Week 16 Belichick Daycare Centre vs. Grease the Breece - Week 5 San Franshelfo 49ers vs. PAT's the way uh-huh I like it - Week 2",
+              "Field Goals": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Drake it til you make it vs. Belichick Daycare Centre - Week 1, Season 2025",
+              "Field Goals": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Field Goals": "15 (0.88)"
+            }
+          ]
+        }
+      ],
+      "head_to_head": [
+        {
+          "section": "Wins",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Wins"
+          ],
+          "rows": [
+            {
+              "Record": "Most Wins",
+              "Record Holder": "PAT's the way uh-huh I like it Dak to the Future Never Starting Najee",
+              "Wins": "11"
+            },
+            {
+              "Record": "Most Wins in a Season, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2022",
+              "Wins": "13"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "Never Starting Najee",
+              "Wins": "5"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2022 My Ball Zach Ertz , Season 2022",
+              "Wins": "7"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "San Franshelfo 49ers",
+              "Wins": "4"
+            }
+          ]
+        },
+        {
+          "section": "Losses",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Losses"
+          ],
+          "rows": [
+            {
+              "Record": "Most Losses",
+              "Record Holder": "My Ball Zach Ertz",
+              "Losses": "12"
+            },
+            {
+              "Record": "Most Losses, All Time",
+              "Record Holder": "Red Zone 2.0 , Season 2024",
+              "Losses": "12"
+            },
+            {
+              "Record": "Longest Streak",
+              "Record Holder": "The Flea Flickers",
+              "Losses": "10"
+            },
+            {
+              "Record": "Longest Streak, All Time",
+              "Record Holder": "The Flea Flickers , Season 2025",
+              "Losses": "10"
+            },
+            {
+              "Record": "Current Streak",
+              "Record Holder": "My Ball Zach Ertz",
+              "Losses": "7"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Never Starting Najee - Week 16",
+              "Margin": "74.68"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Floor Is Olave vs. Play off push - Week 9, Season 2023",
+              "Margin": "106.66"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Never Starting Najee",
+              "Margin": "38.69"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Not So Brady Bunch , Season 2020",
+              "Margin": "42.25"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Victory - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Grease the Breece vs. Whole lotta Hurts - Week 3",
+              "Margin": "0.02"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Grease the Breece vs. Whole lotta Hurts - Week 3, Season 2025",
+              "Margin": "0.02"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Unsolicited Nix Pics",
+              "Margin": "10.84"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2023",
+              "Margin": "6.26"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Largest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Never Starting Najee vs. PAT's the way uh-huh I like it - Week 16",
+              "Margin": "74.68"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Margin": "106.66"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "Unsolicited Nix Pics",
+              "Margin": "35.64"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Shelfadelphia Eagles , Season 2020",
+              "Margin": "53.16"
+            }
+          ]
+        },
+        {
+          "section": "Margin of Defeat - Smallest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Margin"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Whole lotta Hurts vs. Grease the Breece - Week 3",
+              "Margin": "0.02"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Whole lotta Hurts vs. Grease the Breece - Week 3, Season 2025",
+              "Margin": "0.02"
+            },
+            {
+              "Record": "Average",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Margin": "17.79"
+            },
+            {
+              "Record": "Average, All Time",
+              "Record Holder": "Catalina Wine Mixon , Season 2023",
+              "Margin": "13.76"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Hardest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "San Franshelfo 49ers",
+              "Average": "115.50"
+            },
+            {
+              "Record": "Weekly Average, All Time",
+              "Record Holder": "San Franshelfo 49ers , Season 2025",
+              "Average": "115.28"
+            }
+          ]
+        },
+        {
+          "section": "Strength of Schedule- Easiest",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Average"
+          ],
+          "rows": [
+            {
+              "Record": "Weekly Average",
+              "Record Holder": "Dak to the Future",
+              "Average": "98.36"
+            },
+            {
+              "Record": "Weekly Average, All Time",
+              "Record Holder": "MAGAroppolo , Season 2021",
+              "Average": "92.38"
+            }
+          ]
+        }
+      ],
+      "team_points": [
+        {
+          "section": "Team Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Never Starting Najee - Week 16",
+              "Points": "199.16"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Never Starting Najee - Week 16, Season 2025",
+              "Points": "199.16"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Never Starting Najee",
+              "Points": "2233.84 (131.40)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Never Starting Najee , Season 2025",
+              "Points": "2233"
+            }
+          ]
+        },
+        {
+          "section": "Team Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. Strength of Schedule 49ers - Week 10",
+              "Points": "42.56"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "My Ball Zach Ertz vs. Strength of Schedule 49ers - Week 10, Season 2025",
+              "Points": "42.56"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Unsolicited Nix Pics",
+              "Points": "1354.72 (90.31)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Drake it til you make it , Season 2025",
+              "Points": "73"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Never Starting Najee - Week 16",
+              "Points": "182.16"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Never Starting Najee",
+              "Points": "1941.84 (114.22)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Never Starting Najee , Season 2025",
+              "Points": "1941"
+            }
+          ]
+        },
+        {
+          "section": "Offensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz vs. Strength of Schedule 49ers - Week 10",
+              "Points": "36.56"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Play off push vs. Floor Is Olave - Week 9, Season 2023",
+              "Points": "31.7"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Unsolicited Nix Pics",
+              "Points": "1112.72 (74.18)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Grease the Breece , Season 2025",
+              "Points": "59"
+            }
+          ]
+        },
+        {
+          "section": "Kicking Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Strength of Schedule 49ers vs. PAT's the way uh-huh I like it - Week 15",
+              "Points": "24"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Brees Nutz vs. Please Bijan Robinson - Week 1, Season 2024",
+              "Points": "25"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Strength of Schedule 49ers",
+              "Points": "192 (11.29)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Strength of Schedule 49ers , Season 2025",
+              "Points": "192"
+            }
+          ]
+        },
+        {
+          "section": "Kicking Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Unsolicited Nix Pics vs. Grease the Breece - Week 15 San Franshelfo 49ers vs. Dak to the Future - Week 4",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "San Franshelfo 49ers vs. Dak to the Future - Week 4, Season 2025",
+              "Points": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "My Ball Zach Ertz",
+              "Points": "86 (5.73)"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Drake it til you make it vs. San Franshelfo 49ers - Week 3 Whole lotta Hurts vs. The Flea Flickers - Week 13",
+              "Points": "30"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Red Zone 2.0 - Week 1, Season 2023",
+              "Points": "37"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Whole lotta Hurts",
+              "Points": "173 (10.17)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Napoleon Kyrenite , Season 2024",
+              "Points": "195"
+            }
+          ]
+        },
+        {
+          "section": "Defensive Points - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Grease the Breece vs. My Ball Zach Ertz - Week 7 Whole lotta Hurts vs. My Ball Zach Ertz - Week 5 The Flea Flickers vs. My Ball Zach Ertz - Week 4",
+              "Points": "-3"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "For the Love of the game vs. Jahmyr I Go Again - Week 14, Season 2024",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Strength of Schedule 49ers",
+              "Points": "75 (4.41)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "PAT's the way uh-huh I like it , Season 2025",
+              "Points": "2"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Never Starting Najee - Week 16",
+              "Points": "182.16"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Beartown Beasts vs. Shelfadelphia Eagles - Week 16, Season 2020",
+              "Points": "184.4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Points": "1729.62 (101.74)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Beartown Beasts , Season 2020",
+              "Points": "1860"
+            }
+          ]
+        },
+        {
+          "section": "Points From Draft Players - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "My Ball Zach Ertz - Week 16 Grease the Breece - Week 16 Unsolicited Nix Pics - Week 16 The Flea Flickers - Week 16",
+              "Points": "0"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Red Zone 2.0 vs. - Week 16, Season 2024 Jahmyr I Go Again vs. - Week 16, Season 2024 PAT's the way uh-huh I like it vs. - Week 16, Season 2024 Brees Nutz vs. - Week 16, Season 2024",
+              "Points": "0"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Unsolicited Nix Pics",
+              "Points": "785.66 (46.21)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Dak to the Future , Season 2025",
+              "Points": "72"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Most",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "Dak to the Future vs. Whole lotta Hurts - Week 12",
+              "Points": "92.26"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Catalina Wine Mixon vs. PAT's the way uh-huh I like it - Week 13, Season 2023",
+              "Points": "129.8"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "Strength of Schedule 49ers",
+              "Points": "817.36 (48.08)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "Floor Is Olave , Season 2023",
+              "Points": "993"
+            }
+          ]
+        },
+        {
+          "section": "Points From Post-Draft Acquisitions - Least",
+          "headers": [
+            "Record",
+            "Record Holder",
+            "Points"
+          ],
+          "rows": [
+            {
+              "Record": "Single Week",
+              "Record Holder": "PAT's the way uh-huh I like it vs. Belichick Daycare Centre - Week 11",
+              "Points": "-2"
+            },
+            {
+              "Record": "Single Week, All Time",
+              "Record Holder": "Tuacanplayatthat vs. PAT's the way uh-huh I like it - Week 1, Season 2021",
+              "Points": "-4"
+            },
+            {
+              "Record": "Season (Average)",
+              "Record Holder": "PAT's the way uh-huh I like it",
+              "Points": "244.9 (16.32)"
+            },
+            {
+              "Record": "Season, All Time",
+              "Record Holder": "My Ball Zach Ertz , Season 2025",
+              "Points": "5"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

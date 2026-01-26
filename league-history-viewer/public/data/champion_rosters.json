@@ -1,0 +1,403 @@
+{
+  "updated_at": "2026-01-05T16:56:01.745188",
+  "champions": [
+    {
+      "season": 2025,
+      "manager": "Kevin",
+      "team_name": "PAT's the way uh-huh I like it",
+      "roster": [
+        {
+          "name": "Joe Burrow",
+          "position": "QB"
+        },
+        {
+          "name": "Puka Nacua",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Chris Olave",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Bijan Robinson",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Jaylen Warren",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Dalton Schultz",
+          "position": "TE,W/R/T"
+        },
+        {
+          "name": "Jaylen Waddle",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Stefon Diggs",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Jared Goff",
+          "position": "QB"
+        },
+        {
+          "name": "Aaron Jones Sr.",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Jauan Jennings",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Harrison Butker",
+          "position": "K"
+        },
+        {
+          "name": "Andy Borregales",
+          "position": "K"
+        },
+        {
+          "name": "Jaguars",
+          "position": "DEF"
+        },
+        {
+          "name": "Brock Bowers",
+          "position": "TE,W/R/T,IR"
+        }
+      ]
+    },
+    {
+      "season": 2024,
+      "manager": "Jack E",
+      "team_name": "Napoleon Kyrenite",
+      "roster": [
+        {
+          "name": "Sam Darnold",
+          "position": "QB"
+        },
+        {
+          "name": "Brian Thomas Jr.",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Ladd McConkey",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Saquon Barkley",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Kyren Williams",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "George Kittle",
+          "position": "TE,W/R/T"
+        },
+        {
+          "name": "Tyjae Spears",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "DeVonta Smith",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "DK Metcalf",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Jameson Williams",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Kyler Murray",
+          "position": "QB"
+        },
+        {
+          "name": "T.J. Hockenson",
+          "position": "TE,W/R/T"
+        },
+        {
+          "name": "Brandon McManus",
+          "position": "K"
+        },
+        {
+          "name": "Dolphins",
+          "position": "DEF"
+        },
+        {
+          "name": "Chargers",
+          "position": "DEF"
+        }
+      ]
+    },
+    {
+      "season": 2023,
+      "manager": "Colin",
+      "team_name": "Geno-less midnight runners",
+      "roster": [
+        {
+          "name": "Jordan Love",
+          "position": "QB"
+        },
+        {
+          "name": "CeeDee Lamb",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "A.J. Brown",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Kenneth Walker III",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Devin Singletary",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Trey McBride",
+          "position": "TE,W/R/T"
+        },
+        {
+          "name": "Jayden Reed",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "DJ Moore",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Javonte Williams",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Breece Hall",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Kyler Murray",
+          "position": "QB"
+        },
+        {
+          "name": "Kenneth Gainwell",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Tyler Bass",
+          "position": "K"
+        },
+        {
+          "name": "Jake Moody",
+          "position": "K"
+        },
+        {
+          "name": "Broncos",
+          "position": "DEF"
+        }
+      ]
+    },
+    {
+      "season": 2022,
+      "manager": "Colin",
+      "team_name": "Tuacanplayatthat",
+      "roster": [
+        {
+          "name": "Aaron Rodgers",
+          "position": "QB"
+        },
+        {
+          "name": "CeeDee Lamb",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Tee Higgins",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Austin Ekeler",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Leonard Fournette",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Taysom Hill",
+          "position": "QB,TE,W/R/T"
+        },
+        {
+          "name": "D'Onta Foreman",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Zay Jones",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Tony Pollard",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Daniel Jones",
+          "position": "QB"
+        },
+        {
+          "name": "Darius Slayton",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Michael Gallup",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Gardner Minshew",
+          "position": "QB"
+        },
+        {
+          "name": "Tyler Higbee",
+          "position": "TE,W/R/T"
+        },
+        {
+          "name": "Chiefs",
+          "position": "DEF"
+        },
+        {
+          "name": "Mecole Hardman Jr.",
+          "position": "WR,W/R/T"
+        }
+      ]
+    },
+    {
+      "season": 2021,
+      "manager": "Jake",
+      "team_name": "MAGAroppolo",
+      "roster": [
+        {
+          "name": "Russell Wilson",
+          "position": "QB"
+        },
+        {
+          "name": "Stefon Diggs",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Davante Adams",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Ronald Jones",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Sony Michel",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Gerald Everett",
+          "position": "TE,W/R/T"
+        },
+        {
+          "name": "Amon-Ra St. Brown",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Kyle Pitts Sr.",
+          "position": "TE,W/R/T"
+        },
+        {
+          "name": "Clyde Edwards-Helaire",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "A.J. Dillon",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Terry McLaurin",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Damien Harris",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Alexander Mattison",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Bills",
+          "position": "DEF"
+        }
+      ]
+    },
+    {
+      "season": 2020,
+      "manager": "Brendan",
+      "team_name": "Beartown Beasts",
+      "roster": [
+        {
+          "name": "Josh Allen",
+          "position": "QB"
+        },
+        {
+          "name": "Davante Adams",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Adam Thielen",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Alvin Kamara",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Jonathan Taylor",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Darren Waller",
+          "position": "TE,W/R/T"
+        },
+        {
+          "name": "Robert Woods",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Antonio Gibson",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Kenyan Drake",
+          "position": "RB,W/R/T"
+        },
+        {
+          "name": "Robbie Chosen",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "DJ Moore",
+          "position": "WR,W/R/T"
+        },
+        {
+          "name": "Mitchell Trubisky",
+          "position": "QB"
+        },
+        {
+          "name": "Bills",
+          "position": "DEF"
+        },
+        {
+          "name": "Cardinals",
+          "position": "DEF"
+        }
+      ]
+    }
+  ]
+}

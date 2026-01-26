@@ -1,0 +1,907 @@
+{
+  "fantasy_content": {
+    "xml:lang": "en-US",
+    "yahoo:uri": "/fantasy/v2/league/399.l.857293/standings",
+    "league": [
+      {
+        "league_key": "399.l.857293",
+        "league_id": "857293",
+        "name": "NFL UK 2020",
+        "url": "https://football.fantasysports.yahoo.com/2020/f1/857293",
+        "logo_url": false,
+        "password": "",
+        "draft_status": "postdraft",
+        "num_teams": 8,
+        "edit_key": "16",
+        "weekly_deadline": "",
+        "roster_type": "week",
+        "league_update_timestamp": "1610006875",
+        "scoring_type": "head",
+        "league_type": "private",
+        "renew": "",
+        "renewed": "406_787594",
+        "felo_tier": "silver",
+        "is_highscore": false,
+        "matchup_week": 16,
+        "iris_group_chat_id": "",
+        "short_invitation_url": "https://football.fantasysports.yahoo.com/2020/f1/857293/invitation?key=c1ec9f15bba82892&ikey=fcbe42edd3f3e1c4",
+        "allow_add_to_dl_extra_pos": 1,
+        "is_pro_league": "0",
+        "is_cash_league": "0",
+        "current_week": "16",
+        "start_week": "1",
+        "start_date": "2020-09-10",
+        "end_week": "16",
+        "end_date": "2020-12-28",
+        "is_finished": 1,
+        "is_plus_league": "0",
+        "game_code": "nfl",
+        "season": "2020"
+      },
+      {
+        "standings": [
+          {
+            "teams": {
+              "0": {
+                "team": [
+                  [
+                    {
+                      "team_key": "399.l.857293.t.7"
+                    },
+                    {
+                      "team_id": "7"
+                    },
+                    {
+                      "name": "Beartown Beasts"
+                    },
+                    [],
+                    {
+                      "url": "https://football.fantasysports.yahoo.com/2020/f1/857293/7"
+                    },
+                    {
+                      "team_logos": [
+                        {
+                          "team_logo": {
+                            "size": "large",
+                            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_4_b.png"
+                          }
+                        }
+                      ]
+                    },
+                    [],
+                    [],
+                    {
+                      "waiver_priority": 8
+                    },
+                    [],
+                    {
+                      "number_of_moves": 13
+                    },
+                    {
+                      "number_of_trades": 0
+                    },
+                    {
+                      "roster_adds": {
+                        "coverage_type": "week",
+                        "coverage_value": 17,
+                        "value": "0"
+                      }
+                    },
+                    {
+                      "clinched_playoffs": 1
+                    },
+                    {
+                      "league_scoring_type": "head"
+                    },
+                    [],
+                    {
+                      "draft_position": 6
+                    },
+                    {
+                      "has_draft_grade": 1,
+                      "draft_grade": "C",
+                      "draft_recap_url": "https://football.fantasysports.yahoo.com/2020/f1/857293/7/draftrecap"
+                    },
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    {
+                      "managers": [
+                        {
+                          "manager": {
+                            "manager_id": "7",
+                            "nickname": "brendan",
+                            "guid": "YDRG7ACMKKD5GASWRQ5S6NBLUQ",
+                            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                            "felo_score": "738",
+                            "felo_tier": "gold"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  {
+                    "team_points": {
+                      "coverage_type": "season",
+                      "season": "2020",
+                      "total": "1679.22"
+                    }
+                  },
+                  {
+                    "team_standings": {
+                      "rank": 1,
+                      "playoff_seed": "1",
+                      "outcome_totals": {
+                        "wins": "10",
+                        "losses": "4",
+                        "ties": 0,
+                        "percentage": ".714"
+                      },
+                      "streak": {
+                        "type": "loss",
+                        "value": "1"
+                      },
+                      "points_for": "1679.22",
+                      "points_against": 1400.78
+                    }
+                  }
+                ]
+              },
+              "1": {
+                "team": [
+                  [
+                    {
+                      "team_key": "399.l.857293.t.2"
+                    },
+                    {
+                      "team_id": "2"
+                    },
+                    {
+                      "name": "Shelfadelphia Eagles"
+                    },
+                    [],
+                    {
+                      "url": "https://football.fantasysports.yahoo.com/2020/f1/857293/2"
+                    },
+                    {
+                      "team_logos": [
+                        {
+                          "team_logo": {
+                            "size": "large",
+                            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_4.png"
+                          }
+                        }
+                      ]
+                    },
+                    [],
+                    [],
+                    {
+                      "waiver_priority": 7
+                    },
+                    [],
+                    {
+                      "number_of_moves": 26
+                    },
+                    {
+                      "number_of_trades": "2"
+                    },
+                    {
+                      "roster_adds": {
+                        "coverage_type": "week",
+                        "coverage_value": 17,
+                        "value": "0"
+                      }
+                    },
+                    {
+                      "clinched_playoffs": 1
+                    },
+                    {
+                      "league_scoring_type": "head"
+                    },
+                    [],
+                    {
+                      "draft_position": 1
+                    },
+                    {
+                      "has_draft_grade": 1,
+                      "draft_grade": "A-",
+                      "draft_recap_url": "https://football.fantasysports.yahoo.com/2020/f1/857293/2/draftrecap"
+                    },
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    {
+                      "managers": [
+                        {
+                          "manager": {
+                            "manager_id": "2",
+                            "nickname": "Chris",
+                            "guid": "RJXXB77GUE3LSJX2BMTW7L52RY",
+                            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                            "felo_score": "654",
+                            "felo_tier": "silver"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  {
+                    "team_points": {
+                      "coverage_type": "season",
+                      "season": "2020",
+                      "total": "1561.76"
+                    }
+                  },
+                  {
+                    "team_standings": {
+                      "rank": 2,
+                      "playoff_seed": "2",
+                      "outcome_totals": {
+                        "wins": "9",
+                        "losses": "5",
+                        "ties": 0,
+                        "percentage": ".643"
+                      },
+                      "streak": {
+                        "type": "win",
+                        "value": "3"
+                      },
+                      "points_for": "1561.76",
+                      "points_against": 1553.24
+                    }
+                  }
+                ]
+              },
+              "2": {
+                "team": [
+                  [
+                    {
+                      "team_key": "399.l.857293.t.3"
+                    },
+                    {
+                      "team_id": "3"
+                    },
+                    {
+                      "name": "My Ball Zach Ertz"
+                    },
+                    [],
+                    {
+                      "url": "https://football.fantasysports.yahoo.com/2020/f1/857293/3"
+                    },
+                    {
+                      "team_logos": [
+                        {
+                          "team_logo": {
+                            "size": "large",
+                            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png"
+                          }
+                        }
+                      ]
+                    },
+                    [],
+                    [],
+                    {
+                      "waiver_priority": 6
+                    },
+                    [],
+                    {
+                      "number_of_moves": 29
+                    },
+                    {
+                      "number_of_trades": 0
+                    },
+                    {
+                      "roster_adds": {
+                        "coverage_type": "week",
+                        "coverage_value": 17,
+                        "value": "0"
+                      }
+                    },
+                    {
+                      "clinched_playoffs": 1
+                    },
+                    {
+                      "league_scoring_type": "head"
+                    },
+                    [],
+                    {
+                      "draft_position": 4
+                    },
+                    {
+                      "has_draft_grade": 1,
+                      "draft_grade": "B",
+                      "draft_recap_url": "https://football.fantasysports.yahoo.com/2020/f1/857293/3/draftrecap"
+                    },
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    {
+                      "managers": [
+                        {
+                          "manager": {
+                            "manager_id": "3",
+                            "nickname": "jack",
+                            "guid": "W5PHQSFFL5OPLY7TLASAAOTZ6M",
+                            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                            "felo_score": "721",
+                            "felo_tier": "gold"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  {
+                    "team_points": {
+                      "coverage_type": "season",
+                      "season": "2020",
+                      "total": "1513.72"
+                    }
+                  },
+                  {
+                    "team_standings": {
+                      "rank": 3,
+                      "playoff_seed": "3",
+                      "outcome_totals": {
+                        "wins": "8",
+                        "losses": "6",
+                        "ties": 0,
+                        "percentage": ".571"
+                      },
+                      "streak": {
+                        "type": "win",
+                        "value": "1"
+                      },
+                      "points_for": "1513.72",
+                      "points_against": 1439.9199999999998
+                    }
+                  }
+                ]
+              },
+              "3": {
+                "team": [
+                  [
+                    {
+                      "team_key": "399.l.857293.t.4"
+                    },
+                    {
+                      "team_id": "4"
+                    },
+                    {
+                      "name": "MAGAroppolo"
+                    },
+                    [],
+                    {
+                      "url": "https://football.fantasysports.yahoo.com/2020/f1/857293/4"
+                    },
+                    {
+                      "team_logos": [
+                        {
+                          "team_logo": {
+                            "size": "large",
+                            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_9_j.png"
+                          }
+                        }
+                      ]
+                    },
+                    [],
+                    [],
+                    {
+                      "waiver_priority": 5
+                    },
+                    [],
+                    {
+                      "number_of_moves": 26
+                    },
+                    {
+                      "number_of_trades": 0
+                    },
+                    {
+                      "roster_adds": {
+                        "coverage_type": "week",
+                        "coverage_value": 17,
+                        "value": "0"
+                      }
+                    },
+                    {
+                      "clinched_playoffs": 1
+                    },
+                    {
+                      "league_scoring_type": "head"
+                    },
+                    [],
+                    {
+                      "draft_position": 3
+                    },
+                    {
+                      "has_draft_grade": 1,
+                      "draft_grade": "B",
+                      "draft_recap_url": "https://football.fantasysports.yahoo.com/2020/f1/857293/4/draftrecap"
+                    },
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    {
+                      "managers": [
+                        {
+                          "manager": {
+                            "manager_id": "4",
+                            "nickname": "Jake",
+                            "guid": "DDOO2OL2F25RLJHQN2L2MWUQEY",
+                            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                            "felo_score": "593",
+                            "felo_tier": "bronze"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  {
+                    "team_points": {
+                      "coverage_type": "season",
+                      "season": "2020",
+                      "total": "1552.04"
+                    }
+                  },
+                  {
+                    "team_standings": {
+                      "rank": 4,
+                      "playoff_seed": "4",
+                      "outcome_totals": {
+                        "wins": "7",
+                        "losses": "7",
+                        "ties": 0,
+                        "percentage": ".500"
+                      },
+                      "streak": {
+                        "type": "win",
+                        "value": "1"
+                      },
+                      "points_for": "1552.04",
+                      "points_against": 1433.2599999999998
+                    }
+                  }
+                ]
+              },
+              "4": {
+                "team": [
+                  [
+                    {
+                      "team_key": "399.l.857293.t.8"
+                    },
+                    {
+                      "team_id": "8"
+                    },
+                    {
+                      "name": "The Flea Flickers"
+                    },
+                    [],
+                    {
+                      "url": "https://football.fantasysports.yahoo.com/2020/f1/857293/8"
+                    },
+                    {
+                      "team_logos": [
+                        {
+                          "team_logo": {
+                            "size": "large",
+                            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_10_b.png"
+                          }
+                        }
+                      ]
+                    },
+                    [],
+                    [],
+                    {
+                      "waiver_priority": 4
+                    },
+                    [],
+                    {
+                      "number_of_moves": 21
+                    },
+                    {
+                      "number_of_trades": 0
+                    },
+                    {
+                      "roster_adds": {
+                        "coverage_type": "week",
+                        "coverage_value": 17,
+                        "value": "0"
+                      }
+                    },
+                    [],
+                    {
+                      "league_scoring_type": "head"
+                    },
+                    [],
+                    {
+                      "draft_position": 7
+                    },
+                    {
+                      "has_draft_grade": 1,
+                      "draft_grade": "B",
+                      "draft_recap_url": "https://football.fantasysports.yahoo.com/2020/f1/857293/8/draftrecap"
+                    },
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    {
+                      "managers": [
+                        {
+                          "manager": {
+                            "manager_id": "8",
+                            "nickname": "Ben",
+                            "guid": "ZMZY2WUYLMUJBT52LU2O5G7774",
+                            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                            "felo_score": "600",
+                            "felo_tier": "silver"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  {
+                    "team_points": {
+                      "coverage_type": "season",
+                      "season": "2020",
+                      "total": "1458.18"
+                    }
+                  },
+                  {
+                    "team_standings": {
+                      "rank": 5,
+                      "playoff_seed": "5",
+                      "outcome_totals": {
+                        "wins": "7",
+                        "losses": "7",
+                        "ties": 0,
+                        "percentage": ".500"
+                      },
+                      "streak": {
+                        "type": "win",
+                        "value": "2"
+                      },
+                      "points_for": "1458.18",
+                      "points_against": 1521.6599999999996
+                    }
+                  }
+                ]
+              },
+              "5": {
+                "team": [
+                  [
+                    {
+                      "team_key": "399.l.857293.t.5"
+                    },
+                    {
+                      "team_id": "5"
+                    },
+                    {
+                      "name": "Last Chance Nu'u"
+                    },
+                    [],
+                    {
+                      "url": "https://football.fantasysports.yahoo.com/2020/f1/857293/5"
+                    },
+                    {
+                      "team_logos": [
+                        {
+                          "team_logo": {
+                            "size": "large",
+                            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_4_g.png"
+                          }
+                        }
+                      ]
+                    },
+                    [],
+                    [],
+                    {
+                      "waiver_priority": 3
+                    },
+                    [],
+                    {
+                      "number_of_moves": 17
+                    },
+                    {
+                      "number_of_trades": "2"
+                    },
+                    {
+                      "roster_adds": {
+                        "coverage_type": "week",
+                        "coverage_value": 17,
+                        "value": "0"
+                      }
+                    },
+                    [],
+                    {
+                      "league_scoring_type": "head"
+                    },
+                    [],
+                    {
+                      "draft_position": 5
+                    },
+                    {
+                      "has_draft_grade": 1,
+                      "draft_grade": "C",
+                      "draft_recap_url": "https://football.fantasysports.yahoo.com/2020/f1/857293/5/draftrecap"
+                    },
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    {
+                      "managers": [
+                        {
+                          "manager": {
+                            "manager_id": "5",
+                            "nickname": "Graham",
+                            "guid": "SZNKWCU6PCVEJBG4JYEEDGBU3U",
+                            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                            "felo_score": "588",
+                            "felo_tier": "bronze"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  {
+                    "team_points": {
+                      "coverage_type": "season",
+                      "season": "2020",
+                      "total": "1454.74"
+                    }
+                  },
+                  {
+                    "team_standings": {
+                      "rank": 6,
+                      "playoff_seed": "6",
+                      "outcome_totals": {
+                        "wins": "6",
+                        "losses": "8",
+                        "ties": 0,
+                        "percentage": ".429"
+                      },
+                      "streak": {
+                        "type": "loss",
+                        "value": "1"
+                      },
+                      "points_for": "1454.74",
+                      "points_against": 1504.6799999999998
+                    }
+                  }
+                ]
+              },
+              "6": {
+                "team": [
+                  [
+                    {
+                      "team_key": "399.l.857293.t.6"
+                    },
+                    {
+                      "team_id": "6"
+                    },
+                    {
+                      "name": "Not So Brady Bunch"
+                    },
+                    [],
+                    {
+                      "url": "https://football.fantasysports.yahoo.com/2020/f1/857293/6"
+                    },
+                    {
+                      "team_logos": [
+                        {
+                          "team_logo": {
+                            "size": "large",
+                            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png"
+                          }
+                        }
+                      ]
+                    },
+                    [],
+                    [],
+                    {
+                      "waiver_priority": 1
+                    },
+                    [],
+                    {
+                      "number_of_moves": 11
+                    },
+                    {
+                      "number_of_trades": 0
+                    },
+                    {
+                      "roster_adds": {
+                        "coverage_type": "week",
+                        "coverage_value": 17,
+                        "value": "0"
+                      }
+                    },
+                    [],
+                    {
+                      "league_scoring_type": "head"
+                    },
+                    [],
+                    {
+                      "draft_position": 2
+                    },
+                    {
+                      "has_draft_grade": 1,
+                      "draft_grade": "C+",
+                      "draft_recap_url": "https://football.fantasysports.yahoo.com/2020/f1/857293/6/draftrecap"
+                    },
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    {
+                      "managers": [
+                        {
+                          "manager": {
+                            "manager_id": "6",
+                            "nickname": "Kevin",
+                            "guid": "HNJP7YMNF3X73PFEFJXEESEDAI",
+                            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                            "felo_score": "570",
+                            "felo_tier": "bronze"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  {
+                    "team_points": {
+                      "coverage_type": "season",
+                      "season": "2020",
+                      "total": "1397.36"
+                    }
+                  },
+                  {
+                    "team_standings": {
+                      "rank": 7,
+                      "playoff_seed": "8",
+                      "outcome_totals": {
+                        "wins": "4",
+                        "losses": "10",
+                        "ties": 0,
+                        "percentage": ".286"
+                      },
+                      "streak": {
+                        "type": "loss",
+                        "value": "4"
+                      },
+                      "points_for": "1397.36",
+                      "points_against": 1575.3399999999997
+                    }
+                  }
+                ]
+              },
+              "7": {
+                "team": [
+                  [
+                    {
+                      "team_key": "399.l.857293.t.1"
+                    },
+                    {
+                      "team_id": "1"
+                    },
+                    {
+                      "name": "Meh"
+                    },
+                    {
+                      "is_owned_by_current_login": 1
+                    },
+                    {
+                      "url": "https://football.fantasysports.yahoo.com/2020/f1/857293/1"
+                    },
+                    {
+                      "team_logos": [
+                        {
+                          "team_logo": {
+                            "size": "large",
+                            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_3_j.png"
+                          }
+                        }
+                      ]
+                    },
+                    [],
+                    [],
+                    {
+                      "waiver_priority": 2
+                    },
+                    [],
+                    {
+                      "number_of_moves": 50
+                    },
+                    {
+                      "number_of_trades": "2"
+                    },
+                    {
+                      "roster_adds": {
+                        "coverage_type": "week",
+                        "coverage_value": 17,
+                        "value": "0"
+                      }
+                    },
+                    [],
+                    {
+                      "league_scoring_type": "head"
+                    },
+                    [],
+                    {
+                      "draft_position": 8
+                    },
+                    {
+                      "has_draft_grade": 1,
+                      "draft_grade": "B-",
+                      "draft_recap_url": "https://football.fantasysports.yahoo.com/2020/f1/857293/1/draftrecap"
+                    },
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    {
+                      "managers": [
+                        {
+                          "manager": {
+                            "manager_id": "1",
+                            "nickname": "Jamie",
+                            "guid": "7DZT6JCO6YGA4LXODBJCMN4WDU",
+                            "is_commissioner": "1",
+                            "is_current_login": "1",
+                            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                            "felo_score": "621",
+                            "felo_tier": "silver"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  {
+                    "team_points": {
+                      "coverage_type": "season",
+                      "season": "2020",
+                      "total": "1331.72"
+                    }
+                  },
+                  {
+                    "team_standings": {
+                      "rank": 8,
+                      "playoff_seed": "7",
+                      "outcome_totals": {
+                        "wins": "5",
+                        "losses": "9",
+                        "ties": 0,
+                        "percentage": ".357"
+                      },
+                      "streak": {
+                        "type": "loss",
+                        "value": "2"
+                      },
+                      "points_for": "1331.72",
+                      "points_against": 1519.8600000000001
+                    }
+                  }
+                ]
+              },
+              "count": 8
+            }
+          }
+        ]
+      }
+    ],
+    "time": "131.05297088623ms",
+    "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
+    "refresh_rate": "60"
+  }
+}
